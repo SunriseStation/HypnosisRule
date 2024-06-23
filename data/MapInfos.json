@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":false,"name":"mapPlayground","order":1,"parentId":0,"scrollX":498,"scrollY":636.5},
+{"id":2,"expanded":false,"name":"mapTown","order":2,"parentId":0,"scrollX":498,"scrollY":628.5},
+{"id":3,"expanded":false,"name":"mapExit","order":8,"parentId":0,"scrollX":1131,"scrollY":1183},
+{"id":4,"expanded":false,"name":"mapSanctuary","order":4,"parentId":0,"scrollX":1131,"scrollY":1033.5},
+{"id":5,"expanded":false,"name":"mapStation","order":3,"parentId":0,"scrollX":990,"scrollY":628.5},
+{"id":6,"expanded":false,"name":"mapBase","order":5,"parentId":0,"scrollX":1131,"scrollY":667.5},
+{"id":7,"expanded":true,"name":"mapArena","order":6,"parentId":0,"scrollX":702,"scrollY":628.5},
+null,
+{"id":9,"expanded":false,"name":"mapTitle","order":7,"parentId":0,"scrollX":1139,"scrollY":641}
+]

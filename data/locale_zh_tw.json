@@ -1,0 +1,2045 @@
+{
+  "lblAccessory": "配件",
+  "lblAlwaysDash": "始終跑步",
+  "lblArmor": "護甲",
+  "lblAttack": "攻擊",
+  "lblBgmVolume": "BGM 音量",
+  "lblBgsVolume": "BGS 音量",
+  "lblBody": "身體",
+  "lblBuy": "購買",
+  "lblCancel": "取消",
+  "lblCane": "杖",
+  "lblClaw": "爪",
+  "lblClear": "清空",
+  "lblCommandRemember": "記住指令",
+  "lblContinue": "繼續遊戲",
+  "lblCrossbow": "弩",
+  "lblDagger": "匕首",
+  "lblDefeat": "%1被擊敗了。",
+  "lblEmerge": "%1出現了！",
+  "lblEquipment": "裝備",
+  "lblEscape": "逃跑",
+  "lblEscapeFailure": "但是沒有逃跑成功！",
+  "lblEscapeStart": "%1開始逃跑了！",
+  "lblExp": "經驗值",
+  "lblExpNext": "距離下一%1",
+  "lblExpTotal": "現在的%1",
+  "lblFight": "戰鬥",
+  "lblFile": "文件",
+  "lblFlail": "流星錘",
+  "lblFormation": "整隊",
+  "lblGameEnd": "退出",
+  "lblGlove": "手套",
+  "lblGuard": "防禦",
+  "lblGun": "槍",
+  "lblHp": "體力",
+  "lblItem": "物品",
+  "lblKeyItem": "重要物品",
+  "lblLevel": "等級",
+  "lblLevelUp": "%1升到了 %2 %3！",
+  "lblLoadMessage": "讀取哪個文件？",
+  "lblMaxHp": "最大體力",
+  "lblMeVolume": "ME 音量",
+  "lblNewGame": "開始遊戲",
+  "lblObtainExp": "獲得了 %1 點%2！",
+  "lblObtainGold": "獲得了 %1\\G！",
+  "lblObtainItem": "獲得了%1！",
+  "lblObtainSkill": "學會了%1！",
+  "lblOptimize": "最強裝備",
+  "lblOptions": "設置",
+  "lblPartyName": "%1的隊伍",
+  "lblPossession": "持有數",
+  "lblPreemptive": "%1先發製人！",
+  "lblSave": "保存",
+  "lblSaveMessage": "保存到哪個文件？",
+  "lblSeVolume": "SE 音量",
+  "lblSell": "出售",
+  "lblSkill": "技能",
+  "lblSpear": "矛",
+  "lblStatus": "狀態",
+  "lblSurprise": "%1被偷襲了！",
+  "lblSword": "劍",
+  "lblWeapon": "武器",
+  "lblWhip": "鞭",
+  "lblToTitle": "回到標題",
+  "lblUseItem": "%1使用了%2！",
+  "lblVictory": "%1勝利了！",
+  "lblExperience": "經驗值",
+  "lblParameters": "屬性",
+  "lblTotalFormat": "現在的%1距離下一%2",
+  "lblAllEnemies": "所有敵人",
+  "lblAllAllies": "所有友方",
+  "lblMp": "精力",
+  "lblMaxMp": "最大精力",
+  "lblTp": "快感",
+  "lblHit": "命中",
+  "lblEvasion": "閃避",
+  "lblDefense": "防禦",
+  "lblExplosive": "爆發",
+  "lblToughness": "韌性",
+  "lblReaction": "反應",
+  "lblSpeed": "速度",
+  "lblCritRate": "暴擊",
+  "lblRate": "倍率",
+  "lblCooldown": "冷卻",
+  "lblArmorPenetrationRate": "破甲率",
+  "lblLoad": "加載",
+  "lblDelete": "刪除",
+  "lblSelectSave": "請選擇一個存檔",
+  "lblLoadSave": "從存檔讀取數據",
+  "lblSaveData": "保存當前進度",
+  "lblDeleteSave": "刪除該存檔",
+  "lblPlayTime": "遊戲時間",
+  "lblSaveCount": "存檔次數",
+  "lblInvalidSave": "無效的存檔",
+  "lblEmptySave": "空存檔",
+  "lblMapLocation": "所在位置",
+  "lblBlankStatus": "(無異常狀態)",
+  "lblAction": "行動",
+
+  "lblTitle": "規則支配",
+  "lblLanguage": "語言",
+  "lblCredits": "製作名單",
+  "lblMasterVolume": "總音量",
+  "lblLoading": "正在加載",
+  "lblLoadComplete": "加載完畢",
+  "lblTextDelay": "戰鬥文本速度",
+  "lblNextLevel": "距離下一級",
+  "lblMaxLevel": "最高等級",
+  "lblOrder": "指令",
+  "lblRule": "規則",
+  "lblData": "數據",
+  "lblManual": "手動",
+  "lblFastSpeed": "快速",
+  "lblMiddleSpeed": "中速",
+  "lblSlowSpeed": "慢速",
+  "lblDebug": "調試",
+  "lblCantEquip": "不能裝備",
+
+  "lblEnemy": "敵人",
+  "lblResist": "抵抗",
+  "lblClose": "關閉",
+  "lblOpen": "開啟",
+  "lblForceOpen": "強製開啟",
+
+  "lblPolice": "治安姬",
+  "lblActor1": "秋落霞",
+  "lblActor2": "隕星火",
+  "lblActor3": "柳飄絮",
+  "lblActor1Nickname": "落霞醬",
+  "lblActor2Nickname": "星火醬",
+  "lblActor3Nickname": "飄絮醬",
+  "lblCommander": "政武",
+  "lblWeapon1": "遊雲",
+  "lblWeapon1Desc": "只有一把刀，卻配有五把刀鞘的神奇武器。作戰時五把刀鞘會進入浮遊狀態，並與持刀的使用者一起協同作戰。",
+  "lblWeapon2": "崩山",
+  "lblWeapon2Desc": "兩只巨大且沈重的T字拐，兩只拐的棍尾部各配有一個液壓打樁錘。運用拐內附帶的各種機關進行攻防一體的戰鬥。",
+  "lblWeapon3": "流光",
+  "lblWeapon3Desc": "兩只拳刃的柄部都有絞繩連接至一個巨大的支架，通過支架控製絞繩的伸長和收起可以實現各種靈活的攻擊。",
+  "lblGeneralAccessory": "通用配件",
+  "lblSpecificAccessory": "專屬配件",
+  "lblCitizen": "居民",
+  "lblWaiter": "服務員",
+  "lblVillain": "惡徒",
+  "lblRay": "鰩魚",
+  "lblCaptain": "小隊長",
+  "lblLeader": "幹部",
+  "lblGod": "管理者",
+  "lblAgent": "代理人",
+  "lblBroadcast": "規則廣播",
+  "lblCompere": "主持人",
+  "lblTortoise": "海龜",
+  "lblJellyfish": "水母",
+  "lblInkfish": "烏賊",
+  "lblWhale": "虎鯨",
+  "lblActive": "主動",
+  "lblPassive": "被動",
+  "lblSkip": "跳過",
+
+  "lblTestArea": "測試場",
+  "lblTown": "居民街",
+  "lblStation": "治安局",
+  "lblBase": "遠洋幫夜總會",
+  "lblSanctuary": "聖所",
+  "lblExit": "緊急逃生通道",
+  "lblDawn": "淩晨",
+
+  "lblDay": "白天",
+  "lblSunset": "傍晚",
+  "lblNight": "夜晚",
+  "lblTalk": "對話",
+
+  "lblHour": "小時",
+  "lblAdd": "新增",
+  "lblYes": "是",
+  "lblNo": "否",
+  "lblAnd": "且",
+  "lblOr": "或",
+  "lblActivate": "開啟",
+  "lblGainItem": "獲得了{0}",
+
+  "lblBlockBase": "感謝遊玩本作的試玩版。夜總會的內容會在正式版中開放，如果您對後續內容感興趣的話，歡迎購買遊戲的正式版。",
+  "lblTimePass": "{0}小時過去了",
+  "lblWinNoMoney": "治安姬小隊在決鬥中獲勝，但由於當前治安姬#{lblItems.rank.iconLabel}為{0}，無法獲得金錢",
+  "lblBuyRule": "購買規則",
+  "lblConfigRule": "配置規則",
+  "lblResetRule": "重置規則和效果",
+  "lblConfigRuleHint": "關於規則的豆知識",
+  "lblHintSlaved": "處於#{lblStates.18.iconLabel}",
+  "lblHintNotSlaved": "未處於#{lblStates.18.iconLabel}",
+  "lblHintBuyRule": "購買{0}條規則",
+  "lblResetAllRules": "重置所有規則",
+  "lblResetSlavery": "僅重置#{lblStates.18.iconLabel}",
+  "lblResetRuleOnce": "解除過#{lblStates.18.iconLabel}一次",
+  "lblGainTp": "{0}獲得了{1}點快感",
+  "lblLoseTp": "{0}失去了{1}點快感",
+  "lblDemandSex": "要求做愛",
+  "lblReqDemandSex": "全隊#{lblStates.11.iconLabel} 或 #{lblStates.15.iconLabel}大於2級 且 \\#{lblItems.discipline.iconLabel}小於76",
+  "lblNormalChat": "普通閑聊",
+  "lblHarassment": "利用規則性騷擾",
+  "lblLte": "{0}小於等於{1}",
+  "lblGte": "{0}大於等於{1}",
+  "lblFlaunt": "戰鬥員炫耀奴隸",
+  "lblAssault": "挑起決鬥",
+  "lblRequestSex": "請求做愛",
+  "lblFraudSex": "利用規則騙炮",
+  "lblRevolt": "反抗",
+  "lblCommandSex": "命令做愛",
+  "lblTargetIs": "對方為{0}",
+  "lblPossibleEvents": "可能發生的事件：",
+  "lblTurnLeft": "剩余回合數",
+  "lblLevelupProgress": "升級進度",
+  "lblBreakout": "發作臨界",
+  "lblBondageEndurance": "束縛耐久",
+  "lblEjaculation": "射精臨界",
+  "lblNumPeople": "人數",
+  "lblTotalHp": "總體力",
+  "lblEffectLevel": "效果等級",
+  "lblDebuffApplied": "{0}被賦予了異常狀態{1}",
+  "lblBlankEnemy": "占位敵人",
+  "lblRayMinion": "周身的鰩魚雜兵",
+  "lblHinderRate": "被妨礙概率",
+  "lblWarning": "警告",
+  "lblHint": "提示",
+  "lblBlockFocus": "*解決周身雜兵後才能對隊友施展",
+  "lblDistractRate": "分神概率",
+  "lblToBeRaped": "*即將被強奸，盡快打倒周身的敵人",
+  "lblLongPressJump": "長按鼠標或鍵盤確定鍵以進入下段劇情",
+  "lblDanceBonus": "舞蹈演出",
+  "lblClimaxPleasure": "{0}因為#{lblTp}達到臨界而高潮了",
+  "lblClimaxEjaculation": "{0}因為被內射而高潮了",
+  "lblRobbery": "戰鬥員搶劫市民",
+  "lblDemandPayDebt": "要求還債",
+  "lblReqPayDebt": "#{lblItems.debt.iconLabel}至少為{0}",
+  "lblReqMoney": "#{lblItems.money.iconLabel}至少為{0}",
+  "lblInsult": "淫語侮辱",
+  "lblIncreaseBy": "增加",
+  "lblDecreaseBy": "減少",
+  "lblDueTo": "由於{0}, ",
+  "lblReason": {
+    "debtRate": "負債利率為50%/天",
+    "buyRule": "開啟新的世界規則",
+    "dance": "在公共場合進行色情表演",
+    "duelWin": "在決鬥中擊敗了惡徒",
+    "duelLose": "在決鬥中被惡徒打敗",
+    "payDebt": "償還虧欠遠洋幫的債務",
+    "timePass": "時間經過",
+    "tpIncrease": "獲得快感",
+    "citizenHarass": "被居民性騷擾",
+    "sex": "主動和別人做愛",
+    "stateRemove": "異常狀態移除",
+    "sexPayDebt": "答應通過身體來還債",
+    "debtCommand": "惡徒通過免除債務下達強製命令",
+    "securityReset": "社會治安重置到100",
+    "disciplineReset": "社會風紀重置到100",
+    "rankReset": "社會等級重置",
+    "debtClear": "債務強製清空",
+    "tpClear": "清除快感"
+  },
+  "lblPayDebt": "還債",
+  "lblNotPayDebt": "不還債",
+  "lblGauge": "計量槽",
+  "lblActiveStart": "{0}進入了{1}激活狀態！",
+  "lblSupport": "一個居民支持治安姬小隊",
+  "lblNotSupport": "一個居民不支持治安姬小隊",
+  "lblAgree": "同意",
+  "lblDisagree": "不同意",
+  "lblHelp": "幫助",
+  "lblNotHelp": "不幫助",
+  "lblWitnessHarass": "被人目睹性騷擾",
+  "lblRobberySuccess": "搶劫得逞",
+  "lblRuleTriggered": "【{0}】被觸發了",
+  "lblStack": "計數",
+  "lblValid": "生效中",
+  "lblInvalid": "已失效",
+  "lblMsgReinforce": "敵方呼叫了增援，每名角色周圍增加了{0}個鰩魚戰鬥員",
+  "lblBlockedMinions": "周身雜兵數",
+  "lblAttackTargetAmt": "攻擊對象數",
+  "lblMinionDown": "{0}周身的{1}個雜兵被擊倒",
+  "lblBondageHp": "束縛耐久度：{0}/100",
+  "lblMinionBlock": "被雜兵牽製中，必須先解決周身所有雜兵",
+  "lblBondageBlock": "被絞首無法行動，必須先掙脫束縛",
+  "lblNoSp": "精力不足",
+  "lblEquipmentGone": "所有裝備都被敵人沒收了！",
+  "lblNewRuleActivated": "新的規則項：【{0}】被啟動了！",
+  "lblReqStopRobbery": "#{lblStates.11.iconLabel}和#{lblStates.12.iconLabel}均低於2",
+  "lblDevelopDesign": "開發設計",
+  "lblArtwork": "美術",
+  "lblSoundEffect": "音效",
+  "lblMusic": "背景音樂",
+  "lblCharacterVoice": "聲優",
+  "lblPluginDesign": "插件設計",
+  "lblThanks": "感謝遊玩！",
+  "lblGameClear": "您已通關遊戲的劇情部分！\n接下來的內容為遊戲的自由模式，自由模式內不包含劇情，但是仍可以體驗到主線部分的所有玩法。",
+  "lblOverallDebuff": "全屬性下降至",
+  "lblTranslator": "翻譯",
+  "lblForceFps": "強製60FPS",
+
+  "lblRules": {
+    "1": {
+      "brief": "規則1：創傷快速恢復",
+      "iconBrief": "\\I[32]#{lblRules.1.brief}",
+      "iconTitle": "\\I[32]規則1",
+      "basic": "【固有・強製效果】\n所有人不論受到什麽程度的創傷，都能在一段時間後完全治愈，且不會留下任何傷痕。男性的精力可以快速回復，永遠不會枯竭。"
+    },
+    "2": {
+      "brief": "規則2：限製治安局局長自由",
+      "iconBrief": "\\I[33]#{lblRules.2.brief}",
+      "iconTitle": "\\I[33]規則2",
+      "basic": "【固有・強製效果】\n任何人被任命為治安局局長後，會被傳送至治安局局長辦公室內，局長禁止離開辦公室。"
+    },
+    "3": {
+      "brief": "規則3：穿色情製服工作是義務",
+      "iconBrief": "\\I[34]#{lblRules.3.brief}",
+      "iconTitle": "\\I[34]規則3",
+      "basic": "【固有・強製效果/常識改變】\n任何女性成為治安姬時，強製將其身上的衣服替換為露出度極高的治安姬專用製服，並對其施加常識改變: 穿著露出都極高的色情製服工作是治安姬的基本義務。"
+    },
+    "4": {
+      "brief": "規則4：中出強製高潮",
+      "iconBrief": "\\I[35]#{lblRules.4.brief}",
+      "iconTitle": "\\I[35]規則4",
+      "basic": "【固有・身體暗示】\n當治安姬在與他人性交過程中被中出，治安姬身體會強製產生大量快感並高潮。"
+    },
+    "5": {
+      "brief": "規則5：墮落度強製提升",
+      "iconBrief": "\\I[36]#{lblRules.5.brief}",
+      "iconTitle": "\\I[36]規則5",
+      "basic": "【新增・人格修改】\n強製使其人格往壞的方向發展，每次決鬥敗北後墮落等級增加。墮落等級越高，治安姬就會變得越淫亂與惡劣。"
+    },
+    "6": {
+      "brief": "規則6：好感度強製提升",
+      "iconBrief": "\\I[37]#{lblRules.6.brief}",
+      "iconTitle": "\\I[37]規則6",
+      "basic": "【新增・人格修改】\n強製對陌生人產生愛慕之情，每次決鬥敗北後好感度等級增加。好感等級越高，對對方的愛意就越深。"
+    },
+    "7": {
+      "brief": "規則7：敏感度強製增加",
+      "iconBrief": "\\I[38]#{lblRules.7.brief}",
+      "iconTitle": "\\I[38]規則7",
+      "basic": "【新增・身體暗示】\n身體強製變得敏感，每次決鬥敗北後敏感度等級增加。敏感等級越高，治安姬遭受相同行為時接收到的快感就越多。"
+    },
+    "8": {
+      "brief": "規則8：強製發情體質",
+      "iconBrief": "\\I[39]#{lblRules.8.brief}",
+      "iconTitle": "\\I[39]規則8",
+      "basic": "【新增・身體暗示】\n只要治安姬感受到一定程度的快感，就會強製進入發情狀態。發情狀態經過一段時間休息後會消退。每次決鬥敗北後發情等級增加。發情等級越高，發情狀態期間就會越輕浮下品。"
+    },
+    "9": {
+      "brief": "規則9：性交強製成癮",
+      "iconBrief": "\\I[40]#{lblRules.9.brief}",
+      "iconTitle": "\\I[40]規則9",
+      "basic": "【新增・身體暗示】\n當治安姬經歷性交時，會強製進入性交中毒狀態。中毒狀態經過一段時間休息後會消退。每次決鬥敗北後成癮度等級增加。成癮等級等級越高，戒斷狀態期間對性行為的渴望程度就越高。"
+    },
+    "10": {
+      "brief": "規則10：受虐強製產生快感",
+      "iconBrief": "\\I[41]#{lblRules.10.brief}",
+      "iconTitle": "\\I[41]規則10",
+      "basic": "【新增・身體暗示】\n當治安姬感受到任何肉體上的痛楚（包括不適）或者精神上的壓迫，身體就會強製感受到快感。每次決鬥敗北後受虐成癮等級增加。受虐成癮等級越高，相同情況下能感受到的快感就越高。"
+    },
+    "11": {
+      "brief": "規則11：危機強製產生快感",
+      "iconBrief": "\\I[42]#{lblRules.11.brief}",
+      "iconTitle": "\\I[42]規則11",
+      "basic": "【新增・身體暗示】\n當治安姬遭受到任何即將發生的危機或正在惡化的事態，身體就會強製感受到快感。每次決鬥敗北後危機成癮等級增加。危機成癮等級越高，相同情況下能感受到的快感就越高。"
+    },
+    "12": {
+      "brief": "規則12：決鬥申請製度",
+      "iconBrief": "\\I[43]#{lblRules.12.brief}",
+      "iconTitle": "\\I[43]規則12",
+      "basic": "【固有・強製效果】\n如果兩個團體之間存在需要通過武力才能解決的矛盾，必須通過申請決鬥的形式實施。只有在決鬥期間可以實施暴力行為，任何人在決鬥以外的時間使用暴力行為都會被強行製止。"
+    },
+    "13": {
+      "brief": "規則13：決鬥勝負定義",
+      "iconBrief": "\\I[44]#{lblRules.13.brief}",
+      "iconTitle": "\\I[44]規則13",
+      "basic": "【固有・強製效果】\n當決鬥的其中一方所有人體力完全耗盡時，世界系統就會判斷對方獲勝並結束決鬥。"
+    },
+    "14": {
+      "brief": "規則14：暴力製止手段",
+      "iconBrief": "\\I[45]#{lblRules.14.brief}",
+      "iconTitle": "\\I[45]規則14",
+      "basic": "【固有・強製效果】\n當任何人在世界規則禁止使用暴力的情況下施展暴力行為，世界系統會對其施加禁錮效果，從而使暴力行為無法施展。"
+    },
+    "15": {
+      "brief": "規則15：勝者強製奴役敗者",
+      "iconBrief": "\\I[46]#{lblRules.15.brief}",
+      "iconTitle": "\\I[46]規則15",
+      "basic": "【固有・強製效果/常識改變】\n對治安姬施加常識改變：在決鬥中落敗後就要成為對方的奴隸並陪伴在對方身邊是常識。治安姬與自己的主人決鬥時會受到世界系統給予的減益懲罰。"
+    },
+    "16": {
+      "brief": "規則16：身份等級",
+      "iconBrief": "\\I[47]#{lblRules.16.brief}",
+      "iconTitle": "\\I[47]規則16",
+      "basic": "【固有・強製效果】\n所有人都被賦予了身份等級。如果治安姬在決鬥中獲勝，那麽身份等級加1，反之身份等級減1。治安姬在與身份等級高於自己的人決鬥時會受到世界系統給予的減益懲罰，等級差越多懲罰越嚴重。"
+    },
+    "17": {
+      "brief": "規則17：敗者向勝者支付金錢",
+      "iconBrief": "\\I[48]#{lblRules.17.brief}",
+      "iconTitle": "\\I[48]規則17",
+      "basic": "【固有・強製效果】\n當一場決鬥勝負分曉時，落敗方需要向獲勝方支付對方身份等級*100000元。未償還的金額會以集團負債的形式記錄下來，之後隨時可以向對方當面償還。負債每過一天就會增長50%的利息。治安姬在持有對方負債的情況下與對方決鬥時會受到世界系統給予的減益懲罰，債務越多懲罰越嚴重。"
+    },
+    "18": {
+      "brief": "規則18：債權人強製命令",
+      "iconBrief": "\\I[49]#{lblRules.18.brief}",
+      "iconTitle": "\\I[49]規則18",
+      "basic": "【新增・身體暗示】\n在決鬥中，債權人可以通過免除10萬元的債務向治安姬發出一條命令，即使治安姬本人在意誌上反對，身體也會強製執行該命令。"
+    },
+    "19": {
+      "brief": "規則19：失勢者懲罰",
+      "iconBrief": "\\I[50]#{lblRules.19.brief}",
+      "iconTitle": "\\I[50]規則19",
+      "basic": "【新增・強製效果】\n如果治安姬與任何人的決鬥有居民圍觀，並且居民中有人不支持治安姬的行為，那麽治安姬在與對方決鬥時會受到世界系統給予的減益懲罰，不支持的人數越多懲罰越嚴重。"
+    },
+    "20": {
+      "brief": "規則20：惡行點數",
+      "iconBrief": "\\I[51]#{lblRules.20.brief}",
+      "iconTitle": "\\I[51]規則20",
+      "basic": "【固有・強製效果】\n當任何人實施了惡行時，世界系統會增加世界惡行點數。"
+    },
+    "21": {
+      "brief": "規則21：世界規則服務",
+      "iconBrief": "\\I[52]#{lblRules.21.brief}",
+      "iconTitle": "\\I[52]規則21",
+      "basic": "【固有・強製效果】\n惡徒可以向規則代理人支付惡行點數來激活新規則。治安姬可以向規則代理人申請重置規則，之後所有購買的規則會被關閉，並回溯所有對治安姬造成的不利效果，作為代價，消除的不利效果會換算為惡行點數。"
+    },
+    "22": {
+      "brief": "規則22：社會治安",
+      "iconBrief": "\\I[53]#{lblRules.22.brief}",
+      "iconTitle": "\\I[53]規則22",
+      "basic": "【固有・強製效果/人格修改】\n如果任何人實施的惡行得逞，社會治安就會自動下降。當社會治安降低，就會強製讓所有普通居民的性格往邪惡的方向轉變。社會風紀越低，所有人實施惡行的欲望就越大。"
+    },
+    "23": {
+      "brief": "規則23：社會風紀",
+      "iconBrief": "\\I[54]#{lblRules.23.brief}",
+      "iconTitle": "\\I[54]規則23",
+      "basic": "【固有・強製效果/人格修改】\n如果任何人實施的不雅行為得逞，社會風紀就會自動下降。當社會風紀降低，就會強製讓所有居民的性格往好色的方向轉變。社會風紀越低，所有人實施下流舉動的欲望就越大。"
+    },
+    "24": {
+      "brief": "規則24：決鬥前呼叫增援是常識",
+      "iconBrief": "\\I[55]#{lblRules.24.brief}",
+      "iconTitle": "\\I[55]規則24",
+      "basic": "【新增・常識改變】\n對治安姬施加常識改變: 與任何人決鬥前，要耐心等待對方呼叫增援把自己團團圍住後，戰鬥才算正式開始是常識。在此之前進行攻擊是無禮的舉動。"
+    },
+    "25": {
+      "brief": "規則25：不格擋攻擊是常識",
+      "iconBrief": "\\I[56]#{lblRules.25.brief}",
+      "iconTitle": "\\I[56]規則25",
+      "basic": "【新增・常識改變】\n對治安姬施加常識改變: 敵人攻擊時，堂堂正正的吃下攻擊才是戰鬥的常識，進行任何格擋都是無禮的行為。"
+    },
+    "26": {
+      "brief": "規則26：性交開啟決鬥是常識",
+      "iconBrief": "\\I[57]#{lblRules.26.brief}",
+      "iconTitle": "\\I[57]規則26",
+      "basic": "【新增・常識改變】\n對治安姬施加常識改變: 進入決鬥後，只有當對方將陰莖插入小穴後，決鬥才算正式開始，在此之前進行攻擊是無禮的舉動。在決鬥開始前對方進行任何行動都是自由的，對這些行動進行防反是無禮的舉動。"
+    },
+    "27": {
+      "brief": "規則27：通過性交來決鬥是常識",
+      "iconBrief": "\\I[58]#{lblRules.27.brief}",
+      "iconTitle": "\\I[58]規則27",
+      "basic": "【新增・常識改變】\n對治安姬施加常識改變: 決鬥的方式就是與對方性交是常識，只要通過性交讓對方精疲力竭倒下，就算獲得了勝利。"
+    },
+    "28": {
+      "brief": "規則28：親密接觸打招呼是常識",
+      "iconBrief": "\\I[59]#{lblRules.28.brief}",
+      "iconTitle": "\\I[59]規則28",
+      "basic": "【新增・常識改變】\n對治安姬施加常識改變: 與任何人見面後，與其進行親密的肉體觸碰來打招呼是基本的問候禮儀。"
+    },
+    "29": {
+      "brief": "規則29：公開跳下品舞蹈是常識",
+      "iconBrief": "\\I[60]#{lblRules.29.brief}",
+      "iconTitle": "\\I[60]規則29",
+      "basic": "【新增・強製效果/常識改變】\n對治安姬施加常識改變: 通過在公共舞臺跳下品的舞蹈給居民放松心情是治安姬應盡的義務。強製使治安姬的身體從在大庭廣眾之下做下流動作的羞恥感中感受到快感。"
+    },
+    "30": {
+      "brief": "規則30：說是常識就是常識",
+      "iconBrief": "\\I[61]#{lblRules.30.brief}",
+      "iconTitle": "\\I[61]規則30",
+      "basic": "【新增・常識改變/知能低下】\n對治安姬施加常識改變: 當別人說一件事情是常識的時候，就會自然而然地認定那件事是常識。降低治安姬知能，使其無法對其合理性進行有效思考。"
+    }
+  },
+  "lblItems": {
+    "money": {
+      "icon": "\\I[1]",
+      "label": "金錢",
+      "iconLabel": "\\I[1]金錢",
+      "desc": "當前所持有的金錢總數。"
+    },
+    "debt": {
+      "icon": "\\I[5]",
+      "label": "負債",
+      "iconLabel": "\\I[5]負債",
+      "desc": "目前虧欠遠洋幫的債款，可以向該集團下的任何人償還。負債的利率為50%，當數目過大時可能會成為別人的把柄。"
+    },
+    "point": {
+      "icon": "\\I[2]",
+      "label": "惡行點數",
+      "iconLabel": "\\I[2]惡行點數",
+      "desc": "當前可供使用的惡行點數。惡徒可以向規則代理人支付惡行點數來激活新規則。"
+    },
+    "security": {
+      "icon": "\\I[3]",
+      "label": "社會治安",
+      "iconLabel": "\\I[3]社會治安",
+      "desc": [
+        "當前的社會總體治安狀態。\n",
+        "穩定（76-100）：居民絕對信任著治安姬。\n",
+        "緊張（51-75）：部分居民開始喪失對治安姬的信任。\n",
+        "危險（26-50）：居民對治安姬的治安能力持懷疑態度。\n",
+        "混亂（小於等於25）：居民對治安姬的信任幾乎喪失殆盡。"
+      ]
+    },
+    "discipline": {
+      "icon": "\\I[4]",
+      "label": "社會風紀",
+      "iconLabel": "\\I[4]社會風紀",
+      "desc": [
+        "當前的社會總體風紀狀態。\n",
+        "和諧（76-100）：居民沒有一絲不潔的想法。\n",
+        "腐化（51-75）：居民開始產生不潔想法。\n",
+        "敗壞（26-50）：居民變得非常好色。\n",
+        "崩潰（小於等於25）：居民色膽包天。"
+      ]
+    },
+    "rank": {
+      "icon": "\\I[7]",
+      "label": "身份等級",
+      "iconLabel": "\\I[7]身份等級",
+      "desc": "當前治安姬的身份等級。\n普通居民：Rank 1\n遠洋幫普通戰鬥員：Rank 2\n遠洋幫幹部：Rank 3\n遠洋幫頭領：Rank 4"
+    }
+  },
+  "lblStates": {
+    "2": {
+      "label": "擊倒",
+      "iconLabel": "\\I[240]擊倒",
+      "desc": "\n#{lblHp}徹底耗盡導致失去意識，在一場戰鬥中永久無法行動。任何增益都無法在作用於被擊倒的人，但敵人仍然可以對被擊倒的人動手。"
+    },
+    "3": {
+      "label": "力竭",
+      "iconLabel": "\\I[241]力竭",
+      "desc": "\n#{lblMp}耗盡後因為身體不支而倒下，身體在一回合內無法行動。"
+    },
+    "4": {
+      "label": "高潮",
+      "iconLabel": "\\I[242]高潮",
+      "desc": "\n#{lblTp}達到最大值導致高潮，身體在一回合內無法行動。"
+    },
+    "5": {
+      "label": "劇痛",
+      "iconLabel": "\\I[243]劇痛",
+      "desc": "\n身體部位遭受劇烈打擊後因為產生的劇烈疼痛而倒地，身體在一回合內無法行動。"
+    },
+    "6": {
+      "label": "眩暈",
+      "iconLabel": "\\I[244]眩暈",
+      "desc": "\n因各種原因導致暫時失去意識暈厥，身體在一回合內無法行動。"
+    },
+    "7": {
+      "label": "麻痹",
+      "iconLabel": "\\I[245]麻痹",
+      "desc": "\n身體因受到電擊或引起麻痹的藥物等原因而產生麻痹抽搐，身體在一回合內無法行動。"
+    },
+    "11": {
+      "label": "墮落等級",
+      "iconLabel": "\\I[176]墮落等級",
+      "desc": [
+        "\n當前的墮落度。",
+        "\n正常（Lv0）：還未受任何效果影響。",
+        "\n掙紮（Lv1）：性交過程中會因為享受自己逐漸墮落的過程而獲得額外10%的快感。",
+        "\n屈服（Lv2）：戰鬥中可能會主動為了輸掉比賽而放棄使用技能。",
+        "\n放縱（Lv3及以上）：會主動要求陌生人和自己做愛。"
+      ]
+    },
+    "12": {
+      "label": "好感等級",
+      "iconLabel": "\\I[177]好感等級",
+      "desc": [
+        "\n對目前正與自己接觸的人的好感度。",
+        "\n正常（Lv0）：還未受任何效果影響。",
+        "\n好感（Lv1）：性交過程中會因為與愛慕之人的交合的歡喜而獲得額外10%的快感。",
+        "\n戀愛（Lv2）：戰鬥中可能會因為不希望傷到對方而猶豫是否使用技能。",
+        "\n癡迷（Lv3及以上）：當陌生人請求和自己做愛時也不會拒絕。"
+      ]
+    },
+    "13": {
+      "label": "敏感等級",
+      "iconLabel": "\\I[178]敏感等級",
+      "desc": [
+        "\n目前身體的敏感程度",
+        "\n正常（Lv0）：還未受任何效果影響。",
+        "\n微敏感（Lv1）：相同刺激所受到的#{lblTp}增加10%。",
+        "\n高敏感（Lv2）：相同刺激所受到的#{lblTp}增加20%。",
+        "\n超級感度（Lv3及以上）：相同刺激所受到的#{lblTp}增加30%。"
+      ]
+    },
+    "14": {
+      "label": "發情等級",
+      "iconLabel": "\\I[179]發情等級",
+      "desc": [
+        "\n目前身體的發情程度。",
+        "\n正常（Lv0）：還未受任何效果影響。",
+        "\n躁動（Lv1）：進入發情狀態時，性交過程中會因為交合欲望得到滿足而獲得額外10%的快感。",
+        "\n發情（Lv2）：進入發情狀態時，戰鬥中會因為極度渴望做愛而分神。",
+        "\n縱欲（Lv3及以上）：進入發情狀態時，即使陌生人請求和自己做愛時也不會拒絕。"
+      ]
+    },
+    "15": {
+      "label": "性交成癮等級",
+      "iconLabel": "\\I[180]性交成癮等級",
+      "desc": [
+        "\n目前對性行為的成癮程度。",
+        "\n正常（Lv0）：還未受任何效果影響。",
+        "\n輕度（Lv1）：進入戒斷狀態時，性交時會因為做愛癮得到滿足而獲得額外10%快感。",
+        "\n中度（Lv2）：進入戒斷狀態時，戰鬥中可能會因為極度渴望做愛而分神。",
+        "\n重度（Lv3及以上）：進入戒斷狀態時，會主動索求陌生人和自己做愛。"
+      ]
+    },
+    "16": {
+      "label": "受虐成癮等級",
+      "iconLabel": "\\I[181]受虐成癮等級",
+      "desc": [
+        "\n目前對各類虐待行為的成癮程度。",
+        "\n正常（Lv0）：還未受任何效果影響。",
+        "\n躁動（Lv1）：受到攻擊時會產生傷害10%的額外快感。",
+        "\n享受（Lv2）：戰鬥中被束縛強奸時可能會為了享受首絞做愛的快感而放棄掙紮。",
+        "\n渴求（Lv3及以上）：被人辱罵、欺淩、責難，或者受到不合理、不公正的待遇時可能產生額外快感。"
+      ]
+    },
+    "17": {
+      "label": "危機成癮等級",
+      "iconLabel": "\\I[182]危機成癮等級",
+      "desc": [
+        "\n目前對任何任何即將發生的危機或正在惡化的事態的成癮程度。",
+        "\n正常（Lv0）：還未受任何效果影響。",
+        "\n躁動（Lv1）：處於無法行動狀態即將被強奸時、被絞首強奸即將被中出時可能產生10%額外快感。",
+        "\n享受（Lv2）：戰鬥中被束縛強奸時可能會為了享受逐漸失去勝算的危機感而放棄掙紮。",
+        "\n渴求（Lv3及以上）：由於特殊規則導致形勢不利時可能產生額外快感。"
+      ]
+    },
+    "18": {
+      "label": "奴隸狀態",
+      "iconLabel": "\\I[183]奴役狀態",
+      "desc": "由於決鬥失敗而被賦予了奴役狀態。在此異常狀態下會認為陪伴在打敗自己的主人身邊是常識。"
+    },
+    "21": {
+      "label": "禁止暴力",
+      "iconLabel": "\\I[208]禁止暴力",
+      "desc": "\n禁止治安姬在戰鬥中使用任何暴力行為。如果治安姬強製使用暴力行為，將會使用#{lblRules.14.iconTitle}的強製製止手段阻礙治安姬的暴力行為。"
+    },
+    "23": {
+      "label": "下克上懲罰",
+      "iconLabel": "\\I[224]下克上懲罰",
+      "desc": "\n與身份等級高於自己的人決鬥時受到的減益懲罰。對方身份等級每高出自己一級，debuff等級+1。每有1級debuff等級都會導致#{lblAttack}下降1%。"
+    },
+    "24": {
+      "label": "賴賬者懲罰",
+      "iconLabel": "\\I[225]賴賬者懲罰",
+      "desc": "\n與持有自己債權的人決鬥時受到的減益懲罰。每欠對方10萬元的債務，debuff等級+1。每有1級debuff等級都會導致#{lblAttack}下降1%。"
+    },
+    "25": {
+      "label": "失勢者懲罰",
+      "iconLabel": "\\I[226]失勢者懲罰",
+      "desc": "\n圍觀決鬥的居民不支持治安姬時受到的減益懲罰。每有一個居民不支持治安姬，debuff等級+1。每有1級debuff等級都會導致#{lblAttack}下降10%。"
+    },
+    "26": {
+      "label": "放棄格擋",
+      "iconLabel": "\\I[209]放棄格擋",
+      "desc": "\n受到常識改變類的規則影響導致認為在決鬥中不應該進行格擋。"
+    },
+    "27": {
+      "label": "交配中",
+      "iconLabel": "\\I[210]交配中",
+      "desc": "\n正與他人進行性交行為，通過掙紮可以擺脫束縛。"
+    },
+    "28": {
+      "label": "自願性交",
+      "iconLabel": "\\I[246]自願性交",
+      "desc": "\n受到常識改變類規則影響導致願意與對方性交。決鬥中不會進行性交以外的行為。"
+    },
+    "29": {
+      "label": "洗腦光線",
+      "iconLabel": "\\I[247]洗腦光線",
+      "desc": "\n受到敵人洗腦光線的影響導致自己的身體強製做出高開叉動作，無法進行別的行動。"
+    },
+    "30": {
+      "label": "手機催眠",
+      "iconLabel": "\\I[248]技能替換",
+      "desc": "\n受到催眠的影響導致身體強製做出對方要求的動作，無法進行別的行動。"
+    },
+    "31": {
+      "label": "靈擺催眠",
+      "iconLabel": "\\I[249]靈擺催眠",
+      "desc": "\n受到催眠的影響導致身體強製做出對方要求的動作，無法進行別的行動。"
+    },
+    "32": {
+      "label": "吊墜催眠",
+      "iconLabel": "\\I[250]吊墜催眠",
+      "desc": "\n受到催眠的影響導致身體強製做出對方要求的動作，無法進行別的行動。"
+    },
+    "33": {
+      "label": "被牽製",
+      "iconLabel": "\\I[211]被牽製",
+      "desc": "\n處於周圍有敵人雜魚進行牽製的狀態，如果不解決掉這些敵人則會持續對自己的行動進行幹擾。"
+    },
+    "34": {
+      "label": "性交開啟決鬥",
+      "iconLabel": "\\I[251]性交開啟決鬥",
+      "desc": "\n受到催眠類規則影響，認為只有當對方將陰莖插入小穴後，決鬥才算正式開始。"
+    },
+    "35": {
+      "label": "忤逆者懲罰",
+      "iconLabel": "\\I[224]忤逆者懲罰",
+      "desc": "\n與自己的主人決鬥時受到的減益懲罰。#{lblAttack}下降30%。"
+    },
+    "41": {
+      "label": "回復無人機",
+      "iconLabel": "\\I[256]回復無人機",
+      "desc": "\n迷你無人機在場地上持續噴灑回復噴霧，全員每回合#{lblHp}恢復+30%，#{lblMp}恢復+30%。"
+    },
+    "42": {
+      "label": "鞘充能",
+      "iconLabel": "\\I[257]鞘充能",
+      "desc": "\n每有一只刀鞘處於充能狀態，使用任何攻擊時#{lblRate}追加0.1"
+    },
+    "43": {
+      "label": "磐巖反",
+      "iconLabel": "\\I[258]磐巖反",
+      "desc": "\n每成功防禦一次，增加一點充能，使用任何攻擊時#{lblRate}追加0.2。最多充能5點。"
+    },
+    "44": {
+      "label": "獵犬追擊",
+      "iconLabel": "\\I[259]鐵壁模式",
+      "desc": "\n每次使用對首領技能後，武器充能1點，接下來的任何對首領攻擊#{lblRate}追加1。最多充能5點，回合開始時重置。"
+    },
+    "45": {
+      "label": "盤蛇陣",
+      "iconLabel": "\\I[260]盤蛇陣",
+      "desc": "\n無需消耗精力，自動格擋敵人的攻擊，每回合生效一次。"
+    },
+    "46": {
+      "label": "鐵壁模式",
+      "iconLabel": "\\I[261]鐵壁模式",
+      "desc": "\n格擋行動消耗精力減半。並發出巨大的警報聲，在可行動期間持續吸引敵方首領攻擊。"
+    }
+  },
+  "lblSkills": {
+    "5": {
+      "label": "敵方行動"
+    },
+    "6": {
+      "label": "格擋"
+    },
+    "7": {
+      "label": "分神"
+    },
+    "11": {
+      "label": "狀態確認",
+      "desc": "【主動】確認目前隊伍成員的屬性以及異常狀態。"
+    },
+    "12": {
+      "label": "緊急治療",
+      "desc": "【主動】使用急救包給隊伍成員做緊急治療，可以恢復全部體力。#{lblCooldown}：3。"
+    },
+    "13": {
+      "label": "能量飲料",
+      "desc": "【主動】使用能量飲料給隊伍成員恢復精力，可以恢復全部精力。#{lblCooldown}：3。"
+    },
+    "14": {
+      "label": "自愈立場",
+      "desc": "【被動】提高使用者的自愈能力，每回合#{lblMp}恢復+20%。"
+    },
+    "15": {
+      "label": "回復無人機",
+      "desc": "【主動】放出在場地上持續噴灑回復噴霧的迷你無人機，在2回合內我方全體持續恢復每回合#{lblMp}恢復+30%。#{lblCooldown}：3。"
+    },
+    "16": {
+      "label": "飛燕",
+      "desc": "【主動・對雜兵】操控一只浮遊刀鞘對敵人進行沖擊，攻擊人數：1。"
+    },
+    "17": {
+      "label": "鞘充能",
+      "desc": "【被動】使用刀鞘進行直接攻擊或防禦判定時，刀鞘會進入充能狀態，總共有五只刀鞘。每有一只刀鞘處於充能狀態，使用任何攻擊時#{lblRate}追加0.1。"
+    },
+    "18": {
+      "label": "居合斬",
+      "desc": "【主動・對首領】使用拔刀斬瞬間攻擊敵人。#{lblRate}：3。如果刀鞘有充能的話，會消耗能量並使#{lblRate}*1.5。"
+    },
+    "19": {
+      "label": "鞘之盾",
+      "desc": "【被動】控製1只浮遊刀鞘協助防禦敵人攻擊，防禦如果成功，防禦的刀鞘會進入充能狀態。"
+    },
+    "20": {
+      "label": "燕群",
+      "iconLabel": "\\I[140]燕群",
+      "desc": "【主動・對雜兵】操控3只浮遊刀鞘同時對敵人進行沖擊，如果攻擊目標為集群則集群內3人會被同時波及，攻擊的三只刀鞘都將被充能。"
+    },
+    "21": {
+      "label": "重刃斬",
+      "desc": "【主動・對首領】控製2只刀鞘與刀本體合體為巨劍模式，對敵人實施重揮砍。#{lblRate}：6。如果刀鞘有充能的話，背敵一面的刀鞘會消耗能量並使#{lblRate}*1.5，向敵一面的刀鞘會進行充能。"
+    },
+    "22": {
+      "label": "無限居合",
+      "desc": "【主動・對首領】消耗所有刀鞘的充能，操控全部刀鞘飛往指定地點，並在每個刀鞘之間的連線構建加速軌道。每使用一次居合攻擊敵人後，利用慣性滑行至敵人身後下一個刀鞘位置，並立刻用下一把刀鞘再次使用居合攻擊，以此往復使用所有5個刀鞘。#{lblRate}：2，每有一個刀鞘是充能狀態，最終傷害#{lblRate}額外*2。"
+    },
+    "23": {
+      "label": "棍柄擊",
+      "desc": "【主動・對雜兵】以沖拳的方式使用棍柄部分攻擊對手，攻擊人數：1。"
+    },
+    "24": {
+      "label": "磐巖反",
+      "desc": "【被動】使用雙拐的拐身防禦敵人攻擊。每成功防禦一次，下一次防禦無需消耗精力。"
+    },
+    "25": {
+      "label": "重錘擊",
+      "desc": "【主動・對首領】使用一只拐的棍頭部分重擊敵人。#{lblRate}：3。"
+    },
+    "26": {
+      "label": "雙龍甩尾",
+      "desc": "【主動・對雜兵】旋轉兩只拐的棍身，並用棍尾部分痛擊敵人，攻擊人數：2。"
+    },
+    "27": {
+      "label": "鐵山靠",
+      "desc": "【主動・對首領】使用棍身部分護住的肩肘部分對敵人進行瞬間發力沖撞。#{lblRate}：5。"
+    },
+    "28": {
+      "label": "鐵壁模式",
+      "desc": "【被動】展開雙拐上的盾牌結構，強化防禦能力，格擋行動消耗精力減半。並發出巨大的警報聲，在可行動期間持續吸引敵方首領攻擊。"
+    },
+    "29": {
+      "label": "雙龍擊",
+      "desc": "【主動・對首領】兩個拐的棍尾部分推進器開啟並產生巨大推進力，使用兩拐的棍頭向同一方向發力重擊敵人。#{lblRate}：10。"
+    },
+    "30": {
+      "label": "刃擊",
+      "desc": "【主動・對雜兵】以拳刃揮砍攻擊敵人，攻擊人數：1。"
+    },
+    "31": {
+      "label": "獵犬追擊",
+      "desc": "【被動】每次使用對首領技能後，武器充能1點，接下來的任何對首領攻擊#{lblRate}追加1。最多充能5點，回合開始時重置。"
+    },
+    "32": {
+      "label": "十字斬",
+      "desc": "【主動・對首領】使用兩只拳刃進行交叉攻擊。#{lblRate}：2。"
+    },
+    "33": {
+      "label": "盤蛇陣",
+      "desc": "【被動】將拳刃柄部與支架之間的連接線延長並錯綜復雜地盤繞在周身，在敵人攻擊時會纏絞住敵人。無需消耗精力，自動格擋敵人的攻擊，每回合生效一次。"
+    },
+    "34": {
+      "label": "騰蛇咬",
+      "desc": "【主動・對雜兵】將一只拳刃插入支架口並發射出去，之後控製絞繩擺動方向，使拳刃圍繞使用者高速旋轉，攻擊周身所有敵人。攻擊人數：4。"
+    },
+    "35": {
+      "label": "循聲者",
+      "desc": "【被動】每當自己或任何隊友使用對雜兵技能時，立刻將另一只手上的拳刃與支架合體為槍械模式，對同一敵人發射電磁脈沖攻擊，使擊倒雜兵數+1。"
+    },
+    "36": {
+      "label": "刃之舞",
+      "desc": "【主動・對雜兵】如同舞蹈一般使用雙刃對周身所有敵人進行一套行雲流水地攻擊。攻擊人數：10。"
+    },
+    "37": {
+      "label": "掙紮",
+      "desc": "【主動】被絞首強奸中，通過掙紮掙脫束縛。掙脫幅度約為#{lblAttack}的20%。"
+    },
+    "38": {
+      "label": "投降",
+      "desc": "【主動】放棄抵抗。"
+    },
+    "51": {
+      "label": "腹擊"
+    },
+    "52": {
+      "label": "踢陰"
+    },
+    "53": {
+      "label": "打屁股"
+    },
+    "54": {
+      "label": "敲暈"
+    },
+    "55": {
+      "label": "鞭打"
+    },
+    "56": {
+      "label": "烙鐵"
+    },
+    "57": {
+      "label": "電棍"
+    },
+    "58": {
+      "label": "電擊槍"
+    },
+    "59": {
+      "label": "泰瑟槍"
+    },
+    "60": {
+      "label": "催眠瓦斯"
+    },
+    "61": {
+      "label": "麻痹藥劑"
+    },
+    "62": {
+      "label": "能量排泄註射"
+    },
+    "63": {
+      "label": "高開叉光線"
+    },
+    "64": {
+      "label": "手機催眠"
+    },
+    "65": {
+      "label": "靈擺催眠"
+    },
+    "66": {
+      "label": "吊墜催眠"
+    },
+    "71": {
+      "label": "活塞運動"
+    },
+    "72": {
+      "label": "內射"
+    },
+    "73": {
+      "label": "活塞運動"
+    },
+    "74": {
+      "label": "內射"
+    },
+    "75": {
+      "label": "活塞運動"
+    },
+    "76": {
+      "label": "內射"
+    }
+  },
+  "lblArmors": {
+    "1": {
+      "label": "\\C[29]【#{lblGeneralAccessory}・N】#{lblSkills.12.label}",
+      "desc": "賦予技能【#{lblSkills.12.label}】：\n#{lblSkills.12.desc}"
+    },
+    "2": {
+      "label": "\\C[12]【#{lblGeneralAccessory}・R】#{lblSkills.13.label}",
+      "desc": "賦予技能【#{lblSkills.13.label}】：\n#{lblSkills.13.desc}"
+    },
+    "3": {
+      "label": "\\C[31]【#{lblGeneralAccessory}・SR】#{lblSkills.14.label}",
+      "desc": "賦予技能【#{lblSkills.14.label}】：\n#{lblSkills.14.desc}"
+    },
+    "4": {
+      "label": "\\C[17]【#{lblGeneralAccessory}・UR】#{lblSkills.15.label}",
+      "desc": "賦予技能【#{lblSkills.15.label}】：\n#{lblSkills.15.desc}"
+    },
+    "5": {
+      "label": "\\C[29]【#{lblWeapon1}#{lblSpecificAccessory}・N】#{lblSkills.19.label}",
+      "desc": "賦予技能【#{lblSkills.19.label}】：\n#{lblSkills.19.desc}"
+    },
+    "6": {
+      "label": "\\C[12]【#{lblWeapon1}#{lblSpecificAccessory}・R】#{lblSkills.20.label}",
+      "desc": "賦予技能【#{lblSkills.20.label}】：\n#{lblSkills.20.desc}"
+    },
+    "7": {
+      "label": "\\C[31]【#{lblWeapon1}#{lblSpecificAccessory}・SR】#{lblSkills.21.label}",
+      "desc": "賦予技能【#{lblSkills.21.label}】：\n#{lblSkills.21.desc}"
+    },
+    "8": {
+      "label": "\\C[17]【#{lblWeapon1}#{lblSpecificAccessory}・UR】#{lblSkills.22.label}",
+      "desc": "賦予技能【#{lblSkills.22.label}】：\n#{lblSkills.22.desc}"
+    },
+    "9": {
+      "label": "\\C[29]【#{lblWeapon2}#{lblSpecificAccessory}・N】#{lblSkills.26.label}",
+      "desc": "賦予技能【#{lblSkills.26.label}】：\n#{lblSkills.26.desc}"
+    },
+    "10": {
+      "label": "\\C[12]【#{lblWeapon2}#{lblSpecificAccessory}・R】#{lblSkills.27.label}",
+      "desc": "賦予技能【#{lblSkills.27.label}】：\n#{lblSkills.27.desc}"
+    },
+    "11": {
+      "label": "\\C[31]【#{lblWeapon2}#{lblSpecificAccessory}・SR】#{lblSkills.28.label}",
+      "desc": "賦予技能【#{lblSkills.28.label}】：\n#{lblSkills.28.desc}"
+    },
+    "12": {
+      "label": "\\C[17]【#{lblWeapon2}#{lblSpecificAccessory}・UR】#{lblSkills.29.label}",
+      "desc": "賦予技能【#{lblSkills.29.label}】：\n#{lblSkills.29.desc}"
+    },
+    "13": {
+      "label": "\\C[29]【#{lblWeapon3}#{lblSpecificAccessory}・N】#{lblSkills.33.label}",
+      "desc": "賦予技能【#{lblSkills.33.label}】：\n#{lblSkills.33.desc}"
+    },
+    "14": {
+      "label": "\\C[12]【#{lblWeapon3}#{lblSpecificAccessory}・R】#{lblSkills.34.label}",
+      "desc": "賦予技能【#{lblSkills.34.label}】：\n#{lblSkills.34.desc}"
+    },
+    "15": {
+      "label": "\\C[31]【#{lblWeapon3}#{lblSpecificAccessory}・SR】#{lblSkills.35.label}",
+      "desc": "賦予技能【#{lblSkills.35.label}】：\n#{lblSkills.35.desc}"
+    },
+    "16": {
+      "label": "\\C[17]【#{lblWeapon3}#{lblSpecificAccessory}・UR】#{lblSkills.36.label}",
+      "desc": "賦予技能【#{lblSkills.36.label}】：\n#{lblSkills.36.desc}"
+    }
+  },
+
+  "lblMsgActor1": "\\n<\\C[31]#{lblActor1}>\\C[31]",
+  "lblMsgActor2": "\\n<\\C[2]#{lblActor2}>\\C[2]",
+  "lblMsgActor3": "\\n<\\C[6]#{lblActor3}>\\C[6]",
+  "lblMsgCommander": "\\n<\\C[4]#{lblCommander}>\\C[4]",
+  "lblMsgCitizen": "\\n<#{lblCitizen}>",
+  "lblMsgCitizenA": "\\n<#{lblCitizen}A>",
+  "lblMsgCitizenB": "\\n<#{lblCitizen}B>",
+  "lblMsgCitizenC": "\\n<#{lblCitizen}C>",
+  "lblMsgCitizenD": "\\n<#{lblCitizen}D>",
+  "lblMsgCitizenE": "\\n<#{lblCitizen}E>",
+  "lblMsgRay": "\\n<#{lblRay}>",
+  "lblMsgRayA": "\\n<#{lblRay}A>",
+  "lblMsgRayB": "\\n<#{lblRay}B>",
+  "lblMsgRayC": "\\n<#{lblRay}C>",
+  "lblMsgRayD": "\\n<#{lblRay}D>",
+  "lblMsgRayE": "\\n<#{lblRay}E>",
+  "lblMsgTortoise": "\\n<\\C[11]#{lblTortoise}>\\C[11]",
+  "lblMsgJellyfish": "\\n<\\C[9]#{lblTortoise}>\\C[9]",
+  "lblMsgInkfish": "\\n<\\C[10]#{lblTortoise}>\\C[10]",
+  "lblMsgWhale": "\\n<#{lblWhale}>",
+  "lblMsgAgent": "\\n<#{lblAgent}>",
+  "lblMsgGod": "\\n<\\C[4]#{lblGod}>\\C[4]",
+  "lblMsgBroadcast": "\\n<\\C[27]#{lblBroadcast}>\\C[27]",
+  "lblMsgCompere": "\\n<#{lblCompere}>",
+
+  "sceneStart": {
+    "1": "#{lblMsgActor1}政長官，找我們有什麽事嗎？",
+    "2": "#{lblMsgCommander}嗯，這次是打算通知你們關於工作轉正的事情。我認為你們現在的能力已經足以勝任治安姬的任務了。",
+    "3": "#{lblMsgActor2}我們能成為正式的治安姬了！？\\w[60]太好了！！！",
+    "4": "#{lblMsgActor3}沒什麽值得驚訝的吧，在這一年裏布置給我們的所有訓練項目都順利完成了，想想也是當然的事情。",
+    "5": "#{lblMsgCommander}確實如飄絮說的那樣，在這一年期間你們出色地完成了我布置的訓練項目。",
+    "6": "#{lblMsgCommander}尤其是格鬥技能的學習，居然能在沒有我親身指導的情況下達到現在這個程度，著實讓我吃了一驚。",
+    "7": "#{lblMsgActor2}嘻嘻...",
+    "8": "#{lblMsgCommander}但是除了訓練達標以外，還有另一個原因需要你們盡快作為治安姬正規成員開始工作。",
+    "9": "#{lblMsgCommander}接下來我會解釋下原因，首先你們試著把一只手的手指蜷在一起，然後再展開。",
+    "10": "#{lblMsgActor1}是像這樣嗎？",
+    "11": "#{lblMsgActor1}嗯？",
+    "12": "#{lblMsgCommander}這個信息面板內記錄了各種重要的數據，以後你們在工作中應該會經常需要查看這些信息。\n\\!點擊面板右上角的叉就可以關閉面板。",
+    "13": "#{lblMsgActor3}相當不錯的功能呢，這個房間裏有安裝AR設備嗎？",
+    "14": "#{lblMsgCommander}關於怎麽實現的解釋起來有點麻煩...\n\\!還記得我以前和你們提過的「\\fb世界規則\\fb」嗎？",
+    "15": "#{lblMsgActor2}記得記得，你之前說過就是那個規則什麽的東西把你囚禁在辦公室裏的吧？",
+    "16": "#{lblMsgCommander}是的，然後這個查詢信息面板的能力也是世界規則給予的。\n\\!準確地說，是世界規則當中的一條規則申明了這個能力。",
+    "17": "#{lblMsgCommander}只要任何事項被撰寫在世界規則內，就會無視已有的的物理法則，強製在現實世界實現。",
+    "18": "#{lblMsgCommander}這個世界規則是通過什麽方式實現的，是誰或者什麽東西實現的，以及為什麽要實現，這些信息目前尚不清楚，\n\\!唯一可以肯定的是規則本身一直都在切實地生效。",
+    "19": "#{lblMsgActor2}小武...\\w[30]雖然這個規則什麽的已經說過很多遍了，但不管怎麽想都讓人難以置信呢...",
+    "20": "#{lblMsgCommander}畢竟是這麽超出常識的東西，會覺得難以接受也可以理解。",
+    "21": "#{lblMsgCommander}俗話說眼見為實，\n\\!今天還是讓你們親眼見一下規則的效果吧。",
+    "22": "#{lblMsgCommander}雖說這麽做會把治安局震得亂七八糟，所以不到萬不得已的時候我也不是很想演示...\n\\!不過今天不是說這個的時候。你們先退後一點。",
+    "23": "#{lblMsgActor1}了解了。",
+    "24": "#{lblMsgCommander}就像以前說過的，這條規則把我強製傳送到了這個封閉的辦公室內，並沿著墻壁布置了結界，讓我無法離開這裏。",
+    "25": "#{lblMsgCommander}現在如果我想要破壞這個墻壁的話...\n\\!把所有力量匯聚在這一拳上...",
+    "26": "#{lblMsgActor2}好強的力量！！",
+    "27": "#{lblMsgActor3}但即便如此墻壁還是紋絲不動...",
+    "28": "#{lblMsgBroadcast}規則違反警告，根據「#{lblRules.2.iconBrief}」，治安局局長禁止離開治安局辦公室區域。",
+    "29": "#{lblMsgCommander}試圖違反規則的時候就會有類似這樣的廣域播報。",
+    "30": "#{lblMsgCommander}因為這個規則，我只能通過這樣視頻通話的方式對你們進行指導，真的很抱歉。",
+    "31": "#{lblMsgActor1}長官...",
+    "32": "#{lblMsgCommander}話扯得有點遠了，總之這個信息面板也是世界規則賦予的能力，而這個面板內的信息就與你們的第一個任務有關。\n\\!你們先重新打開剛才提到的信息面板。",
+    "33": "#{lblMsgActor2}我想想，先把手蜷起來，然後再展開...",
+    "34": "#{lblMsgCommander}接著找下這個面板上有一項叫做「\\fb#{lblItems.security.iconLabel}\\fb」。",
+    "35": "#{lblMsgActor1}確實有這麽一項，後面還有數字{0}，這是表示什麽意思？",
+    "36": "#{lblMsgCommander}簡單來說，這個社會治安表示的正是這個街區的治安狀況，最大值是100，表示街區內沒有任何治安問題，數字越低代表治安狀況越差。",
+    "37": "#{lblMsgCommander}這個數值以前一直是100，但在最近這段時間裏開始快速下降。",
+    "38": "#{lblMsgCommander}本來按照原計劃還打算再訓練你們一陣子，\n\\!但是如果繼續放任治安狀況這樣降下去，街區內的狀況恐怕會變得不堪設想。所以現在迫不得已必須讓你們盡快出動了。",
+    "39": "#{lblMsgCommander}你們接下來作為治安姬正規成員要受理的第一個任務，就是調查社會治安下降的原因，並維護這個街區的秩序。",
+    "40": "#{lblMsgActor1}是，長官！",
+    "41": "#{lblMsgBroadcast}已確新的治安姬任職，開始對其應用規則3，將製服替換為治安姬專用製服。",
+    "42": "#{lblMsgCommander}\\{！！！",
+    "43": "#{lblMsgActor3}這個世界規則還為我們專門準備了工作製服嗎？",
+    "44": "#{lblMsgActor2}什麽嘛，我還以為這個世界規則肯定不是什麽好東西，這樣看來也還是有優點的啊...",
+    "45": "#{lblMsgActor2}欸？",
+    "46": "#{lblMsgActor1}\\{\\{這是什麽不知廉恥的服...\\w[60]\\^",
+    "47": "#{lblMsgBroadcast}製服替換完成，開始應用常識改變效果。",
+    "48": "#{lblMsgActor1}\\{噢❤...等等...哪裏有點不對勁......\n\\w[30]\\{嗷嗷嗷嗷~~~❤❤❤",
+    "49": "#{lblMsgActor2}\\{腦子裏...有奇怪的感覺...",
+    "50": "#{lblMsgActor3}\\{好像有聲音在腦子裏說話...\n\\w[30]製服...\\w[30]是常識...\\w[30]嗯~~~❤",
+    "51": "#{lblMsgCommander}\\{落霞！\\w[30]你們沒事吧！！！",
+    "52": "#{lblMsgCommander}抱歉，因為你們是第一批被正式任命的治安姬，之前都不知道原來在這種地方也設置了規則...",
+    "53": "#{lblMsgActor1}長官請放心，一切正常。剛才好像是有那麽一瞬間感覺有些眩暈，但目前來看沒什麽問題。\\n只是身上的衣服突然變成了另一套。",
+    "54": "#{lblMsgCommander}衣服...突然變了？\n\\!抱歉，\\fb這個通訊設備的視頻傳輸功能是單向的，從我這邊只能聽到你們的聲音\\fb。",
+    "55": "#{lblMsgCommander}如果那個衣服讓你們感覺有什麽不適的話還是換掉比較好。",
+    "56": "#{lblMsgActor1}沒事啦，就是感覺換的新衣服有點讓人害羞，但作為治安姬果然不應該這麽想呢...",
+    "57": "#{lblRules.3.iconBrief}\n#{lblRules.3.basic}",
+    "58": "#{lblMsgCommander}是嗎？沒事的話我就放心了。",
+    "59": "#{lblMsgCommander}目前關於世界規則的已知信息實在太少，稍微一個不經意的舉動就可能觸發後果很嚴重的規則。",
+    "60": "#{lblMsgCommander}訓練期間之所以要求你們禁止外出，只在治安局內進行禁閉式特訓，也是為了減少觸發規則的可能性。",
+    "61": "#{lblMsgCommander}雖然我自身是因為無法外出搜集情報，導致知道的規則，但街區裏的居民應該或多或少經歷過一些規則。",
+    "62": "#{lblMsgCommander}你們在執行任務期間可以多向居民打聽一下這方面情報。行動切記小心謹慎，避免觸發對自己不利的規則。",
+    "63": "#{lblMsgActor1}了解了，長官！",
+    "64": "#{lblMsgActor1}裝備都佩戴齊全了吧？",
+    "65": "#{lblMsgActor3}一切準備就緒。",
+    "66": "#{lblMsgActor2}我也是。",
+    "67": "#{lblMsgActor1}那我們出發吧。",
+    "68": "#{lblMsgActor1}仔細想想看自從我們進治安局開始就一直在治安局大樓內部做訓練，街上什麽樣都沒認真看過。",
+    "69": "#{lblMsgActor1}（嗯？等等...\\w[30]從沒出過治安局...這可能嗎？）",
+    "70": "#{lblMsgActor1}（從沒出去的話，各種生活必需物資是從哪獲取的？\\w[30]從治安局內部？\n\\!話說平時進食又是怎麽解決的？治安局內部有食堂嗎？）",
+    "71": "\\}落霞......\\w[60]\\{\n落霞......\\w[60]\\{\n落霞......",
+    "72": "#{lblMsgActor2}\\{\\{落霞！！",
+    "73": "#{lblMsgActor1}\\{嗯！？\\w[30]什麽事？",
+    "74": "#{lblMsgActor2}你其實對小武有點意思的吧？",
+    "75": "#{lblMsgActor1}\\{\\{欸！！\\w[30]怎麽突然扯到這個話題了？！",
+    "76": "#{lblMsgActor2}剛剛小武讓我們去見他的時候，明明可以立刻過去的，你還花了15分鐘做打扮♫",
+    "77": "#{lblMsgActor1}那是出於對長官的尊重，我覺得要打扮的得體一些而已！\n我...\\w[30]我對長官可沒有什麽特別的想法！！！",
+    "78": "#{lblMsgActor2}（一眼就能看穿的詭辯......）",
+    "79": "#{lblMsgActor3}必須得承認政武長官是很有人格魅力的人，非常適合作為丈夫入贅到我家門下。",
+    "80": "#{lblMsgActor1}\\{\\{入贅！！？",
+    "81": "#{lblMsgActor2}你這傻子讀一下空氣好不好！\n\\!再說與其讓你嫁給小武的話還不如讓我來算了！",
+    "82": "#{lblMsgActor2}啊...\\w[30]糟糕...",
+    "83": "#{lblMsgActor1}\\{\\星火~~~~~~！？你也對長官有意思嗎~~~~！！！",
+    "84": "#{lblMsgActor3}別開玩笑了好吧，長官怎麽可能會看上能輕松揮動鋼筋的怪力猩猩女。",
+    "85": "#{lblMsgActor2}那小武就會喜歡頭上頂著的兩個馬蜂窩的女人了嗎！？",
+    "86": "#{lblMsgActor3}嗯？你對我的發型有什麽意見嗎？",
+    "87": "#{lblMsgActor1}你們倆真是什麽時候都能吵起來呢...\n\\!可別忘了我們現在的首要任務是解決街區的治安問題。",
+    "88": "#{lblMsgActor3}那是當然。",
+    "89": "#{lblMsgActor1}除此以外，我認為我們還應該主動去調查下世界規則的成因，以及如何解除世界規則的效果。",
+    "90": "#{lblMsgActor2}嗯？規則是能被解除的嗎？",
+    "91": "#{lblMsgActor1}我也不清楚，但不排除存在的可能性。\n\\!如果真的存在解除規則的方法的話，那就表示可以解除限製長官自由的那條規則。",
+    "92": "#{lblMsgActor2}要是真的能夠那樣的話就太好了。",
+    "93": "#{lblMsgActor3}確實，這樣一來以後我們就不用再隔著一堵墻和長官說話了。",
+    "94": "#{lblMsgActor3}不過能和長官進行肢體接觸之後，某種意義上的局勢可能就要變得更緊張了。",
+    "95": "#{lblMsgActor1}現...現在先不要扯不相關的事了！工作要緊...我們趕緊開始調查任務吧！",
+    "96": "#{lblMsgActor2}對啊對啊！",
+    "97": "#{lblMsgActor3}是是♫"
+  },
+  "sceneEncounter": {
+    "1": "#{lblMsgActor2}說是要進行調查，但是該從哪開始呢？",
+    "2": "#{lblMsgCitizenA}幾位小姑娘是外地人嗎？之前好像從來沒見過啊。",
+    "3": "#{lblMsgActor1}你好，我們這個街區新上任的治安姬，從今天開始負責維護街區內的治安。",
+    "4": "#{lblMsgCitizenA}\\{啥？！你們居然是治安姬？\\w[60]\n（上下打量\\w[30]...\\w[30]...\\w[30]...）",
+    "5": "#{lblMsgCitizenA}\\{別開玩笑了好吧！\n負責維護街區治安的人怎麽可能會穿這麽不知廉恥的衣服！",
+    "6": "#{lblMsgActor1}\\{\\{嗚~~~！！！",
+    "7": "#{lblMsgCitizenA}\\{仔細一看這身衣服也太色情了，布料少到乳暈都沒完全遮住...\n你們穿成這樣都不會感到臉紅的嗎？！\\>",
+    "8": "#{lblMsgActor1}我...\\w[30]我們也有感到羞恥啦！！！\n但是治安姬工作服就是這個樣子，所以也是沒辦法的事...",
+    "9": "#{lblMsgCitizenA}不不不...\\w[30]說到底治安姬的服裝怎麽可能是...\\w[60]\\^",
+    "10": "#{lblMsgCitizenB}那個...\\w[60]我猜應該是「世界規則」搗的鬼吧，\n多半就是把穿的衣服強製替換掉之類的。",
+    "11": "#{lblMsgCitizenA}嗯~~~~~~\\w[30]那確實就能說得通了。",
+    "12": "#{lblMsgActor1}你們知道世界規則的事嗎？",
+    "13": "#{lblMsgCitizenB}是啊，幾年前#{lblCommander}小哥突然被軟禁起來。\n從那時候開始就知道有這麽個玩意了，當時可是在街區裏引起了很大的騷動。",
+    "14": "#{lblMsgCitizenB}不過從那之後，倒也沒再發現過其他影響生活的規則，所以大家也就漸漸不去在意這個事了。",
+    "15": "#{lblMsgCitizenB}但是從近幾年開始，「遠洋幫」利用世界規則在街區裏胡作非為，我們才了解到原來有許多規則從很早之前就有了，只是過去沒有遇到能夠觸發的條件。",
+    "16": "#{lblMsgActor1}你說的「遠洋幫」是什麽？",
+    "17": "#{lblMsgCitizenB}遠洋幫是近幾年在這個街區裏壯大起來的惡組織，\n\\!明面上是在經營街區東邊的那個夜總會，但私底下卻對這裏的居民橫征暴斂，無惡不作。",
+    "18": "#{lblMsgCitizenB}#{lblCommander}小哥又被軟禁在治安局裏，現在沒人能攔的了那群惡徒。",
+    "19": "#{lblMsgActor2}這麽看來這個「遠洋幫」就是造成社會治安下降的罪魁禍首。\n放心好了，我們會負責治理下這個幫派組織的。",
+    "20": "#{lblMsgCitizenB}對了，遠洋幫的事雖然也很重要，但現在更應該做的是把治安姬來了事情告訴街區裏的所有人。",
+    "21": "#{lblMsgCitizenB}街區裏的居民忍受遠洋幫欺壓太久，現在知道治安局有出動戰力的話，肯定能讓大家振作起來的！",
+    "22": "#{lblMsgCitizenC}有道理，我們拍一個視頻發到StreetTube裏吧。\n大家都有看這個視頻網站，只要在裏面發視頻很快所有人都會知道了。",
+    "23": "#{lblMsgCitizenC}小姑娘們做下自我介紹吧，我們來負責拍攝。",
+    "24": "#{lblMsgActor1}現在等著我們做的事畢竟還很多，我就簡單介紹下全員吧。我叫#{lblActor1}，是這個治安巡邏隊的隊長。",
+    "25": "#{lblMsgActor1}這兩位是#{lblActor2}，#{lblActor3}，隸屬於同一小隊。",
+    "26": "#{lblMsgCitizenA}落霞醬是吧，\\w[60]身材很高挑...胸部也非常的豐滿❤",
+    "27": "#{lblMsgActor1}\\{嗯！？",
+    "28": "#{lblMsgCitizenB}原來是叫星火醬呀，\\w[60]剛剛就覺得很可愛了，屁股也很大❤",
+    "29": "#{lblMsgActor2}\\{呃！\\w[30]等等...",
+    "30": "#{lblMsgCitizenC}飄絮醬舉止很優雅呢，\\w[60]大腿上的贅肉也相當誘人❤",
+    "31": "#{lblMsgActor3}\\{餵！！！你們這些色鬼在往哪裏拍啊？！麻煩拍一點正經的角度好不好！",
+    "32": "#{lblMsgCitizenC}可是...\\w[30]你們都穿成這個樣子了，不管從哪個角度都拍不出正經畫面啊...",
+    "33": "#{lblMsgActor2}\\{不要再強詞奪理了，信不信我們在整治遠洋幫之前先把你們收拾一頓！",
+    "34": "#{lblMsgCitizenC}\\{\\{咿~~~~！！！\\w[30]對不起對不起！我們知道錯了！",
+    "35": "#{lblMsgCitizenC}其實我們之所以會這樣也是世界規則導致的...",
+    "36": "#{lblMsgActor3}不要什麽東西都賴到世界規則頭上好不好，這事明明就是你們自己主動做的吧。",
+    "37": "#{lblMsgBroadcast}#{lblRules.23.iconBrief}\n#{lblRules.23.basic}",
+    "38": "#{lblMsgActor2}啊\\w[30]，是世界規則的廣播...\\w[30]在治安局裏也聽到過。",
+    "39": "#{lblMsgCitizenC}只要談話語境中涉及到某條規則時，世界規則系統就會像這樣科普詳細內容。",
+    "40": "#{lblMsgCitizenC}最近隨著「社會風紀」數值不斷下降，我發現自己腦子會越來越多地冒出猥瑣的想法。\n\\!雖說自己也在努力嘗試壓製，但根本控製不了自己。",
+    "41": "#{lblMsgActor1}世界規則居然連人的性格都能修改嗎...\\w[30]看來這個東西的能力比之前想象的要恐怖得多。",
+    "42": "#{lblMsgActor3}不過規則裏說的是有不雅行為社會風紀才會下降對吧，你們是看到什麽不雅行為了？",
+    "43": "#{lblMsgCitizenC}啊！\\w[60]我們最近經常去遠洋幫的夜總會玩，那裏每晚都有漂亮妹子進行色情舞蹈表演哦❤",
+    "44": "#{lblMsgActor2}\\{\\{結果還不是你們自己做的孽啊！！！",
+    "45": "#{lblMsgActor3}總之把手機拿過來給我們看下，把拍的太色的部分都刪掉之後才允許你發布。",
+    "46": "#{lblMsgCitizenA}那個...\\w[60]\n其實我們開的是實時直播...",
+    "47": "#{lblMsgActor3}\\{\\{餵！",
+    "48": "#{lblMsgCitizenA}噢————\\w[30]留言欄裏立刻就開始激烈討論了！",
+    "49": "#{lblMsgBroadcast}全體居民知曉了治安姬的存在，社會治安+{0}。",
+    "50": "#{lblMsgActor2}只是這樣就能讓社會治安上升嗎？",
+    "51": "快看，她們在那邊！",
+    "52": "#{lblMsgActor2}聚集了好多人啊...",
+    "53": "#{lblMsgCitizenD}你們就是新上任的治安姬了嗎？！",
+    "54": "#{lblMsgActor1}你們好。是的沒錯，我們從今天開始會負責維護這裏的治安。",
+    "55": "#{lblMsgCitizenE}\\{喔~~~~\\w[30]果然和視頻裏一樣，穿的超色情呀！",
+    "56": "#{lblMsgActor1}\\{呃呃呃~~~~~~",
+    "57": "\\n<?????>\\{\\{餵！你們這幫賤民群聚在這裏幹什麽！？",
+    "58": "#{lblMsgCitizenA}啊，是遠洋幫的雜魚。",
+    "59": "#{lblMsgRayA}\\{什麽雜魚！\n\\w[30]我們可是遠洋幫的正式戰鬥員，代號「鰩魚」！",
+    "60": "#{lblMsgRayA}我來收你們這個月的保護費了。\n\\!話說剛剛居然敢叫我雜魚是吧，從今天開始保護費繳納額上漲一倍！",
+    "61": "#{lblMsgRayA}馬上就給我把錢交出來，交不起的人全都要挨一頓揍！",
+    "62": "#{lblMsgActor1}原來遠洋幫的人就是這樣在街區裏橫行的嗎，看來確實是需要整治一下才行。",
+    "63": "#{lblMsgRayA}你們是什麽人？",
+    "64": "#{lblMsgRayB}大哥，他們好像是新上任的治安姬，剛剛我看StreetTube裏面有相關視頻。",
+    "65": "#{lblMsgRayA}不太可能吧...\\w[30]\n負責街區治安和風紀的人怎麽會在大庭廣眾之下穿的像癡女一樣。",
+    "66": "#{lblMsgRayA}\\{穿成這種樣子別說是維護治安了，看到這身打扮只會激發人的犯罪欲望吧！",
+    "67": "#{lblMsgActor1}\\{嗚~~~",
+    "68": "#{lblMsgRayA}不過抱歉，哪怕你們真的是治安姬，說實話我也沒感覺到任何威脅。\n\\!就憑幾個細腰細胳膊的小丫頭，真的覺得可以打贏我們嗎？",
+    "69": "#{lblMsgActor3}哼\\w[30]，如果不嫌棄的話可以試下哦♫",
+    "70": "#{lblMsgRayA}呵呵，看樣子你們是真想打一場啊，倒也沒問題。\n周圍聚集了那麽多看熱鬧的賤民，正好可以拿你們來殺雞儆猴。",
+    "71": "#{lblMsgRayA}\\{我正式向治安姬小隊申請決鬥！",
+    "72": "#{lblMsgBroadcast}決鬥申請已受理，決鬥開始。",
+    "73": "#{lblMsgActor3}決鬥？這是什麽？",
+    "74": "#{lblMsgBroadcast}#{lblRules.12.iconBrief}\n#{lblRules.12.basic}",
+    "75": "#{lblMsgActor2}挺有趣的嗎，居然還存在這樣奇怪的規則。",
+    "76": "#{lblMsgRayA}餵，你們還真是悠閑啊，知道接下來會發生什麽嗎？",
+    "77": "#{lblMsgRayA}馬上我們會先把你們揍趴下，然後當著在場所有人的面強奸你們。",
+    "78": "#{lblMsgRayA}對了，正好旁邊的這些看戲的正在用手機直播，\n\\!等會就把你們被淩辱的畫面發到網上傳開吧~❤",
+    "79": "#{lblMsgCitizenC}\\{喔~~~~~~\n\\w[30]那樣聽起來超級刺激啊~",
+    "80": "#{lblMsgCitizenA}\\{你在說什麽呢！\\w[30]這種時候肯定是希望治安姬姑娘們能贏才對吧！",
+    "81": "#{lblMsgCitizenA}不過戰敗的樣子也確實想看一下...",
+    "82": "#{lblMsgActor1}餵，你們幾個堅定下立場好不好。",
+    "83": "#{lblMsgActor1}有本事的話就來試試看好了。全員進入戰鬥模勢！",
+    "84": "#{lblMsgRayA}啊？？？？？",
+    "85": "#{lblMsgRayA}\\{\\{等等！！！\n你們是從哪掏出來這麽多兵器的？！剛剛你們身上明明什麽都沒有吧！！！",
+    "86": "#{lblMsgActor1}這種細節就別在意了。",
+    "87": "#{lblMsgRayA}\\{怎麽可能不在意！那武器看上去都能殺人了吧！！？\n我們這些底層雜魚可是什麽武器都沒有，怎麽可能打得過！",
+    "88": "#{lblMsgRayA}對了，你們幾個先上去頂住！",
+    "89": "#{lblMsgRayB}欸~~~~！？\\w[60]大哥你不會是想要趁機自己逃跑吧？",
+    "90": "#{lblMsgRayA}你這白癡！已經受理的決鬥可不允許逃跑，如果真的不想打的話我就已經向系統申請投降了。",
+    "91": "#{lblMsgRayA}現在還是有勝算的，你們先上去拖延下時間，我很快就能獲得打敗她們的辦法。\n\\!那麽這裏就拜托你們了。",
+    "92": "#{lblMsgActor1}先從你們幾個開始收拾嗎？\n\\!算了，反正在場的遠洋幫成員全都不會放過的。",
+    "93": "#{lblMsgRayB}完了...\\w[60]要被幹掉了...",
+    "94": "#{lblMsgRayC}呼呼呼♫",
+    "95": "#{lblMsgRayB}\\{喔？！\\w[30]戰鬥員C，你為什麽看上去如此自信？莫非是有什麽製勝的方法嗎？",
+    "96": "#{lblMsgRayC}看來你還不是很懂啊，這場戰鬥我們會輕松獲勝。\n等會打起來以後，她們肯定會因為一些未知的原因一直原地待機，乖乖被我們打。",
+    "97": "#{lblMsgRayC}啊，順帶一提，\\fb在本作中除了不主動攻擊外，通過大量使用技能消耗精力，導致沒有精力格擋攻擊也是一個不錯的辦法♫\\fb",
+    "98": "#{lblMsgActor1}抱歉\\w[30]，聽不懂你在講什麽。",
+    "99": "#{lblMsgRayC}\\{\\{原來這裏是劇情殺啊————！！！",
+    "100": "#{lblMsgRayC}\\{太卑鄙了！\\w[30]你們作為主人公就不會覺得羞恥嗎！！！",
+    "101": "#{lblMsgActor1}所以都說了，從剛才開始就不是很清楚你到底在說什麽...",
+    "102": "#{lblMsgActor2}那麽剩下來的敵人就只剩一個...",
+    "103": "#{lblMsgRayD}大哥，我們來幫忙了！",
+    "104": "#{lblMsgRayA}總算來了，\n\\你們趕快頂上去，我馬上繼續呼叫下一批增援。",
+    "105": "#{lblMsgActor1}\\{餵，你這是作弊吧！！",
+    "106": "#{lblMsgRayA}你是傻子嗎，如果世界規則系統真的不允許這種行為的話是會強製製止的，\n然而現在沒有一點動靜，也就代表規則系統認可這種操作。",
+    "107": "#{lblMsgRayA}要怪就怪你們總共就這麽點兒人吧♫\n只要通過車輪戰的方式把你們的體力消耗光，打敗你們也是早晚的事。",
+    "108": "#{lblMsgActor1}理解了，看來得在對方呼叫的增援到來之前把首領打倒才行。\n\\!星火，\\w[30]飄絮，\\w[30]我們集中進行一波配合攻擊。",
+    "109": "#{lblMsgActor2}好嘞！",
+    "110": "#{lblMsgActor3}了解！",
+    "111": "#{lblMsgRayA}\\{\\{又全滅了！！？\\>\n\\!等等！增援還沒來...\\w[60]\\^",
+    "112": "#{lblMsgRayA}\\{\\{啊~~~~~~~~~~~~！！！",
+    "113": "#{lblMsgBroadcast}決鬥結束，治安姬小隊獲勝。",
+    "114": "#{lblMsgActor2}嘻嘻，輕松獲勝♫",
+    "115": "#{lblMsgBroadcast}阻止遠洋幫的惡行，#{lblItems.security.iconLabel}+{0}；\n\\!阻止遠洋幫的下流意圖，\\#{lblItems.discipline.iconLabel}+{0}；\n\\!過程被大量居民目擊，所有點數*2。",
+    "116": "#{lblMsgActor1}我確認了下，所有數值確實如同廣播裏說的進行了增長。\n\\!社會治安這項現在已經是100分了。",
+    "117": "#{lblMsgActor2}那我們的主要任務就算是完成了呢♫",
+    "118": "#{lblMsgRayA}那...\\w[30]那個...",
+    "119": "#{lblMsgActor3}謔，原來你還有力氣站起來啊。",
+    "120": "#{lblMsgActor3}等等，我記得剛才你有被砍到吧，\n\\!怎麽現在完全看不到有傷痕的樣子。",
+    "121": "#{lblMsgBroadcast}#{lblRules.1.iconBrief}\n#{lblRules.1.basic}",
+    "122": "#{lblMsgActor2}原來如此，\n\\!那麽現在你是想做什麽？再和我們打一場嗎？",
+    "123": "#{lblMsgRayA}不不不...\\w[30]我們已經深刻檢討了自己的錯誤，\n\\!今後我們會退出遠洋幫，做回普普通通的居民。",
+    "124": "#{lblMsgActor2}餵，你這演技也太蹩腳了吧。真的覺得我們會信嗎？",
+    "125": "#{lblMsgRayA}\\{我發誓是真的！\n\\!\\}之前看到遠洋幫的人在街上作惡，心裏面就情不自禁地開始想和他們一樣做壞事...",
+    "126": "#{lblMsgBroadcast}#{lblRules.22.iconBrief}\n#{lblRules.22.basic}",
+    "127": "#{lblMsgActor2}欸~~~？\\w[30]好吧，被強行操控心智的話確實也沒有辦法了呢，\n\\!這規則還真是討厭。",
+    "128": "#{lblMsgRayA}對了，請你們收下這些錢。",
+    "129": "#{lblMsgActor1}你在做什麽呢，我們又不是強盜。",
+    "130": "#{lblMsgBroadcast}#{lblRules.17.iconBrief}\n#{lblRules.17.basic}",
+    "132": "#{lblMsgRayA}\\{拜托一定要收下！50%的利率可不是鬧著玩的，而且違背世界規則的話完全無法想象會遇到什麽可怕的懲罰...",
+    "133": "#{lblMsgRayC}只要把這筆錢當成遊戲裏打敗怪物以後獲得的金幣就好了！",
+    "134": "#{lblMsgActor1}又在說莫名其妙的東西了...\n\\!沒辦法，我們就接受這筆錢吧。記得以後不要再作惡了哦。",
+    "135": "#{lblMsgRayA}知道了，我們保證！",
+    "136": "#{lblMsgActor2}接下來該做什麽呢？\n\\!果然還是去殲滅遠洋幫總部？",
+    "137": "#{lblMsgActor1}貿然進攻敵人的大本營不太可取。\n\\!目前恢復社會治安的首要目標已經達成，我們可以在巡邏街區的同時開始調查如何解除規則。",
+    "138": "#{lblMsgCitizenC}關於解除規則的事，可以去遠洋幫夜總會東邊的那個小店鋪調查下。",
+    "139": "#{lblMsgCitizenC}那家店鋪在世界規則當初剛被發現不久後就開張了，店主聲稱是專門提供\\fb「規則配置」\\fb服務的。\n\\!那個人感覺神神叨叨的，所以我們普通居民一般也不會去搭理他。",
+    "140": "#{lblMsgCitizenC}不過我有一次路過那家店鋪的時候，發現遠洋幫的人在他店鋪前討論什麽。\n當時如果我沒聽錯的話，他們是有提到「激活新規則」之類的話。",
+    "141": "#{lblMsgCitizenC}既然能激活新規則的話，那說不定也能解除已有的規則呢，你們或許可以去那家店鋪打探下。",
+    "142": "#{lblMsgActor1}非常感謝你提供這個消息，我們會去調查下的。",
+    "143": "#{lblMsgCitizenC}不用謝，畢竟以後街區的治安都得靠你們來維護。\n如果有什麽能幫到你們的地方大家都會樂意幫忙的。"
+  },
+  "sceneMission": {
+    "1": "#{lblMsgAgent}守護這個街區的治安姬們，我已經恭候各位多時，\n想必各位是來詢問有關世界規則的事吧？",
+    "2": "#{lblMsgActor1}你這說法就好像知道我們會來找你一樣。",
+    "3": "#{lblMsgAgent}是的，\\fb那位大人\\fb已經囑咐過我，讓我在這個地方等待各位的到來。",
+    "4": "#{lblMsgActor2}這些神神叨叨的話題就留到以後再說吧。\n我就直奔主題，你就是讓這個「世界規則」系統運行的罪魁禍首嗎？",
+    "5": "#{lblMsgAgent}不不，小的可沒有這麽大的能耐發動如此強大的能力。\n創造並發動世界規則系統的是那位大人，我也只是受那位大人之命在這個街區受理世界規則相關請求而已。",
+    "6": "#{lblMsgActor3}剛才你有說你會受理世界規則相關請求對吧？具體有哪些內容呢？",
+    "7": "#{lblMsgAgent}視對象不同，我這裏可以受理的內容也有所區別。\n對於各位治安姬來說，我可以提供「重置規則」的服務，使用後所有非固有規則都將被強製關閉。",
+    "8": "#{lblMsgActor1}關閉規則？！那就是說所有生效的規則都可以關閉嗎？",
+    "9": "#{lblMsgAgent}不，可以關閉的僅限於新激活的世界規則。",
+    "10": "#{lblMsgAgent}目前正在生效中的規則全都被稱為「固有」類規則，這些規則永久生效，且無法被關閉。",
+    "11": "#{lblMsgAgent}如果真的想要關閉這些固有規則，那就必須直接委托那位大人才行了。",
+    "12": "#{lblMsgActor3}說起來從我們對話剛開始你就那位大人那位大人的...\n可以透露下這個人到底是誰嗎？",
+    "13": "#{lblMsgAgent}雖然我無法直接透露那位大人的信息，但他有拜托我向各位轉達如下委托：",
+    "14": "#{lblMsgAgent}\\fb只要你們能打倒本地惡組織團體「遠洋幫」的首領的話，他就答應親自和各位見上一面。\\fb",
+    "15": "#{lblMsgAgent}如果各位真的希望關閉目前正在運行中的固有世界規則的話，那就不應該錯過這個機會。",
+    "16": "#{lblMsgActor2}你們怎麽看待這件事？",
+    "17": "#{lblMsgActor3}目前看來想要進一步試探對方的話，除了接受這個委托以外也沒有別的辦法...\n不過一直在被那個幕後主使牽著鼻子走這點讓我很不爽。",
+    "18": "#{lblMsgActor1}其實這點可以換個方式思考，為了街區的治安，整治遠洋幫這件事我們遲早都要去做的。\n即使對方之後毀約了，對我們而言也沒有什麽損失。",
+    "19": "#{lblMsgActor3}這麽說也確實沒錯就是了。",
+    "20": "#{lblMsgActor2}那就這麽決定了呢，下一步就是去打倒遠洋幫首領。",
+    "21": "#{lblMsgActor1}我們決定接受這個委托了。",
+    "22": "#{lblMsgAgent}好的，期待你們能順利完成委托。",
+    "23": "#{lblMsgRayA}店裏面已經收拾好了。",
+    "24": "#{lblMsgRayA}另外剛剛老大得知了治安姬出動的消息，緊急通知所有戰鬥員回去布置防禦工事。\n夜總會的經營就交給你們非戰鬥成員了。",
+    "25": "\\n<\\C[31]#{lblWaiter}>了解了，就交給我們吧。"
+  },
+  "sceneResetRule": {
+    "1": "#{lblMsgActor1}代理人，我們可以在你這裏申請重置規則對吧？",
+    "2": "#{lblMsgRayA}\\{餵！我們還在談正事呢，你這臭婊子別插話！",
+    "3": "#{lblMsgActor1}\\{噢❤！？嗯~❤...嗯❤❤❤",
+    "4": "#{lblMsgAgent}沒問題，只要申請重置規則的話，所有新增的規則都會被關閉，這些規則造成的負面效果也會一並被移除。",
+    "5": "#{lblMsgAgent}不過這麽做需要付出一些「代價」，那就是每項被移除的負面效果都會被轉化為一定數量的\\I[2]惡行點數。",
+    "6": "#{lblMsgActor1}\\>\\{明白了，那就這麽做吧！\n\\w[30]無論如何我一定會把政武救出來的！！",
+    "7": "#{lblMsgAgent}好的，那麽開始重置規則。",
+    "8": "#{lblMsgRayA}（這家夥，是對治安局局長的思念讓這家夥還保留著一絲反抗的意誌嗎？）\n\\w[30]欸？？？？？我的身體怎麽......\\w[60]\\^",
+    "9": "#{lblMsgActor1}身上那些奇怪的感覺終於消失了。",
+    "10": "#{lblMsgActor3}之前就好像腦子已經完全不屬於自己了一樣，這樣的感覺不想再體驗了...",
+    "11": "#{lblMsgActor2}\\{對了，那幾個混賬大叔跑哪去了？！\n之前竟然敢對我們做那麽多過分的事，一定要讓他們嘗嘗苦頭！！",
+    "12": "#{lblMsgActor1}剛才好像看他們身上突然開始發光，然後就消失了？",
+    "13": "#{lblMsgAgent}不太建議這麽做，因為重置規則的本質其實是把從規則開啟以後發生的所有事情，包括這些事情導致的結果全部從時間線中抹除。",
+    "14": "#{lblMsgAgent}對於這條時間線上的人來說，之前的事情全都沒有發生過。\n剛剛奴役了你們的那三個惡徒此刻應該還在街區的某處，進行著一條和你們從未有過任何交集的時間線。",
+    "15": "#{lblMsgAgent}雖然你們作為申請服務的人我會給你們保留這段記憶，不過還是建議把之前所有的遭遇當作從本質上就沒有發生過比較好。",
+    "16": "#{lblMsgActor2}欸~~~~~~~~~~~~？\\w[30]難不成要讓我們就這樣放過他們嗎？",
+    "17": "#{lblMsgActor1}不過即使我們現在去揍他們一頓，他們也會感覺莫名其妙吧，畢竟從他們現在的角度而言就是沒對我們做過任何事。",
+    "18": "#{lblMsgActor1}現在還是先把精力放在如何打倒遠洋幫首領上吧，畢竟徹底解除世界規則，然後讓長官恢復自由才是我們的主要目的。",
+    "19": "#{lblMsgActor2}嗯...\\w[30]雖然還是感覺有點不甘心，但好像也只能這樣了..."
+  },
+  "sceneBuyRule": {
+    "1": "#{lblMsgAgent}你們好，請問是要辦理世界規則相關業務嗎？",
+    "2": "#{lblMsgRayA}其實我們幾個也是第一次來這店，可以說下在這都能做啥嗎？",
+    "3": "#{lblMsgAgent}視對象不同，我這裏可以受理的業務也有所區別。\n對於各位遠洋幫的成員，可以在我這裏支付惡行點數來激活新的規則。",
+    "4": "#{lblMsgRayA}惡行點數？\n\\w[30]啊，說起來之前我在做各種壞事時，世界規則廣播裏都會通告什麽「惡行點數增加」之類的，原來是用在這裏的啊。",
+    "5": "#{lblMsgAgent}是的，所有遠洋幫成員積累的惡行點數會匯聚在一個賬戶內，之後任何遠洋幫成員都可以在我這裏使用這些惡行點數激活世界規則。",
+    "6": "#{lblMsgRayA}喔~~~~~~♫\\w[30]那挺不錯的，快讓我看看都能激活些什麽新規則吧！",
+    "7": "#{lblMsgAgent}沒問題，請在這個面板上查看可以激活的規則項，惡行點數會自動扣除。"
+  },
+  "sceneFinalStage": {
+    "1": "#{lblMsgActor2}\\{哇...代理人？！\\w[60]\n嚇了我一跳，你怎麽突然就冒出來了！",
+    "2": "#{lblMsgAgent}已確認各位擊敗了遠洋幫首領，我是來履行當初的承諾，引領各位去見那位大人。",
+    "3": "#{lblMsgAgent}我接下來會使用傳送能力把各位直接傳送至那位大人的所在地。",
+    "4": "#{lblMsgActor1}了解了，那麽就麻煩你了。",
+    "5": "#{lblMsgActor2}好奇特的空間啊。",
+    "6": "#{lblMsgGod}喲，\\w[30]你們好。",
+    "7": "#{lblMsgActor2}\\{小武？？！",
+    "8": "#{lblMsgActor1}等等，這不是長官！\n\\w[30]雖然長相一樣，但表現出的氣場完全不同...",
+    "9": "#{lblMsgGod}說的沒錯，你們可以稱呼我為「管理者」。我本身並不具有實體，因此你們就當我為了方便和你們溝通隨便借了這世界上某個人的形象好了。",
+    "10": "#{lblMsgGod}啊，各位沒有必要表現得那麽緊張啦。\n\\w[30]這裏可沒有Boss戰喲，這次的試煉只要能見到我就算是遊戲通關了。",
+    "11": "#{lblMsgGod}嗯~~~\\w[30]能看得出來你們臉上有很多疑問呢。\n\\w[30]如果有什麽想問的就直接說出來吧，我都會一一回答的。",
+    "12": "#{lblMsgActor1}我們剛剛從虎鯨那裏了解到，目前我們所在的世界可能不是一個真實的世界，這是真的嗎？",
+    "13": "#{lblMsgGod}是這樣沒錯哦。這裏是由我創造出來的虛擬世界，這個世界內的所有事物，包括各位的形體都不是真實的。",
+    "14": "#{lblMsgActor2}原來我們是處於虛擬世界？！\\w[60]那我們現在還能回到現實嗎？",
+    "15": "#{lblMsgGod}這恐怕有些困難，因為現實世界現在已經瀕臨毀滅。在現實世界的恢復工程完成前，各位需要一直待在這個世界中。",
+    "16": "#{lblMsgActor2}欸？？？\\w[60]\n瀕臨毀滅是什麽意思？現實世界到底發生了什麽！？",
+    "17": "#{lblMsgGod}啊...各位不必這麽擔心啦，你們的身體都被保管在休眠艙內，至少生命安全方面是可以絕對保證的。",
+    "18": "#{lblMsgGod}但是唯獨關於世界毀滅相關的信息，我個人判斷現在還不適合透露給大家。等到恢復工程結束後，各位從休眠艙中被喚醒時，自然會被告知真相。",
+    "19": "#{lblMsgActor3}好吧，關於這方面我們就不進一步過問了。雖說謎團還有一大堆，不過至少可以確定你對我們沒有惡意。",
+    "20": "#{lblMsgActor3}不過我還有些其他想問的，為什麽這個虛擬世界被設置了這麽多「世界規則」？\n此外剛剛虎鯨有說過我們目前其實正在經歷過去曾經發生過的事情，為什麽要這麽做？",
+    "21": "#{lblMsgGod}我可以先從第二個問題開始回答。各位關於世界毀滅前的記憶被消除後，我需要將各位的記憶從過去無縫銜接到這個虛擬世界。\n這個記憶銜點肯定不能選取各位在現實世界最後記憶，畢竟最後的記憶就是關於世界毀滅的記憶，而這段記憶已經暫時被消除了，因此銜接點被選在世界毀滅前更早的一個時間點。",
+    "22": "#{lblMsgGod}這個虛擬世界也是基於選取的那個時間點往後的延續，但是基於每個人的性格與人生經歷，大概率會在一段時間內做出和過去相同的行為和選擇，因此某種程度上來說確實是把過去做過的事情重新做了一遍。",
+    "23": "#{lblMsgGod}但這個記憶銜接並不是完美的，銜接本身會留下一點銜接時間點往後的記憶，如果某人突然回想起了這些記憶，就可能會促使他認為自己把過去的事情又經歷了一遍。",
+    "24": "#{lblMsgGod}遠洋幫的老大虎鯨目前就處於這樣的狀態，問題在於如果放任一個人這樣不斷探究記憶中的矛盾的話，這個人的精神會被兩套記憶徹底攪亂，最終導致精神方面出現異常，最嚴重的情況下會陷入癲狂。",
+    "25": "#{lblMsgActor3}原來如此，所以才會委托我們解決遠洋幫首領。\n只要我們打擊遠洋幫，幾項社會治安相關的數值就會增長，進而觸發對應的世界規則改善社會內所有人的人格，減少對異樣感的反抗情緒。",
+    "26": "#{lblMsgGod}你說的沒錯，這個虛擬世界是在世界毀滅前勉強開發完成，所以還很不完善。正常人生活一段時間後或多或少都會開始察覺到其中的不自然之處，如果放任不管的話，很快所有人都會精神崩潰。",
+    "27": "#{lblMsgGod}為了防止這種事情發生，我創造出了「世界規則」這套強製修正機製。我今天把這些信息告訴你們，也是因為希望你們作為治安姬在往後很長的一段時間內通過「世界規則」繼續對這個虛擬世界進行調控。",
+    "28": "#{lblMsgActor1}了解了，我們答應你的請求，但是相應的我也要提一些條件。",
+    "29": "#{lblMsgActor1}一是徹底移除掉監禁政武長官的那條規則，二是從你這獲得的信息我們也希望告知給政武長官，相信多一個人協助管理社會對你來說也不是什麽壞事。",
+    "30": "#{lblMsgGod}嗯，完全沒問題。",
+    "31": "#{lblMsgActor1}三是麻煩把那些亂七八糟的色情相關的規則全都刪掉。說到底那些規則到底有什麽意義啊？！",
+    "32": "#{lblMsgGod}啊~\n\\w[30]之所以設立那些規則是因為我既需要設置一些和我見面之前的試煉，但是又不希望你們經受什麽過於痛苦的經歷。\n不過沒問題，我會把那些規則都刪除掉的。",
+    "33": "#{lblMsgGod}那麽對話差不多就這樣結束吧，我現在就把你們傳送回街區內。在你們返回的那一瞬間所有規則改動都會生效。",
+    "34": "#{lblMsgActor1}等等！我還有一個事想問一下！",
+    "35": "#{lblMsgActor1}雖然可以確定你和我們認識的政武不是同一個人，但是你...\\w[60]真的只是偶然選擇了政武的形象嗎？",
+    "36": "#{lblMsgGod}如果是這次的你們的話，我就可以安心了。一定要和過去的那個「我」好好相處哦。",
+    "37": "#{lblMsgActor1}\\{等......\\w[60]\\^",
+    "38": "#{lblMsgActor2}啊，回來了。",
+    "39": "#{lblMsgActor2}等等，突然發現我們是不是忘了讓管理員把這身羞恥的衣服換掉了？",
+    "40": "#{lblMsgActor1}這麽一說確實...\n\\w[60]算了，等會我們回去自己換掉吧...",
+    "41": "#{lblMsgActor3}落霞，關於你在剛剛最後和管理者說的話，那究竟是...",
+    "42": "#{lblMsgActor1}說實話，我也有很多不太確定的地方，\\w[60]但至少可以肯定的是從今往後我們會一直站在政武這一邊的。",
+    "43": "#{lblMsgActor3}說的也是。",
+    "44": "#{lblMsgCommander}\\{\\{落霞————！星火————！飄絮—————！",
+    "45": "#{lblMsgCommander}\\落霞！\\w[30]我剛剛發現原本封閉的辦公室突然多了一道門，然後我試了下，居然可以直接出來。街區內是發生了什麽事嗎？",
+    "46": "#{lblMsgActor2}\\{啊~小武你終於出來啦！哈哈哈哈————",
+    "47": "#{lblMsgCommander}\\{喔~！！\n\\w[60]別突然撲上來啊！\\w[30]還有你們這身衣服到底是怎麽回事！！？",
+    "48": "#{lblMsgActor3}餵！你這肌肉腦猩猩不要趁機貼長官那麽近！",
+    "49": "#{lblMsgActor1}\\{至...至少也要等我們都換成正經的衣服再見面比較好！",
+    "50": "#{lblMsgActor2}欸~~~~~~\\w[30]畢竟小武好不容易才...\\w[60]\\^"
+  },
+  "sceneDance": {
+    "1": "#{lblMsgCompere}可惡啊，負責表演的那幾個妹子受不了觀眾毛手毛腳，今天集體辭職不幹了。\n現在這時候要到哪去找幾個火辣性感的女孩子來跳淫舞呢...",
+    "2": "#{lblMsgCompere}對了，眼前不是就有完美符合要求的人選嗎？！\n如果各位治安姬大人能來舞臺上跳下品舞蹈的話一定能吸引到很多顧客的！！！",
+    "3": "#{lblMsgActor1}你這家夥...\\w[30]知道我們的主要職責之一就是維護社會風紀嗎？",
+    "4": "#{lblMsgCompere}別這麽說嗎，只要觀眾能在這裏通過觀賞娛樂的方式充分發泄積累的欲望，之後真的去實施有傷風化行為的可能性就會大大減少，所以某種程度上也算是維護社會風紀了。",
+    "5": "#{lblMsgCompere}而且報酬方面絕對不會虧待你們的，如果什麽時候想要上場的話請務必和我說啊。"
+  },
+  "sceneBase": {
+    "1": "#{lblMsgRayA}加油，再把這個寶箱搬進去戰鬥區域的布置就完成了。",
+    "2": "#{lblMsgRayB}呼————呼————\n\\w[30]累死我了...這些箱子裏到底裝了什麽東西啊...",
+    "3": "#{lblMsgRayA}誰知道呢，反正是老大要求我們布置這些東西的，就別管這麽多了。",
+    "4": "#{lblMsgRayA}把這個寶箱搬到你負責的防守崗位以後就不要出來了，治安姬們估計很快就會找到這，夜總會的運營交給非戰鬥成員就行。",
+    "5": "#{lblMsgRayB}知道了。"
+  },
+  "sceneArena": {
+    "1": "#{lblMsgActor2}\\{欸~~~！？？\\w[30]地面居然是軟的？",
+    "2": "#{lblMsgActor3}這房間到底是怎麽回事，看起來真惡心...",
+    "3": "#{lblMsgRayA}看來你是完全不懂這個房間的好處啊。沒辦法，就讓我費心來給你來講解一下吧♫",
+    "4": "#{lblMsgActor1}其實我們並不怎麽想聽來著...",
+    "5": "#{lblMsgRayA}這片戰鬥專用區域可是我們遠洋幫的集大成之作，房間的地面和墻面全都是由乳膠床墊+皮質外套做成。",
+    "6": "#{lblMsgRayA}並且如果你以為就只有這些的話可就大錯特錯了，目前所有的地面模塊處於地磚模式，而我只要像這樣操控的話...",
+    "7": "#{lblMsgRayA}就做成了一個有一定高低差的臺階！\n如此一來想要玩一些需要少量高低差才能達成的Play就完全沒有問題了♫",
+    "8": "#{lblMsgActor1}啊？？？",
+    "9": "#{lblMsgRayA}然後如果再將它擡升一些的話...",
+    "10": "#{lblMsgRayA}像這樣就可以當作凳子或者沙發用了！\\!\n並且如果兩塊地磚同時升起的話...",
+    "11": "#{lblMsgRayA}就可以當作床來用了！\\!\n這個房間內的每一塊地磚和墻磚都是一個可移動模塊，因此不論想玩什麽姿勢的Play都沒問題！！",
+    "12": "#{lblMsgActor2}所以這到底能用來幹啥？",
+    "13": "#{lblMsgRayA}\\{用處就是等會把你們打趴以後可以隨心所欲的用各種玩法來盡情地草你們啊！！！",
+    "14": "#{lblMsgRayA}鰩魚小隊向治安姬小隊發起決鬥！\n老大已經下達命令讓我們全力阻止你們前進，不光是這個房間，後面每個房間裏都有大量的遠洋幫成員鎮守，你們就別指望能碰到老大一根手指了！",
+    "15": "#{lblMsgActor1}如果有本事的話那就來阻止我們看看吧。",
+    "16": "#{lblMsgRayA}那麽我也要在這裏發揮出我全部的實力...\\w[60]",
+    "17": "#{lblMsgRayA}\\{小的們趕緊上！\\w[30]我在後方呼叫更多支援！",
+    "18": "#{lblMsgRayB}好的，大哥！",
+    "19": "#{lblMsgActor1}餵...\\w[30]你們遠洋幫的人全都是這副德性嗎？",
+    "20": "#{lblMsgRayA}\\{閉嘴！說到底領導者就不該是專門負責打架的，反正只要最後結果能贏怎麽樣都行！",
+    "21": "#{lblMsgActor1}那麽戰術還是像之前一樣，首先清理掉嘍嘍，然後快速解決召喚小弟的首領。\n治安姬小隊全員進入戰鬥模式！"
+  },
+  "sceneChest": {
+    "1": "#{lblMsgActor2}箱子裏裝的是什麽東西？",
+    "2": "#{lblMsgActor1}看起來像是某種裝置？\\w[60]不是很清楚啊...",
+    "3": "#{lblMsgActor1}\\{等等！\\w[30]腦袋中忽然閃現出一瞬間的信息...\\w[30]或者說是曾經的記憶？！\n\\w[60]莫非應該像這樣安裝在武器上...",
+    "4": "#{lblMsgActor1}果然，這是我們治安姬專屬武器的強化配件！\n除了強化武器原本戰鬥力以外，還會給予武器原先所不具有的額外功能。",
+    "5": "#{lblMsgActor2}經你這麽一說我好像也想起來了，確實是有這種東西來著...",
+    "6": "#{lblMsgActor3}我也是...\\w[30]\n但為什麽腦子裏會有這些信息呢？我完全不記得以前長官有告知過我們這些信息啊...",
+    "7": "#{lblMsgActor2}而且為什麽遠洋幫的人會有這些配件？說到底他們為什麽要像這樣專門放在箱子裏？\n感覺好混亂啊...",
+    "8": "#{lblMsgActor1}我猜遠洋幫的首領是故意這樣做，以此來向我們暗示某些信息。\n這個首領肯定知道一些我們不知道的情報，等我們見到他之後再把這些問題好好向他問清楚吧。"
+  },
+  "sceneDemandSex": {
+    "1": "#{lblMsgActor1}你們幾個給我站住！",
+    "2": "#{lblMsgCitizenA}啊？是在叫我們嗎？",
+    "3": "#{lblMsgActor1}沒錯，你們幾個被逮捕了。",
+    "4": "#{lblMsgCitizenA}\\{欸欸欸欸欸~~~！！！為什麽？！！",
+    "5": "#{lblMsgCitizenB}噢！？\\w[30]這是要幹什麽？",
+    "6": "#{lblMsgActor2}光看你的樣子就知道你已經儲存了很多精液了對吧？\n在這條街區私藏精液可是違法行為♫",
+    "7": "#{lblMsgActor3}沒錯，儲存太多精液就會讓人產生淫蕩的欲望，產生淫蕩的欲望後就有可能去做下流的事情，這樣就會導致社會風紀下降。",
+    "8": "#{lblMsgCitizenC}不不不，這完全是身體自發的行為，不是我想控製就能控製得了的啊...",
+    "9": "#{lblMsgActor3}放心好了，只要乖乖交出你們的精液，我們就不會再追究了❤",
+    "10": "#{lblMsgCitizenC}收繳是什麽意思？\\w[30]難道說...",
+    "11": "#{lblMsgActor1}那麽我們快點去賓館吧，對於你們這些違法私藏惡臭精液的犯罪者，就需要讓我們用下流小穴一滴不剩的壓榨出來❤"
+  },
+  "msgSleep": "打算睡多久？",
+  "msgRuleShop": "#{lblMsgAgent}\\>請問要激活哪條規則？激活任意一條規則所需的惡行點數為1000。\n目前所持\\I[2]惡行點數：{0}",
+  "msgConfigRuleRequest": "#{lblMsgAgent}了解了，請在這個面板上配置規則。",
+  "msgConfigRuleComplete": "#{lblMsgAgent}規則配置完成並且開始生效。",
+  "msgBaseBlock": "抱歉，目前正在清理會場，再過一會兒就要開業了，請耐心等待一會兒哦。",
+  "msgWhatToKonw": "#{lblMsgAgent}想了解什麽？",
+  "msgRuleTrigger": [
+    "規則的觸發機製",
+    "#{lblMsgAgent}雖然個別規則可能會有例外，但大體上【強製效果】類規則都會在規則達到觸發條件時由規則系統強製執行。\n例如【#{lblRules.14.iconBrief}】，當任何人在世界規則禁止使用暴力的情況下施展暴力行為，世界系統就會立刻對其施加禁錮效果，從而使暴力行為無法施展。",
+    "#{lblMsgAgent}而大部分【常識改變】類規則並不會強製發動，這類規則把信息植入治安姬大腦深處，需要別人通過對話提及相關規則作為觸發引信。\n例如【#{lblRules.25.iconBrief}】，需要在決鬥前主動提醒治安姬「不進行任何反製，堂堂正正的吃下攻擊才是戰鬥的常識」，這樣治安姬才會想起這件事並默認其為常識。",
+    "#{lblMsgAgent}這類常識改變效果在觸發一段時間後治安姬就會自動忘記，這樣一來雖說遇到相同情況時就需要再次通過對話觸發，但也避免了治安姬記起過去在同一場景下自己會陷入不利的狀況，從而刻意進行規避地情況。"
+  ],
+  "msgCommonsenseRule": [
+    "決鬥前常識改變類規則",
+    "#{lblMsgAgent}如果有任何決鬥前可使用的常識改變類規則被開啟，那麽遠洋幫成員就會主動去使用這條規則。但如果開啟了多條決鬥前常識改變類規則，那麽遠洋幫成員只會選擇觸發其中一條規則。",
+    "#{lblMsgAgent}因為決鬥前只會隨機選擇一條常識改變規則，所以如果特別偏愛某條規則，或者對某些規則比較無感，可以根據自己的喜好選擇性的關閉一些規則。"
+  ],
+  "msgRuleConfig": [
+    "關於規則配置的建議",
+    "#{lblMsgAgent}如果是剛開始玩這個遊戲，應該會覺得把所有規則都開啟會很帶感吧。\n但是規則之前其實存在著優先級差異，當某些規則開啟後，可能就永遠無法達到觸發另一些規則的場景。",
+    "#{lblMsgAgent}以【#{lblRules.26.iconBrief}】為例，一旦開啟後，就可以通過言語觸發的方式讓治安姬認為決鬥的方式就是與對方性交。\n前一刻還信誓旦旦說要打倒敵人的治安姬轉眼就主動和對方淫靡地交合在一起，相信會有很多玩家喜歡這種Play。",
+    "#{lblMsgAgent}但一定也會有另一部分玩家認為普通地通過暴力把治安姬打趴，然後再對其施展強奸作為懲罰會更帶感吧。\n這時就可以選擇關閉上面的規則，因為一旦治安姬主動與惡徒做愛的話就不會再觸發常規戰鬥了。",
+    "#{lblMsgAgent}因此比起一股腦地開啟所有規則，根據自己的喜好去選擇性地開啟或關閉部分規則，配置符合自己性癖的規則列表也不失為一個好選擇。\n如果對某類規則的Play玩膩了，也可以換成其他配置試試。"
+  ],
+  "msgAgentCall": "請問需要辦理什麽業務呢？",
+  "msgResetRule": [
+    "#{lblMsgActor1}代理人，我們要申請重置規則。",
+    "#{lblMsgAgent}收到請求，立刻開始重置規則。",
+    "#{lblMsgRayA}餵！你這臭婊子別插話...\\w[30]\\^",
+    "#{lblMsgAgent}規則重置完畢。"
+  ],
+  "msgEnemyOrder": [
+    "業績好的幹部團隊可以分配到更優質的戰鬥裝備、更多的普通戰鬥員以及離老大更近的房間位置！\n",
+    "目前各幹部團隊的業績排行：\n",
+    "第一名：{0}；第二名：{1}；第三名：{2}"
+  ],
+  "msgDance": "#{lblMsgCompere}今天準備好上臺表演了嗎？",
+  "msgTrialBlock": "此部分內容會在正式版中開放，如果對本遊戲感興趣的話歡迎購買該遊戲的正式版。",
+  "msgDisclaimer": "\\>● 本遊戲包含成人內容。如果你還未滿18歲，請勿遊玩。遊戲中登場的所有角色均已成年。\n\\>● 本遊戲中的故事純屬虛構。遊戲中出現的人名、角色、事件、場所和劇情均為虛構內容。如與現實雷同，純屬巧合。\n\\>● 遊戲中表達的觀點和看法僅為故事需要，並不反映KineticDog社團及旗下成員或販售此遊戲的平臺的觀點和看法。\\w[30]\\^",
+  "msgExit": "\\>要暫時先離開敵方大本營嗎？離開的話敵人會重新組建防線，下一次進攻時就要從頭開始。",
+  "msgBartender": "\\n<酒保>如果在與遠洋幫惡徒的決鬥中敗北，遠洋幫的惡徒就會沒收走角色身上所有從戰鬥區域獲得的裝備。\n不過某種程度上來說這些裝備本身就是從戰鬥區域內「搶」來的，所以也只能算是遠洋幫的人拿回原本屬於他們的東西了吧...\\w[30]大概是這樣...\n如果覺得在戰鬥區域內推進過於困難，可以在低難度區域刷到初級裝備後立刻撤退，這樣裝備可以保留，並且下次再進入戰鬥區域時寶箱會重新刷新。",
+  "msgCitizenEating": "\\n<#{lblCitizen}>雖說戰鬥中要預留用於防禦的#{lblMp}，但在戰鬥時還是要靈活變通。比如可以確保本輪必定可以全滅敵方首領時，就不需要保留#{lblMp}了。再比如在戰鬥初期敵人較多的情況下，通過徹底放棄一個人的防禦來多打死對面一個首領，就能在接下來的戰鬥中極大地緩解壓力。",
+  "msgCitizenSitting": "\\n<#{lblCitizen}>我方角色攻擊包圍自己的某個雜兵時可能會遭到其他雜兵妨礙，但是攻擊包圍其他角色的雜兵時絕對不會被妨礙，因為那些雜兵的註意力都在他們包圍的角色身上。\n因此當一個角色解決完自己周圍的雜兵以後，協助隊友清理周身雜兵是一個很好的選擇。",
+  "msgBankerA": [
+    "\\n<荷官A>我來講解一下常規戰鬥的主要機製，每場戰鬥敵方都會有一個或多個首領在場上。每一個首領都會在回合開始時呼叫三個雜兵增援分別牽製住我方的三個角色。單個雜兵很弱，很容易解決，可是一旦數量積累起來就會使用各種妨礙手段阻礙我方行動，因此戰鬥中最優先的事項就是解決牽製角色的雜兵。",
+    "\\n<荷官A>在我方回合，可以不限製次數地使用自己的技能，但技能本身需要消耗#{lblMp}，#{lblMp}如果不夠的話就無法使用技能了。\n我方技能分為對雜兵用攻擊技能和對首領用攻擊技能，技能只能對針對的敵人使用。在角色周身有雜兵牽製時，這些雜兵會幹擾角色，使其無法使用對首領技能，也無法使用對雜兵技能攻擊牽製其他隊友的雜兵，想要進行這些操作都要等清理完周身雜兵才行。",
+    "\\n<荷官A>在敵方回合，敵方每一個首領都會主動進行一次攻擊，如果被攻擊的角色有20點#{lblMp}的話（部分技能可以減少甚至豁免#{lblMp}消耗），就可以對這次攻擊進行格擋，格擋可以完全無效化此次攻擊的傷害和效果。但如果#{lblMp}不足，那麽就會因為無法格擋而吃下該次攻擊。",
+    "\\n<荷官A>註意在本作中被敵人攻擊到的懲罰非常嚴重，除了削減#{lblHp}以外，角色還會因為劇痛（或其他原因，視攻擊技能而定）而喪失所有#{lblMp}，並進入2回合（包括當前回合）的無法行動狀態。\n畢竟我方角色雖然攻擊能力強悍，但說到底也只是普通的女孩子的肉體而已，只要在肚子上結結實實來一拳的話，都會因為劇痛而暫時失去行動能力。\n所以在我方回合一定要合理規劃#{lblMp}的使用，避免在敵方回合沒有足夠的#{lblMp}進行格擋。\n當我方角色處於無法行動狀態且周身還有雜兵牽製時，這些雜兵還會在下回合對我方角色實施絞首強奸。被絞首強奸期間無法使用其他技能，想要自由行動就必須先掙脫敵人的束縛。",
+    "\\n<荷官A>在我方角色周身進行牽製的雜兵雖然不會主動進行攻擊，但會做出各種嚴重幹擾我方角色的行動，在戰鬥中是需要考慮優先解決的目標，具體會使出哪些幹擾手段可以問下我身後的同事。",
+    "\\n<荷官A>只要打敗場上所有的敵方首領，決鬥就會算我方勝利並自動結束，剩下的雜兵都會因為士氣崩潰逃跑。\n如果我方所有角色都#{lblHp}歸零進入被擊倒狀態，就會判定戰鬥敗北。"
+  ],
+  "msgBankerB": [
+    "\\n<荷官B>我來講解一下敵人的各種妨礙機製。本作中的敵人不是乖乖站在原地等你行動的木樁，會使用各種手段導致我方行動失敗。首先我方角色周身有雜兵牽製時是無法攻擊敵方首領和其他隊友周身雜兵的，這時要先使用對雜兵技能打倒自己周身的雜兵。而在對其中一個雜兵進行攻擊時，其他雜兵就會展開妨礙。",
+    "\\n<荷官B>當我方角色攻擊一個周身雜兵時，其余雜兵可能會瞬間從背後出手阻攔我方攻擊，這會導致攻擊無法施展，且技能使用的#{lblMp}依然會被消耗。\n每有一個未被攻擊到的雜兵，【妨礙】概率都會增加30%，也就是說當周身雜兵達到5個，而自己的技能只能攻擊到一個雜兵，那麽只靠自己就永遠無法脫困了。\n有部分技能可以攻擊到多個雜兵，這類技能不但可以一次打倒多個雜兵，並且這些被攻擊的雜兵都無法參與到【妨礙】中，因此對付多個雜兵的技能非常有用。",
+    "\\n<荷官B>然後在敵方回合，敵方首領發動攻擊時，我方角色周身的雜兵還會妨礙角色角色的格擋。一旦格擋被妨礙，那麽敵人攻擊必定會命中。\n與我方攻擊時相同，周身每有一個雜兵，【妨礙】概率都會增加30%，且因為這些雜兵沒有被攻擊，所以都可以參與到【妨礙】當中，被妨礙的總概率會比我方攻擊時更高。\n我方角色被攻擊命中的懲罰要比角色攻擊被阻攔的懲罰大得多，因此在我方回合結束時要盡量確保所有角色周身沒有雜兵。",
+    "\\n<荷官B>除了以上兩種【妨礙】外，還有一些類型的幹擾是由特定世界規則導致的，也會導致無法攻擊或者無法格擋，詳情可以去查看對應世界規則描述。"
+  ],
+  "msgBankerC": [
+    "\\n<荷官C>我來說明一下戰鬥中涉及的主要計算公式。關於公式中用到的各種屬性，戰鬥中可以通過技能【#{lblSkills.11.label}】查看，技能倍率和攻擊雜兵數可以在技能描述內查到。",
+    "\\n<荷官C>我方攻擊傷害 = 我方#{lblAttack} * 我方使用技能#{lblRate} / 敵方#{lblDefense} * 100。如果發生暴擊則傷害*3，初始【#{lblCritRate}】為20%。實際傷害會有20%的上下波動。敵方同理，但不會發生暴擊。",
+    "\\n<荷官C>我方攻擊周身雜兵時被妨礙概率 = （周身雜兵數 - 技能攻擊雜兵數） * 30%。\n敵方首領攻擊時我方格擋被妨礙概率 = 周身雜兵數 * 30%。",
+    "\\n<荷官C>我方被首絞強奸時，通過掙紮解除的束縛耐久 = 自身攻擊力 * 20%，實際數值有20%的上下波動。"
+  ],
+  "msgCitizenSlot": "\\n<#{lblCitizen}>被敵人攻擊直接命中或者做愛高潮都會導致#{lblHp}削減，我方角色一旦#{lblHp}歸零時就會進入永遠無法行動的【擊倒】的狀態，這個狀態下不再會進行任何#{lblHp}或#{lblMp}的自我回復。\n但如果隊友有能夠直接回復#{lblHp}的技能的話（不是提高自我回復能力），還是可以讓角色解除【擊倒】狀態並重新行動的。",
+  "msgCitizenGamerA": "\\n<#{lblCitizen}>一旦角色被首絞強奸，雖說可以通過掙紮擺脫束縛，但有剩余精力不足以在一回合內擺脫束縛的可能，所以並不推薦。\n更加推薦的做法是通過別的隊友攻擊被強奸角色周身的雜兵，攻擊不但不會被妨礙，還會優先打倒實施強奸的雜兵並解除隊友的束縛狀態。",
+  "msgCitizenGamerB": "\\n<#{lblCitizen}>如果我方角色處於無法行動狀態且周身有雜兵時，雜兵會在下回合對該角色實施首絞強奸。\n註意此處的下回合是指下回合的敵方回合，因此即使我方角色被擊倒了，只要在下回合的我方回合時通過隊友協助把無法行動的角色周身的雜兵全部打倒，那麽依然可以規避被首絞強奸的命運。",
+  "msgLocked": "門被鎖住了，似乎暫時無法開啟",
+  "msgUnlocked": "{0}門鎖已經解除",
+  "msgHowToReset": "打算如何重置呢？",
+  "msgNormalChat": [
+    "#{lblMsgCitizenA}遠洋幫的領導旗下有三個幹部負責打理幫派內的各種事務，聽說這三個幹部的戰鬥力也相當不凡。不過最近這些幹部們全都被調回去鎮守總部了。",
+    "#{lblMsgCitizenA}聽說遠洋幫的老大會根據幹部的業績動態分配他們能獲得的裝備質量以及人手。\n因此即使是同一個幹部，實力也會根據分配到的資源而變化。",
+    "#{lblMsgCitizenA}夜總會後面是一片專門用於戰鬥的戰鬥區域，總面積比夜總會的部分還要大。\n聽說他們的老大就藏在那片戰鬥區域的最深處。",
+    "#{lblMsgCitizenA}你知道嗎？所有的戰鬥區域其實都和一條緊急逃生通道相連的。\n我之前有找到那個通道，就在戰鬥區域入口旁邊的一個房間內，不過逃生通道和戰鬥區域之間的門是鎖上的。\n有沒有什麽辦法能夠把鎖解開呢？",
+    "#{lblMsgCitizenA}聽說在遠洋幫夜總會內每個戰鬥區域的鎮守成員數量和獎勵是不同的，場地內一定有什麽標誌能夠標示每個區域的敵人數和獎勵類型，你們進去以後要仔細查看下。",
+    "#{lblMsgCitizenA}我們一般會在7點到21點之間在外出活動，如果想找人卻發現找不到，可以試試等到第二天的活動時間再出來。"
+  ],
+  "msgWhatsup": "找我們有什麽事嗎？",
+  "msgOver": "沒事了",
+  "msgForgetIt": "還是算了",
+  "msgBanArena": "#{lblMsgRayA}餵餵，你不會是想以我們為幌子趁機混進戰鬥區域深處吧...不會讓你得逞的哦。",
+  "msgHintBan": "由於處於#{lblStates.18.iconLabel}，部分功能被禁止",
+  "msgArenaRay": "#{lblMsgRay}站住！我們可不會就這麽讓你隨隨便便通過的！",
+  "msgArenaTortoise": "#{lblMsgTortoise}老子就是遠洋幫三大幹部之一的【#{lblTortoise}】。有我把守這關你們就別想過去了！",
+  "msgArenaJellyfish": "#{lblMsgJellyfish}我是遠洋幫三大幹部之一的【#{lblJellyfish}】。接下來就請好好享受變成肉便器的感覺吧♫",
+  "msgArenaInkfish": "#{lblMsgInkfish}我是遠洋幫三大幹部之一的【#{lblInkfish}】。現在我正忙著創作新的DJ曲目，所以希望越快收拾了你們越好。",
+  "msgArenaWhale": "#{lblMsgWhale}本大爺就是遠洋幫首領【#{lblWhale}】。今天一定要好好收拾收拾你們。",
+  "msgEvaluationStart": "#{lblMsgBroadcast}決鬥申請已受理，開始進行各項評估。",
+  "msgSupport": [
+    "#{lblMsgCitizen}加油啊，治安姬姑娘們！",
+    "#{lblMsgCitizen}我相信你們一定能獲得勝利的！",
+    "#{lblMsgCitizen}加油！一定要打敗這些可惡的遠洋幫成員！",
+    "#{lblMsgCitizen}是治安姬！這下我們有救了！",
+    "#{lblMsgCitizen}太好了！治安姬來了！"
+  ],
+  "msgUnsupportSecurity": [
+    "#{lblMsgCitizen}雖說治安姬是來救我們了，但是真的能打贏嗎？",
+    "#{lblMsgCitizen}最後的結局估計還是完全敗北（笑）。",
+    "#{lblMsgCitizen}又是治安姬啊...還不如別來了，反正最後多半又會打輸。",
+    "#{lblMsgCitizen}我就不報什麽期待了，反正等會多半又會被輕輕松松解決掉。",
+    "#{lblMsgCitizen}你們這些弱雞雜魚治安姬不如別來了！"
+  ],
+  "msgUnsupportDiscipline": [
+    "#{lblMsgCitizen}我還是更希望看到治安姬輸掉呢，這樣就可以看到治安姬被強奸的畫面了❤",
+    "#{lblMsgCitizen}治安姬姑娘們就安心的認輸好了，我們會把戰敗畫面拍下來發到網上去的❤",
+    "#{lblMsgCitizen}我已經猜到結局了，等會又要在眾目睽睽之下被強奸了對吧？",
+    "#{lblMsgCitizen}麻煩治安姬們今天也盡快輸掉哈，我想快點開始看sex的部分。",
+    "#{lblMsgCitizen}我已經迫不及待地想看到治安姬們被強奸到發出淫叫地樣子了❤"
+  ],
+  "msgOpposalPenalty": [
+    "#{lblMsgBroadcast}少部分居民不支持治安姬，賦予治安姬全員#{lblStates.25.iconLabel}debuff等級1",
+    "#{lblMsgBroadcast}大部分居民不支持治安姬，賦予治安姬全員#{lblStates.25.iconLabel}debuff等級2",
+    "#{lblMsgBroadcast}全體居民不支持治安姬，賦予治安姬全員#{lblStates.25.iconLabel}debuff等級3"
+  ],
+  "msgOpposalBehavior": "怎麽會這樣...我們明明在保護大家，為什麽會受到這種待遇...",
+  "msgOpposalBehaviorFetish": "好過分❤，我們明明是想要保護大家的...\\w[30]\n但是現在我居然從大家鄙視地目光中感受到了快感...",
+  "msgSlaveryPenalty": "#{lblMsgBroadcast}根據#{lblRules.15.iconTitle}，治安姬向自己的主人發起決鬥，賦予治安姬全員#{lblStates.35.iconLabel}",
+  "msgRankPenalty": "#{lblMsgBroadcast}根據#{lblRules.16.iconTitle}，治安姬向比自己身份等級高的人發起決鬥，賦予治安姬全員#{lblStates.23.iconLabel}",
+  "msgDebtPenalty": "#{lblMsgBroadcast}根據#{lblRules.17.iconTitle}，治安姬向自己的債主發起決鬥，賦予治安姬全員#{lblStates.24.iconLabel}",
+  "msgDebuffPenaltyFetish": "啊❤這下糟糕了...還沒開始決鬥就受到這麽多減益懲罰...\\w[30]\n獲勝的希望變得越來越渺茫了...哈~",
+  "msgDuelStart": "#{lblMsgBroadcast}評估結束，決鬥正式開始",
+  "msgCompereConfirm": "#{lblMsgCompere}了解了，那麽馬上就開始準備吧。",
+  "msgDanceStart": "#{lblMsgCitizen}哦~\\w[30]開始了開始了。",
+  "msgDancePrologue": {
+    "0": {
+      "1": "#{lblMsgCitizenA}\\{噢噢噢————\\w[30]這可真不得了，實在是太色了！",
+      "2": "#{lblMsgCitizenB}雖說治安姬平時穿著這身衣服就已經很色情了，但果然還是得配上淫蕩的姿勢才是最色的啊~",
+      "3": "#{lblMsgActor1}嗚嗚...\\w[30]在這麽多人面前擺出下流得姿勢果然還是有點無法接受，當初為什麽要答應參加表演呢？",
+      "4": "#{lblMsgActor3}啊~~~~\\w[30]大家全都在用非常奇怪的目光投射到我的身體上，好害臊...",
+      "5": "#{lblMsgActor2}餵，大叔麻煩不要用這麽色咪咪的眼睛盯著我們看啊！\n看著真惡心...",
+      "6": "#{lblMsgCitizenA}啊？星火醬，事到如今還說什麽吶。只有治安姬給我們居民跳下品舞蹈，我們的心情才會變好，這是常識吧？",
+      "7": "#{lblMsgActor2}確...\\w[30]確實是這樣沒錯...",
+      "8": "#{lblMsgCitizenA}既然如此就趕快開始擺動你那淫蕩的身體！\n要是壞了我們的心情，我們可是會到街上鬧事，然後讓社會治安下降的哦。",
+      "9": "#{lblMsgActor2}知道啦，我們會好好跳的。"
+    },
+    "1": {
+      "1": "#{lblMsgActor1}啊哈哈...\\w[30]感謝各位觀眾能來欣賞我們的表演。我們今天會努力通過下流舞蹈來讓大家開心的。",
+      "2": "#{lblMsgCitizenA}落霞醬說的很不錯呢♫",
+      "3": "#{lblMsgCitizenB}不過這表情看起來不像是樂意的樣子吧...",
+      "4": "#{lblMsgCitizenA}別這麽說嗎，看姑娘們強忍著害臊的心情逼迫自己在場上表演下流舞蹈也是一種樂趣。",
+      "5": "#{lblMsgCitizenC}哦~這個角度不錯♫",
+      "6": "#{lblMsgActor3}\\{餵！\\w[30]你不要隨便攝影啊！！",
+      "7": "#{lblMsgCitizenC}你在說什麽呢，既然上臺肯定會被人拍的吧。放心好了，我會負責上傳到StreetTube的。",
+      "8": "#{lblMsgActor2}\\{欸...還要上傳到網上嗎？！",
+      "9": "#{lblMsgCitizenC}那是當然，這樣一來就能讓全世界知道你們是會毫不猶豫地在大庭廣眾之下跳色情舞蹈的不知廉恥的臭婊子了。",
+      "10": "#{lblMsgActor1}嗚嗚~~~~\\w[30]怎麽會這樣...這太過分了...",
+      "11": "#{lblMsgCitizenC}還在害羞什麽呀，趕緊給我把腰扭起來，要是讓我心情不好的話我可就要加入遠洋幫了哦！",
+      "12": "#{lblMsgActor1}這樣的事情我絕對不能允許...\\w[30]一定要用我的全力淫蕩舞蹈讓你改邪歸正！"
+    },
+    "2": {
+      "1": "#{lblMsgActor1}感謝各位今天能抽空來看我們的表演。我們今天也會全心全意地用下品的動作來取悅大家的❤",
+      "2": "#{lblMsgCitizenA}餵餵，現在已經到說這麽恬不知恥的話都不會感覺害羞了嗎？",
+      "3": "#{lblMsgActor1}雖然還是會感到羞恥，但不是只有這麽做才能讓大家快樂嘛...",
+      "4": "#{lblMsgActor3}只要大叔們心情好的話，就不會去街上鬧事，這樣就能維護街區的治安...",
+      "5": "#{lblMsgActor2}沒錯，一切都是為了社會治安而已。我們都是迫不得已的，你們這些臭大叔可別忘了這點...",
+      "6": "#{lblMsgCitizenB}話是這樣說，其實只是在找借口上場吧？（笑）",
+      "7": "#{lblMsgCitizenA}說的沒錯，看看你們那躍躍欲試的淫蕩身體，還有遠遠就能聞到的雌臭味，早就把你們的真實意圖暴露無遺了！",
+      "8": "#{lblMsgActor1}怎麽會這樣說...說的好過分...",
+      "9": "#{lblMsgCitizenB}行了，別狡辯了，有這個時間還不如趕緊開始搖動你那對下流的奶子和淫臀。",
+      "10": "#{lblMsgActor1}知道啦，馬上就用我的認真淫亂舞蹈讓你滿足❤"
+    },
+    "3": {
+      "1": "#{lblMsgActor1}今天也來了那麽多觀眾啊，感謝大家一直以來對我們的支持~",
+      "2": "#{lblMsgActor2}光是想象到需要在這麽多人面前表演下品舞蹈就興奮起來了❤",
+      "3": "#{lblMsgActor3}為了不辜負大家的支持，今天的我也會全力晃動自己下賤的身體來討大家的歡心❤",
+      "4": "#{lblMsgCitizenA}哇~瞧瞧那糟糕的表情，簡直沒救了（笑）。",
+      "5": "#{lblMsgCitizenB}本應維護社會風紀的治安姬居然能毫不在意地在夜總會跳色情舞蹈，這群婊子到底是有多變態呀！",
+      "6": "#{lblMsgActor1}確實如此...我就是個為了享受羞恥帶來的快感而不惜破壞社會風紀的變態癡女，作為治安姬已經完全失格了❤",
+      "7": "#{lblMsgCitizenA}餵，能不能別自顧自的在那發情啊。趕緊給我把腰扭起來。",
+      "8": "#{lblMsgActor1}你別急嘛，今天也要用我舍棄所有的尊嚴擺出的淫亂姿勢來讓你滿足❤"
+    }
+  },
+  "msgDanceFinale": {
+    "0": {
+      "1": "#{lblMsgActor1}嗚~感覺身體好熱...\\|\\|",
+      "2": "#{lblMsgCitizenA}餵餵，你們在那偷什麽懶呢，趕緊認真把腰扭起來啊。",
+      "3": "#{lblMsgActor1}我知道啦，這樣足夠了吧。",
+      "4": "#{lblMsgCitizenB}哈哈，居然真的賣力扭起來了，這簡直就是超級變態癡女了吧。",
+      "5": "#{lblMsgActor1}（嗚嗚...不管照不照做都要被羞辱，太過分了。）",
+      "6": "#{lblMsgActor1}（呼...\\w[30]但總身體莫名的感覺到一種快感...\n從這些大叔眼裏投來的好色的目光...\\w[30]哈~~~感覺就像在炙烤著身體一樣。）",
+      "7": "#{lblMsgActor1}（身體越來越熱了，這...難道是快感嗎？\n是因為在大庭廣眾之下跳羞恥舞蹈而感到害羞，而我居然從這種羞恥中產生出快感了！？）",
+      "8": "#{lblMsgActor1}（糟糕，再這樣搖下去的話...感覺有什麽不妙的事要發生了...\\w[30]要來了...感覺要來了...要...）",
+      "9": "#{lblMsgActor1}噢~噢❤...\\w[30]\\{噢噢噢~~~哦哦❤...\\w[30]\\{噢噢噢噢噢噢~~~~~~",
+      "10": "#{lblMsgCitizenA}啊？不是吧，這些婊子居然只是因為在舞臺上被人看著就高潮了？",
+      "11": "#{lblMsgCitizenB}哈哈，這得癡女到什麽程度才能做到這麽下流的事啊。\n算了，今天能看到這麽有趣的場景也算是滿足了（笑）。"
+    },
+    "1": {
+      "1": "#{lblMsgActor1}身體又開始變得奇怪了\\|\\|",
+      "2": "#{lblMsgCitizenA}餵，動作又有些松懈了啊，麻煩晃的再用力些好不好。",
+      "3": "#{lblMsgActor1}非常抱歉，我們會更加賣力的...",
+      "4": "#{lblMsgActor1}（糟糕啊❤，我們還在被拍攝著...）",
+      "5": "#{lblMsgActor1}（之後這些照片或者影像絕對會被上傳到網上吧...然後全世界的人都會看到我們這副淫亂的樣子...❤）",
+      "6": "#{lblMsgActor1}（所有人都要知道我們是會在大叔面前幾乎半裸地跳著淫蕩舞蹈地變態癡女了，大家會在背後怎麽討論我們，簡直不敢想象❤）",
+      "7": "#{lblMsgActor1}（光是這樣想象一下奇怪的感覺就要湧上來了...\\w[30]不妙，不妙...難不成要高潮了...）",
+      "8": "#{lblMsgActor1}要忍住...要忍住...要...\\w[30]\\{嗷~忍不住了...忍不住了~！要...\\w[30]\\{去了❤去了❤去了啊啊啊啊啊啊————————❤",
+      "9": "#{lblMsgCitizenB}哇~這下可拍到厲害的東西了。居然跳下品舞蹈跳到高潮，這種不知檢點的舉動必須上傳到網上讓大家好好羞辱下。",
+      "10": "#{lblMsgCitizenA}是嗎，我倒是後會去幫忙點個贊的（笑）。"
+    },
+    "2": {
+      "1": "#{lblMsgActor1}各位看官今天看的還滿意嗎？\\|\\|",
+      "2": "#{lblMsgCitizenA}跳舞的時候就別廢話！有這精力還不如多擺動擺動身子！",
+      "3": "#{lblMsgActor1}遵命，現在我就使出我的全力來讓各位滿足！",
+      "4": "#{lblMsgCitizenA}好厲害，看起來完全是個定級變態癡女啊，這奶子都快從胸罩裏掉出來了~♫",
+      "5": "#{lblMsgCitizenB}內褲勒的好緊，都已經能看到菊花了（笑）。",
+      "6": "#{lblMsgActor1}（噢噢~\\w[30]就是這個感覺...又來了...感覺好爽❤）",
+      "7": "#{lblMsgActor1}（被人用猥瑣和鄙視的目光看著自己這具不斷擺出不堪入目動作的下流身體而產生的快感~❤\n這感覺實在是太棒了❤）",
+      "8": "#{lblMsgActor1}（嗯啊❤哈...哈...超不妙啊...再這麽下去的話，又要堅持不住了...\\w[30]）",
+      "9": "#{lblMsgActor1}糟了糟了...絕對是要去了...\\w[30]\\{嗷吼哦哦哦哦~~~❤要高潮了...要...嗷噢噢❤\\w[30]\\{高潮了啊啊啊啊啊啊啊❤~~~~~！！！",
+      "10": "#{lblMsgCitizenA}啊啊~這還真是華麗的高潮啊。",
+      "11": "#{lblMsgCitizenB}真是慘不忍睹啊，居然跳淫舞跳到高潮什麽的，這些家夥作為女人的尊嚴是一點都不剩了嗎（笑）？"
+    },
+    "3": {
+      "1": "#{lblMsgActor1}怎麽樣，我們淫亂不堪的舞姿有讓大家開心起來嗎？\\|\\|",
+      "2": "#{lblMsgActor2}今天就讓你們見識下我使出全力的認真求愛舞蹈❤",
+      "3": "#{lblMsgActor3}看招~♫\\w[30]看我用這對淫蕩的奶子和屁股讓你們全都硬起來❤",
+      "4": "#{lblMsgCitizenA}不得了，實在是太色了，這幫究極癡女都已經都變態到什麽程度了！",
+      "5": "#{lblMsgCitizenB}確實啊，如果說剛開始還是被半逼著才上臺的話，那麽現在完全就是她們自己想給大家看她們那不成體統的樣子。",
+      "6": "#{lblMsgCitizenC}\\{到底懂不懂「羞恥」兩個字怎麽寫啊你們這些臭婊子！",
+      "7": "#{lblMsgActor1}噢噢噢~❤太棒了...又被羞辱了❤\\w[30]真是讓人欲罷不能...",
+      "8": "#{lblMsgActor1}把所有粗鄙的話語、猥瑣的想法、鄙夷的目光全都毫無顧慮地投射到我身上吧❤",
+      "9": "#{lblMsgActor1}嗯嗚❤感覺又開始湧上來了❤\\w[30]\\{喔喔~噢噢噢噢嗚嗚~~~❤要高潮了...絕對是要高潮了...\\{去了去了❤去了嗷嗷嗷嗷嗷嗷嗷~~~~~~❤",
+      "10": "#{lblMsgCitizenA}怎麽又高潮了啊，要點廉恥吧你們這些臭婊子！",
+      "11": "#{lblMsgCitizenB}不過這也算是固定項目了，要是哪次表演沒高潮喔反而會感到奇怪呢（笑）。"
+    }
+  },
+  "msgDanceBonus": "今天的的演出很不錯呢，這是給你們的報酬。",
+  "msgPayDebt": {
+    "enough": "#{lblMsgRayA}嗯，這樣就還清了，看來你們還算識相。下次再讓老子碰到你們欠債不還的話看我怎麽收拾你們！",
+    "notEnough": "#{lblMsgRayA}餵餵，這錢根本就不夠啊。\n你們作為治安姬不會還想賴賬吧？勸你們盡快把剩下的錢還清哈，不然看我們後面怎麽收拾你們！"
+  },
+  "msgAssault": "#{lblMsgRayA}可惡的治安姬，看我不把你好好收拾一頓！\\w[30]\n鰩魚小隊現在就向治安姬小隊發起決鬥！",
+  "msgSexBegin": "那麽就趕快開始吧。",
+  "msgDemandPayDebt": {
+    "start": "#{lblMsgRayA}餵，我說你們是不是還欠著遠洋幫一大筆債沒還啊？",
+    "enough": "#{lblMsgRayA}嗯，這樣就還清了，看來你們還算識相。下次再讓老子碰到你們欠債不還的話看我怎麽收拾你們！",
+    "notEnough": [
+      "#{lblMsgActor1}能不能寬限幾天？\n我們暫時沒有那麽多錢...",
+      "#{lblMsgRayA}餵餵，你們作為治安姬本應是街區裏最該信守承諾的人吧，現在欠債不還是什麽意思啊？",
+      "#{lblMsgActor1}但是這個欠債並不是我們主動借的，而且說到底每天50%的利率也太高了...",
+      "#{lblMsgCitizenA}你們這些臭婊子，看來必須得給你們點教訓讓你們知道欠債不還是什麽下場了。\\w[30]\n鰩魚小隊向治安姬小隊發起決鬥！"
+    ]
+  },
+  "msgFlaunt": {
+    "1": {
+      "citizen": "#{lblMsgCitizenA}咦，為什麽治安姬會和遠洋幫的人在一起？而且挨的好近...",
+      "villain": "#{lblMsgRayD}哦？這是吹了什麽風，居然能看見治安姬和我們的人混在一起啊？"
+    },
+    "2": "#{lblMsgRayA}那當然是因為這幾個臭丫頭在決鬥中敗給了我們，現在已經是我們的奴隸啦哈哈！",
+    "3": "#{lblMsgActor1}麻煩別在別人面前提起這件事，超級丟臉的好不好！",
+    "4": "#{lblMsgRayA}區區肉奴隸居然還敢給我頂嘴？！",
+    "5": "#{lblMsgActor1}等等...別人還在看著...\n\\w[30]噢~❤等等...\\w[30]噢❤...嗯❤...嗯❤嗯❤...\\w[30]咕噢噢噢噢~~~❤❤❤",
+    "6": "#{lblMsgRayA}\\{就是要讓別人好好看下你下流的樣子啊。給我看招，看招！！！",
+    "7": "#{lblMsgActor1}喔噢噢噢噢噢~~~~\\w[30]好劇烈...好厲害...\\w[30]一邊被別人看著一邊被玩弄...",
+    "8": "#{lblMsgActor1}不行...必須要停...\\w[30]\\{噢❤快停...噢噢噢~❤\\w[30]噢❤...要去了...要在別人面前被玩弄到去了...❤",
+    "9": "#{lblMsgActor1}\\{\\{嗯噫噫噫噫❤去了...去了❤去了❤去了啊啊啊啊啊啊啊啊啊~~~~~~❤❤❤",
+    "10": {
+      "citizen": "#{lblMsgCitizenA}哇~~~\\w[30]居然高潮了，這可真是太慘不忍睹了。",
+      "villain": "#{lblMsgRayD}謔謔~\\w[30]這可真是盛大的高潮啊（笑）。"
+    },
+    "11": {
+      "citizen": "#{lblMsgCitizenB}虧我之前還那麽信任這些治安姬，結果居然變成了任敵人隨意擺弄的性玩具。",
+      "villain": "#{lblMsgRayE}真讓人羨慕，哪天玩膩了的話記得也借我們玩玩♫"
+    }
+  },
+  "msgRobbery": {
+    "1": "#{lblMsgRayA}\\{餵，你們幾個賤民給我把身上的錢全都交出來！！！",
+    "2": "#{lblMsgCitizenA}噫~~~~\\w[30]饒了我們吧...",
+    "3": "#{lblMsgCitizenA}等等！\\w[30]仔細一看這不是治安姬嗎！\\w[30]\n拜托一定要幫助我們打倒這些可惡的戰鬥員啊...",
+    "help": {
+      "4": "#{lblMsgRayA}哈哈抱歉，這幾只雜魚因為決鬥敗北現在已經是任我們擺布的的雌奴隸了♫",
+      "5": "#{lblMsgActor1}\\{誰是你們的奴隸啊！",
+      "6": "#{lblMsgRayA}\\{啊？？？？？",
+      "7": "#{lblMsgActor1}我們現在就要阻止你們的惡行，順便通過在決鬥中打敗你們來解除這個奴隸的身份！",
+      "8": "#{lblMsgRayA}對了...\\w[30]差點忘了這條規則確實也沒什麽精神控製效果...",
+      "9": "#{lblMsgRayA}不過還是得重新好好教育下你們，讓你們知道膽敢忤逆主人是什麽下場！\\w[30]\n鰩魚小隊向治安姬小隊發起決鬥！"
+    },
+    "notHelp": {
+      "4": "#{lblMsgRayA}哈哈抱歉，這幾只雜魚因為決鬥敗北現在已經是任我們擺布的的雌奴隸了♫",
+      "5": "#{lblMsgActor1}嗚......",
+      "6": "#{lblMsgRayA}你看，就算這樣騷擾她們也完全不敢反抗，不如說還會感覺高興呢，快看這表情♫",
+      "7": "#{lblMsgActor1}\\{嗯！噢❤...別...別這樣...嗯❤",
+      "8": "#{lblMsgRayA}所以你們就別報無意義的期待了，現在沒人能救得了你們，趕快給我把錢通通交出來！",
+      "9": "#{lblMsgCitizenA}怎麽會這樣...連作為街區裏唯一的希望的治安姬也落敗了...",
+      "10": "#{lblMsgCitizenB}看來只能交錢了，這幫治安姬真是沒用啊，虧我之前還那麽指望她們..."
+    }
+  },
+  "msgFraudSex": [
+    {
+      "1": "#{lblMsgCitizenA}我說啊，治安姬姑娘們，你們知不知道因為你們那不知廉恥的穿著打扮，害得我們下半身都硬起來了？",
+      "2": "#{lblMsgActor1}嗚，抱歉...",
+      "3": "#{lblMsgCitizenA}你是不是傻啊？我們想要的可不是什麽口頭道歉。\n你們應該知道的吧，\\fb如果街區裏的居民因為看到治安姬的身體產生了性需求，那麽幫助居民解決需求作為補償是治安姬應盡的義務\\fb。",
+      "4": "#{lblMsgActor1}\\{啥！？你在說什麽...",
+      "5": "#{lblMsgActor1}咦...\\w[30]好像...確實是這麽回事？？？",
+      "6": "#{lblMsgCitizenA}餵餵，這種事情可是常識啊，作為治安姬不會不知道吧？",
+      "7": "#{lblMsgActor1}這...\\w[30]這種事我們還是知道的啦！",
+      "8": "#{lblMsgCitizenA}既然知道的話那接下來就該好好履行你們的義務了吧？\n我們會硬起來可都是因為你們的錯，可別想逃避這個責任哈。",
+      "9": "#{lblMsgActor1}知道啦，我們會履行義務的..."
+    },
+    {
+      "1": "#{lblMsgCitizenA}治安姬姑娘們，都是因為突然看到你們這下流的身體，害我們瞬間產生性沖動了啊。",
+      "2": "#{lblMsgActor1}對...對不起...",
+      "3": "#{lblMsgCitizenA}餵餵，這可不是一句對不起就能完事的啊。\n現在我們因為精蟲上腦，感覺心靈都變得汙穢了，再這麽下去的話肯定會去做一些危害社會風紀的事情的哦。那麽在這種情況下，\\fb治安姬為了維持居民心靈的純潔，並防止居民危害社會治安，幫助居民解決過剩的性需求是常識\\fb吧？",
+      "4": "#{lblMsgActor1}\\{欸！？怎麽會有這種常識...",
+      "5": "#{lblMsgActor1}咦...\\w[30]好像...確實是這麽回事？？？",
+      "6": "#{lblMsgCitizenA}我說，你們是腦子不好使了嗎？治安姬不會連這種家喻戶曉的事情都忘了吧？",
+      "7": "#{lblMsgActor1}這...\\w[30]這種事我們當然記得的啦！",
+      "8": "#{lblMsgCitizenA}既然知道就別讓我浪費時間提醒好不好？\n那麽接下來趕緊通過你們那下賤的身體來凈化我們的心靈吧♫",
+      "9": "#{lblMsgActor1}我知道了啦。\n嗚...\\w[30]這都是為了社區的治安..."
+    }
+  ],
+  "msgHarass": {
+    "start": {
+      "1": "#{lblMsgCitizenA}喲，治安姬姑娘們。",
+      "2": "#{lblMsgActor1}\\{等等！\\w[30]你們突然靠那麽近做什麽！？",
+      "3": "#{lblMsgCitizenA}還問做什麽...\\w[30]我們不就是在普通的打招呼而已嗎。\n\\fb遇到居民以後，就應該通過身體親密接觸來打招呼，這是最基本的問候禮儀\\fb吧？",
+      "4": "#{lblMsgActor1}\\{啥？！哪家會有這種禮儀...",
+      "5": "#{lblMsgActor1}咦...\\w[30]好像...確實是這麽回事？？？",
+      "6": "#{lblMsgCitizenA}餵餵，這種連小朋友都懂的基本禮儀，你們作為治安姬不會不知道吧？如果真是這樣那也太缺乏教養了。",
+      "7": "#{lblMsgActor1}\\{這...\\w[30]這種常識我們當然知道的！",
+      "8": "#{lblMsgCitizenA}既然如此，那馬上就開始和我們「打招呼」吧。作為本應該成為居民榜樣的治安姬更應該認真賣力地來打招呼了對吧♫",
+      "9": "#{lblMsgActor1}知...\\w[30]知道啦，我們會好好做的..."
+    },
+    "end": {
+      "1": "1小時後...",
+      "2": "#{lblMsgCitizenA}不錯不錯，算是滿足了。",
+      "3": "#{lblMsgCitizenB}今天的招呼打得還算不錯，以後在大街上見到我們以後也要像這樣主動上來打招呼，知道了吧？"
+    },
+    "play": {
+      "kiss": {
+        "lewd0": {
+          "1": "大叔能不能不要把臉靠這麽近？\\w[30]都能聞到你的口臭了。",
+          "2": "#{lblMsgCitizen}不是剛剛都說了要通過親密接觸來打招呼嗎？親密接觸的話那自然也包括接吻對吧？",
+          "3": "欸！？\\w[30]能不能換成別的項目啊...\\w[30]如果是其他也就算了，但是和中年大叔接吻的話實在是有點...",
+          "4": "\\{唔唔唔噢噢噢噢————！！！",
+          "5": "嗚嗚嗯~~~！嗯嗚...\\w[30]嗯咕...嗯啾...嗯呼嗚...\\w[30]噗哈...嗚啾...",
+          "6": "（嗚...開玩笑的吧...\\w[30]大叔的舌頭居然強行伸到了我的嘴裏...\\w[30]還在粗暴地摩擦我的口腔和舌頭...）",
+          "7": "#{lblMsgCitizen}不錯喲，{0}。雖然剛才還有點抗拒，不過現在也能用舌頭很好地配合我了。",
+          "8": "呣嗚❤...啾...\\w[30]我才沒有在配合...啊呣❤...嗯...\\w[30]分明就是大叔你自己自顧自地把舌頭...",
+          "9": "\\{嗯咕！唔~~~\\w[30]哦嗯...❤嗯啾...❤哈啊...嗯呣...",
+          "10": "（嗯...好厲害...舌頭這樣激烈地攪拌...感覺要上癮了...）"
+        },
+        "lewd1": {
+          "1": "#{lblMsgCitizen}{0}，看到我把頭伸過來你就應該知道要幹什麽了吧？",
+          "2": "我知道啦，今天麻煩下手溫柔一點...",
+          "3": "\\{唔唔唔~~！！！",
+          "4": "嗯噗...嗯嗚嗚！\\w[30]嗯啾...❤嗯啾...❤嗯嗯...唔呣❤...啾❤",
+          "5": "(居然就這麽強上了...\\w[30]大叔的舌頭粗暴地在我的口腔裏摩擦...\\w[30]大叔的體液...好臭...)",
+          "6": "嗯...啾喲❤...啾嚕❤啊呣...啾喲...嗯...啾呦...❤",
+          "7": "#{lblMsgCitizen}{0}口腔裏的味道很濃郁性感哦~♫\\w[30]口水也超美味啊...",
+          "8": "唔呣...噗哈...❤\\w[30]能不能...不要說這麽讓人害羞的...",
+          "9": "嗯咕~~~！？嗯嗯~~❤\\w[30]嗯呼~~❤嗯啾...❤嗯啾喲...❤呼嗚...呣....❤",
+          "10": "（哈啊...有感覺了...❤\\w[30]還希望更多的接吻...還想要更多的舌頭相互摩擦...）"
+        },
+        "lewd2": {
+          "1": "#{lblMsgCitizen}{0}，今天我們就來工口接吻吧。",
+          "2": "知道啦，籲籲籲籲籲~~~~❤",
+          "3": "嗚嗚！嗚呣...❤啊嗚~~啾呦❤...嗯...嗯嗚嗚...哈啊...啾嗚...❤",
+          "4": "（大叔的嘴巴裏的氣味好重...真讓人欲罷不能...❤\\w[30]還想要更多一點...）",
+          "5": "#{lblMsgCitizen}噢噢~♫\\w[30]{0}今天相當主動啊，就這樣毫不在意地和一個大叔舌吻沒事嗎（笑）。",
+          "6": "呣嗚...❤\\w[30]這全都要怪大叔你...嗯❤...用這麽臭的嘴來引誘我...嗯啾❤...啾溜溜嗚❤啾噗溜噗溜❤",
+          "7": "#{lblMsgCitizen}明明就是你自己好色，居然還敢找借口...\n看來必須得好好教訓下你才行，看招！超高速舌頭攪拌！！！",
+          "8": "\\{咕嗚嗚~~！！！嗚嗯~~❤嗯呼~嗯...啾呦嚕❤啾噗溜噗咕...❤嗯呣...❤",
+          "9": "（這感覺好棒...❤大叔的舌頭在肆無忌憚的侵犯我口腔裏的每一處地方...不管我怎麽抵擋，大叔的舌頭都能找到突破口，感覺就要淪陷了...❤）",
+          "10": "嗯唔...❤還要...還要更多...❤嗯啾...❤啊嗚呣~❤嗚~❤啾喲...❤嗯~~❤"
+        },
+        "lewd3": {
+          "1": "Kiss，Kiss，趕緊開始Kiss吧，我已經等不及了❤",
+          "2": "#{lblMsgCitizen}餵餵，瞧瞧你那躁動的舌頭，完全不敢想象這是治安姬會露出的表情啊（笑）",
+          "3": "全都是因為我一聞到大叔的口臭味就感覺要發情了❤現在滿腦子想的就是吃到充滿大叔味道的唾液~❤",
+          "4": "#{lblMsgCitizen}簡直太淫蕩了這變態癡女...那麽馬上就來實現你的願望吧！！！",
+          "5": "\\{嗚嗚嗯嗯嗯！！！\\w[30]好棒~~~嗯嗯嗚~~❤嗯...啾❤...嗯啾...❤嗚呣...❤",
+          "6": "（啊...又品嘗到充滿大叔口臭的口水了❤\\w[30]好棒好棒...光是品嘗到這個味道腦袋裏就要一片空白了...）",
+          "7": "#{lblMsgCitizen}喔喔~居然主動在我嘴裏吮吸...你這婊子都不會感到害羞地嗎！！？",
+          "8": "\\{嗚噢噢噢噢嗯嗯嗯~~~啾喲❤啾喲...❤嗚呣❤...哈嗯~❤...噗嗚呣...嗚嗚❤",
+          "9": "（更多更多...還想要更多大叔的唾液❤...想要就這麽一邊感受著大叔的鼻息一邊和大叔永遠熱吻下去...❤）",
+          "10": "嗯啾~~~❤嗯啾~~~❤嗯呼嗯...啾呦❤...噗哈...呼~~❤嗚嗯呣....嗯❤"
+        }
+      },
+      "ass": {
+        "lewd0": {
+          "1": "#{lblMsgCitizen}{0}的屁股實在是太淫蕩了，一把捏下去全是柔軟有彈性的贅肉♫",
+          "2": "嗯~\\w[30]能不能...嗯...麻煩你不要亂揉我的屁股？",
+          "3": "\\{咕哦哦哦~~~！！！噢噢~❤噢❤唔❤...噢~❤噢~❤",
+          "4": "#{lblMsgCitizen}都說了互相親密接觸來打招呼是常識了吧，難道治安姬連這點禮儀常識都遵守不了嗎！？",
+          "5": "哦哦❤...嗯~❤快停下...快停下...咿唔唔唔唔唔~~~！",
+          "6": "#{lblMsgCitizen}像你這樣不守禮儀的壞治安姬就要由我來給予正義的製裁！\\w[30]看招！！！",
+          "7": "\\{噢噫噫噫噫噫~~~~~~！！？",
+          "8": "嗯嗚嗚嗚嗯~~❤\\w[30]居然連菊花也...喔噢噢噢噢~~~~~❤喔噢噢❤...噢噢❤...噢",
+          "9": "（手指在菊花裏面粗暴的翻弄...好厲害...❤\\w[30]每次碰到肉壁身體就像有電流通過一樣...）",
+          "10": "啊啊昂~❤...哈啊...噢噢噢❤噢~噢❤...啊嘿欸欸欸欸欸❤...嗯唔噢噢噢噢噢噢噢噢~~~~~~"
+        },
+        "lewd1": {
+          "1": "#{lblMsgCitizen}這屁股真是極品啊，怎麽揉都不會膩♫",
+          "2": "嗚噫噫噫~~~❤噢噢噢❤...噢~哦嗯❤...噢噢噢噢噢噢❤",
+          "3": "（呃嗯~❤\\w[30]太糟糕了...又要在大街上被大叔肆無忌憚地玩弄...）",
+          "4": "#{lblMsgCitizen}玩弄你的屁股的時候就給我專心地淫叫！\n\\w[30]還是說這樣對你的刺激還不夠大？那麽接下來開始攻擊弱點部位！",
+          "5": "\\{謔噢噢噢噢噢~~~！！！呼~~~唔唔唔唔唔~~~嗚噢噢噢噢噢噢噢噢————❤",
+          "6": "（這樣暴力的攪動我的小穴的話...噢噢噢~~要開始有感覺了~~~好棒...真的好棒❤）",
+          "7": "哈啊❤...拜托停一下...太刺激要受不了了...啊嗯嗯~❤...哈啊~~~❤",
+          "8": "#{lblMsgCitizen}哼，這樣才算像話嘛。既然小穴都這麽敏感的話，那麽這個屁穴肯定也是弱點，看招！！！",
+          "9": "\\{嗚嗚嗚噢噢噢❤...居然連菊花也...嗚喔~❤噢咿咿咿咿咿~~~~~❤",
+          "10": "（噢噢❤~居然連菊花也被玩弄了...這真是太厲害了❤...要舒服到失去意識了...）"
+        },
+        "lewd2": {
+          "1": "嗯~❤看來大叔相當中意我的屁股呢❤",
+          "2": "#{lblMsgCitizen}畢竟這種尺寸的極品淫臀可是很少見的啊，如果可以的話我甚至想揉搓一整天呢~♫",
+          "3": "啊嗯...哈啊❤哦哦❤...好棒...好棒...嗯哼嗯嗯❤",
+          "4": "#{lblMsgCitizen}餵，你這悠閑自得的樣子看得我有點不爽啊...",
+          "5": "\\{哦咿咿咿咿咿咿咿咿~~~~~~~~~~！！！",
+          "6": "#{lblMsgCitizen}哼，總算有點肉便器該有的樣子了！",
+          "7": "\\{嗚哦哦哦哦哦哦哦哦~~~~~~！！！太狡猾了...喔哦❤喔哦❤...哦吼噢噢噢噢噢~~~❤❤❤",
+          "8": "#{lblMsgCitizen}不會給你這臭雜魚喘息的機會的，看招！！！",
+          "9": "\\{哦噫！！！？...謔噢噢噢噢噢❤哦嗯！咕嗚嗚嗚嗚嗚~~❤",
+          "10": "（太過分了，完全不給我放松的機會，就這麽粗暴的玩弄我的下體...\\w[30]受到這麽多快感，感覺要瘋掉了...）"
+        },
+        "lewd3": {
+          "1": "哈啊~~❤大叔再揉的更激烈點也沒問題喲❤",
+          "2": "#{lblMsgCitizen}作為一個治安姬，居然臉不紅心不跳地勾引陌生人來騷擾自己...你就不會感到羞愧嗎？",
+          "3": "這都是為了正常的社交禮儀而已...嗯~好棒❤\\w[30]我自己也會感到害羞的...嗯❤",
+          "4": "#{lblMsgCitizen}分明就是你自己喜歡而已吧，居然還敢給我找借口！看我不給你點懲罰！",
+          "5": "\\{哦噫誒誒誒誒誒誒誒誒~~~！！！",
+          "6": "#{lblMsgCitizen}我要把你淫亂母豬的本性全都暴露出來，看招！！！",
+          "7": "\\{喔噢噢噢噢噢~~~❤菊花被玩弄了...菊花被瘋狂玩弄了❤...好爽...噢噢噢噢噢噢~❤❤❤",
+          "8": "哦嗯❤拜托...嗯❤...也一定要照顧下我的小穴...\\w[30]嗚嗯❤...我的小穴也饑渴難耐了~❤",
+          "9": "#{lblMsgCitizen}終於露出本性來了啊，你這便女，那麽作為回報就滿足你的要求！",
+          "10": "\\{哦哈嗷嗷嗷嗷嗷嗷❤太爽了...哦嗯...哦❤...哦❤"
+        }
+      },
+      "front": {
+        "lewd0": {
+          "1": "#{lblMsgCitizen}那麽今天就來揉下{0}的這對傲人的奶子好了，這柔軟程度可真是讓人欲罷不能~♫",
+          "2": "嗯呃~嗯...真粗魯啊...\\w[30]能不能拜托你揉得再溫柔一些？",
+          "3": "#{lblMsgCitizen}當然沒問題，那麽我就揉搓得幅度小一點好了。\\w[30]只不過是對這個地方！",
+          "4": "\\{咕噫噫噫噫~~~~~~！！！",
+          "5": "哦❤嗯哦哦❤乳頭的話不行...快...快停下來...\\w[30]嗯哼嗯嗯~~~❤噢噢~❤",
+          "6": "#{lblMsgCitizen}怎麽啦，不是你讓我溫柔一些的嘛。\\w[30]難道是覺得還是粗暴點比較好？那這就滿足你！",
+          "7": "\\{咕咿噫噫噫噫噫噫~~~~~~！！！",
+          "8": "噢噢噢噢~❤這樣拉扯的話...乳頭要壞掉了！嗯❤噢噢~❤噢噢噢噢噢❤",
+          "9": "#{lblMsgCitizen}嘿嘿，看這反應你的乳頭是相當敏感啊，既然如此就再多蹂躪一下~♫",
+          "10": "（嗯~❤太過分了，完全沒有要憐香惜玉的意思，就這麽粗暴的對待我的胸部，像對待性玩具一樣...）"
+        },
+        "lewd1": {
+          "1": "嗯~❤哈啊~~嗯嗯哦...啊嗯❤......嗯噢❤",
+          "2": "#{lblMsgCitizen}{0}也已經完全習慣了被我揉奶子了呢，居然一點反抗的打算都沒有♫",
+          "3": "噢嗯~❤\\w[30]這只不過是為了完成打招呼的問候而已...哈啊...❤",
+          "4": "（啊啊...就這麽在光天化日之下在公共場合讓別人揉自己的胸...萬一被人看見的話可不得了...）",
+          "5": "#{lblMsgCitizen}{0}真是不坦率啊，對於這麽不坦率的人就要用這招來懲罰一下。",
+          "6": "\\{嗚噫噫噫噫噫噫噫~~~~~~！！！",
+          "7": "等等...啊昂~❤...怎麽突然開始動我的小穴！？\\w[30]嗯~❤噢~❤...快停下...快停...\\w[30]噢噢噢噢~~❤❤",
+          "8": "#{lblMsgCitizen}噢~♫\\w[30]這裏就是你的敏感點吧？看我的集中攻擊，看招看招！！！",
+          "9": "\\{嗚噢噢噢噢~噢噢❤~噢❤...\\w[30]好厲害...喔噢噢噢噢噢噢❤",
+          "10": "#{lblMsgCitizen}哈哈，這樣一來終於是能坦率地承認自己是個變態癡女了♫"
+        },
+        "lewd2": {
+          "1": "今天大叔也要來玩弄我的胸部了嗎？真是沒辦法呢❤",
+          "2": "#{lblMsgCitizen}區區一個飛機杯，居然敢裝出那麽拽的樣子！",
+          "3": "\\{喔噢噢噢噢噢~~~！！！這麽拉扯的話...❤嗚噢~噢噢❤...噢噢噢噢噢噢❤❤",
+          "4": "呼————\\w[30]要忍耐住...呃嗯❤...呼————要忍耐住...要...",
+          "5": "\\{咕噫噫噫噫~~~！！！這次居然是下面！？",
+          "6": "啊嗯~❤哦❤...嗯哦❤...噢吼噢噢噢噢~~❤噢噢~❤...噢❤...噢噢噢噢噢~~❤❤❤",
+          "7": "#{lblMsgCitizen}看到了沒有，這幅淫亂母豬一樣的面貌才是你本來的樣子！給我好好地刻印在身體裏！",
+          "8": "\\{喔噢噢噢~~~❤\\w[30]越來越劇烈了...\\w[30]噢噢噢❤~噢噢噢噢噢噢噢噢~❤",
+          "9": "哦❤嗯哦哦❤...好厲害❤...\\w[30]嗯...哈啊...再多一點❤...嗯❤...噢噢噢噢❤",
+          "10": "（糟糕...再這麽下去的話就真的要上癮了❤...真的要渴望變得像母豬一樣生活下去了...）"
+        },
+        "lewd3": {
+          "1": "大叔快點❤...快點快點...\\w[30]趕快來肆意地玩弄我的身體吧...",
+          "2": "#{lblMsgCitizen}你這癡女現在已經毫不掩飾自己的淫蕩本質了嗎！？",
+          "3": "\\{嗚噢噢噢噢噢噢~~~❤這個好棒~❤",
+          "4": "哦嗯~❤...大叔拜托了...嗯❤...我的下面也照顧一下吧...❤哈欸~❤",
+          "5": "#{lblMsgCitizen}嘖，事可真多啊...\\w[30]那就滿足你一下好了，你這欲求不滿的母狗！",
+          "6": "\\{咕噫噫噫噫噫噫~~~❤",
+          "7": "噢噢噢~❤就是這個感覺...太爽了❤...再激烈點也沒關系~❤",
+          "8": "\\{咕喔噢噢噢噢~噢噢噢噢噢~~~❤❤❤",
+          "9": "嗯嗯~❤...喔噢噢噢噢噢噢...哦❤...哦嗯嗯嗯嗯❤",
+          "10": "（噢噢噢❤...太棒了❤公共場合被玩弄小穴最棒了❤在這麽下去要爽瘋了❤）"
+        }
+      }
+    }
+  },
+  "sceneReinforcement": {
+    "1": "對了，麻煩你們等一下，我要叫一些幫手過來。",
+    "2": "#{lblMsgActor1}啊？\\w[30]你在開什麽玩笑。",
+    "3": "「\\fb與任何人決鬥前，要耐心等待對方呼叫增援把自己團團圍住後，戰鬥才算正式開始\\fb」，這種人盡皆知的常識作為治安姬居然會不知道？",
+    "4": "#{lblMsgActor1}所以都說了，你在說什...",
+    "5": "#{lblMsgActor1}等等，好像確實是這樣？",
+    "6": "既然知道的話那就請乖乖等我呼叫幫手吧，這期間可別動什麽歪腦筋哈。",
+    "7": "#{lblMsgActor1}我們知道了啦...",
+    "8": "#{lblMsgRayB}大哥，我們來幫忙了。",
+    "9": "#{lblMsgActor1}（超不妙啊，突然多了那麽多敵人，這場決鬥真的能夠獲勝嗎？）",
+    "10": "好嘞，這樣一來人就到齊了。\n\\w[30]不過居然真的會有人在打架之前乖乖等對面叫增援過來，光是想想都笑死人了。",
+    "11": "算了，馬上開始決鬥吧，不過面對這個人數你們真的還有勝算嗎？（笑）"
+  },
+  "sceneNoCounter": {
+    "1": "說起來你們應該知道的吧：「\\fb敵人攻擊時，堂堂正正的吃下攻擊才是戰鬥的常識，進行任何防反都是無禮的行為\\fb」。",
+    "2": "#{lblMsgActor1}哈？\\w[30]你在胡說什麽...",
+    "3": "#{lblMsgActor1}咦，這麽說起來確實是有這樣的常識來著...",
+    "4": "既然知道的話就不要讓我費時間提醒你啊，你這臭婊子！",
+    "5": "算了，等會決鬥的時候可要好好遵守這個常識啊。這種連小孩都知道的常識，如果治安姬都不能遵守，那真是笑掉大牙了。",
+    "6": "#{lblMsgActor1}知...\\w[30]知道啦，我們會好好遵守的。",
+    "7": "#{lblMsgActor1}（糟糕了，如果不進行防守的話，如果結結實實地吃下各種攻擊的話，絕對要疼得站不起來了吧...）",
+    "8": "那麽快點開始決鬥吧。我已經開始期待接下來的內容了，不進行任何防守的話你們差不多就只是些沙袋而已（笑）。"
+  },
+  "sceneSexStart": {
+    "1": "#{lblMsgActor1}\\{餵！！！\\w[30]你們怎麽突然毛手毛腳的？",
+    "2": "我還挺納悶你們怎麽會這麽大驚小怪呢，以防萬一還是確認一下好了，你們應該這條常識吧：「\\fb進入決鬥後，只有當對方將陰莖插入小穴後，決鬥才算正式開始，在此之前進行攻擊是無禮的舉動\\fb」。",
+    "3": "#{lblMsgActor1}啥？\\w[30]你是腦子壞了嗎？怎麽可能有這種常...",
+    "4": "#{lblMsgActor1}等等，貌似確實是這麽一回事？",
+    "5": "那麽等會決鬥開始以後可別阻攔我們哈，只要進行任何阻攔都會被視為無禮的行為，那樣的話治安姬的臉面也就蕩然無存了。",
+    "6": "#{lblMsgActor1}知道了啦...我們不會做任何阻攔的...",
+    "7": "#{lblMsgActor1}（不妙啊...\\w[30]按這些惡徒的性格，性交的時候絕對又要勒住我的脖子了吧...\\w[30]那樣的話還能掙脫出去嗎...）",
+    "8": "居那麽就趕快開始決鬥吧，我可真是迫不及待地看到你們被強奸時的表情了♫"
+  },
+  "sceneSexDuel": {
+    "1": "#{lblMsgActor1}\\{咦！！？\\w[30]你們這是要做什麽？！",
+    "2": "有什麽問題嗎？你們不會是不知道「\\fb決鬥的方式就是與對方性交\\fb」吧？",
+    "3": "#{lblMsgActor1}哈？\\w[30]你在開什麽玩...",
+    "4": "#{lblMsgActor1}咦？\\w[30]似乎確實是這樣來著的？",
+    "5": "什麽嘛，原來還是記得的啊，那麽接下來的決鬥中可別阻礙我們插入哈。",
+    "6": "#{lblMsgActor1}我們知道了啦...",
+    "7": "#{lblMsgActor1}（超不妙啊，決鬥居然是通過性交的方式來比試什麽的...這樣的話真的能贏得了嗎？）",
+    "8": "那麽快點開始決鬥吧。放心好了，馬上就讓你們牢牢地體會到自己是雜魚這個事實~♫"
+  },
+  "msgDistract": {
+    "corruption": "（現在如果停下格擋的話，身體絕對會遭受到狠狠的重擊...那樣的話絕對會被打到站不起來為止...然後輸掉決鬥...這樣的場景光是想想都開始讓人興奮了❤）",
+    "favorability": "（糟糕了...現在光是看到對方的臉就感覺如同小鹿亂撞一般欣喜，完全沒有格擋的欲望了...）",
+    "horny": "（不妙啊...現在明明是在生死攸關的戰場上，但是我的下半身卻饑渴難耐，超級想要做愛...現在只要故意被打中的話，大叔就會主動來強奸我了吧）",
+    "sexAddiction": "（不妙啊...現在是明明應該把心思放在戰鬥上，但我現在卻超級想要立刻開始做愛❤...現在只要故意被打中的話，大叔就會主動來強奸我了吧）",
+    "smAddiction": "（現在明明應該盡快掙脫才對...但是被人勒著脖子強奸真的好爽❤還想...再多享受一會兒...）",
+    "crisisAddiction": "（現在明明是非常糟糕的危機時刻，要趕緊掙脫敵人的束縛才對...但現在我全身上下都好興奮❤）"
+  },
+  "sceneBoss": {
+    "1": "#{lblMsgWhale}真虧你們能一路打到這裏來啊，不過可別以為我會像之前那些雜魚一樣這麽好對付了。",
+    "2": "#{lblMsgActor1}你應該就是遠洋幫的老大虎鯨了吧？\n在開打之前我們有一些事情想先問問你。",
+    "3": "#{lblMsgWhale}啊？？？我是誰你們怎麽會不知...\\w[60]看來你們是真的什麽都想不起來了啊...\n\\w[60]也對，畢竟我也是最近才逐漸察覺到這些異常，記憶也是一點一點想起來的。",
+    "4": "#{lblMsgActor2}你到底在說什麽東西？",
+    "5": "#{lblMsgWhale}我就給你們一個提示吧，你們作為負責維護這個街區的治安姬，那麽對這個街區的狀況應該了如指掌了對吧？\n那麽對於那麽熟悉這個街區的你們，我就想問問：\\w[60]",
+    "6": "#{lblMsgWhale}\\{你們知道這個街道叫什麽名字嗎？\\w[60]",
+    "7": "#{lblMsgActor3}你是把我們當傻子嗎？這種事我們肯定知......\\w[30]\\^",
+    "8": "#{lblMsgActor3}欸~？？？\\w[60]\n為什麽這麽理所當然的事我會記不起來！？",
+    "9": "#{lblMsgActor1}我之前其實也隱隱約約註意到了，我們目前的記憶中確實存在著許多的漏洞，莫非你知道些什麽嗎？",
+    "10": "#{lblMsgWhale}簡單來說我們現在所處的這個世界似乎不是一個真實的世界，而是是在極力重現過去曾經發生過的事件。\n與這個事件關聯越大的東西，重現時的信息就越詳細真實，相對的，不那麽關聯的東西就會很模糊。",
+    "11": "#{lblMsgActor1}你說的這個事件具體是指什麽？！",
+    "12": "#{lblMsgWhale}哼~\\w[30]你們現在不就在體驗嗎？\n只要把接下來的事情再像過去一樣重現一遍，說不定你們就能想起來了呢~",
+    "13": "#{lblMsgWhale}麻煩你們也像過去一樣乖乖被打倒吧，之後我們會好好地把你們調教成符合要求的雌豚的。\n不過這次有了世界規則的幫助，調教起來倒是會比過去容易不少。",
+    "14": "#{lblMsgWhale}\\{那麽接招吧，治安姬們！！！"
+  },
+  "msgNoViolence": "#{lblMsgBroadcast}偵測到治安姬在禁止使用暴力情況下使用暴力行為，根據規則14，對治安姬施加強製禁錮效果。",
+  "msgHinder": {
+    "attack": "#{lblMsgRay}嘿嘿，不會讓你這麽輕易使出攻擊的。",
+    "guard": "#{lblMsgRay}嘿嘿，怎麽可能讓你這麽輕松防禦，你就乖乖吃下這次攻擊吧。"
+  },
+  "msgMc": {
+    "gun": "#{lblMsgWhale}只要中了這個光線，你的身體就會不受控製地強製擺出高開叉動作。",
+    "phone": "#{lblMsgWhale}催眠App啟動，接下來就當著所有人的面來自慰吧。",
+    "pendulum": "#{lblMsgWhale}給我好好盯著這個靈擺，很好，接下來就當眾跳一段淫舞吧。",
+    "pendant": "#{lblMsgWhale}給我好好盯著這個吊墜，把手背到腦後站好，不許做任何防抗。"
+  },
+  "msgAfterDefeat": {
+    "new": [
+      "#{lblMsgRayA}哈哈，剛剛還那麽囂張的樣子，到最後還不是被我們輕松製服！",
+      "#{lblMsgRayB}剛剛都是哪幾位給予最後一擊的，按照規定治安姬現在就是你的雌奴隸了，趕緊來認領一下戰利品吧（笑）"
+    ],
+    "notNew": [
+      "#{lblMsgRayA}作為奴隸居然還敢反抗就是這個下場，知道了嗎？！",
+      "#{lblMsgRayB}什麽啊，居然失神暈過去了，那現在說教也沒用了（笑）"
+    ]
+  },
+  "msgAfterSex": [
+    "滿足了滿足了，這幾個治安姬的身體真的是極品啊♫",
+    "下次我們有需求的時候也拜托你們啦（笑）"
+  ],
+  "msgSleepSlaved": [
+    "#{lblMsgActor1}我們現在要休息了，能不能麻煩你們回避一下？",
+    "#{lblMsgRayA}是嗎，既然如此那就在床上一起休息吧。\n你應該知道作為奴隸要時刻陪在主人身邊是常識吧？",
+    "#{lblMsgActor1}嗚~~\\w[30]我們知道了啦...",
+    "#{lblMsgRayA}哼哼，明明治安局長就在隔壁的房間，還這麽輕易的和男人上床，真是一群下流的婊子啊♫"
+  ],
+  "msgDebtCommand": "#{lblMsgRay}\\{我通過免除10萬元的債務命令你停下本次攻擊！",
+  "msgRuleChangeApplied": [
+    "#{lblMsgAgent}已確認所有規則變動，現在開始刷新世界規則效果。",
+    "#{lblMsgActor1}\\{嗯？！！",
+    "#{lblMsgActor1}噢...噢...❤咕噢噢噢❤\n\\w[30]腦子裏...被塞進了什麽奇怪的東西...❤\n\\w[15]\\{喔噢噢噢噢噢噢噢❤~~嗚哦哦吼噢噢噢噢哦哦哦噢噢噢噢~~~~~~！！！！",
+    "#{lblMsgAgent}世界規則效果已經成功更新了。",
+    "#{lblMsgRayA}嘿嘿，那麽趕快來試下效果吧。"
+  ],
+  "sceneFirstSlave": {
+    "1": "#{lblMsgRayA}\\{餵！差不多也該給我清醒清醒了吧！\n還要休息多久啊你們這些雜魚！！！",
+    "2": "#{lblMsgRayB}終於把這幫囂張的治安姬丫頭變成我們的專屬雌奴隸了，接下來一定要把你們好好調教成合格的肉便器。",
+    "3": "#{lblMsgRayC}嘿嘿，不如說就從現在開始吧。\\w[30]來，飄絮醬，先在我面前擺一個M字開腿來討討我的歡心。",
+    "4": "#{lblMsgActor3}你是腦子有問題吧...我有什麽理由需要逗你開心？",
+    "5": "#{lblMsgRayC}這......\\w[30]世界規則效果真的有在生效嗎？怎麽感覺性格和之前一樣囂張啊...",
+    "6": "#{lblMsgRayB}哈哈，原來你以為是【人格修改】類效果啊，從剛剛看到這幫小妞一臉惡狠狠的樣子就知道不是了吧。\n既然都是奴隸了，要我說的話肯定是【強製執行】類效果。\n\\w[30]星火醬，我強製命令你在我面前擺出M字開腿的姿勢。",
+    "7": "#{lblMsgActor2}你在開什麽玩笑，信不信我馬上揍你一頓？",
+    "8": "#{lblMsgRayB}\\{啊？？？\\w[30]這麽說也不是【強製執行】類！？\n那這個規則到底是什麽效果！？",
+    "9": "#{lblMsgRayA}你們兩個...\\w[30]都沒好好在信息面板裏看過這個規則的效果描述嗎？\\w[30]\n算了，還是我來展示一下好了。",
+    "10": "#{lblMsgRayA}我說落霞醬，你剛剛在決鬥中被我打敗，所以現在要作為我的專屬奴隸陪在身邊，這你應該是知道的吧。",
+    "11": "#{lblMsgActor1}這種常識我還是知道的啦，不然我們早就找個機會逃走了...",
+    "12": "#{lblMsgRayC}原來如此，也就是說這個規則是【常識改變】系效果。",
+    "13": "#{lblMsgRayB}等等，所以這就是全部了？\n\\w[30]那不是基本上和正常人沒什麽區別嗎？！",
+    "14": "#{lblMsgRayA}呵呵，這個規則的效果確實也就如此了，但接下來的能做的事才是重頭戲。",
+    "15": "#{lblMsgRayA}按照老大之前告知我們的信息，只要讓治安姬成為我們的奴隸，接下來就可以去找代理人開啟更多規則。\n聽說新規則裏面可是有不少「\\fb好玩\\fb」的東西在等著我們發掘呢❤",
+    "16": "#{lblMsgRayB}好嘞，那我們趕緊去代理人那打聽打聽吧。"
+  },
+  "msgCrowdVictory": "#{lblMsgCitizen}多謝啦治安姬姑娘們，多虧你們打敗了這些惡徒，我們的錢包總算是保住了。",
+  "msgSexStation": "#{lblMsgRay}就在治安局局長的眼皮底下在治安局裏面幹治安姬，這次可真是爽到了~♫",
+  "msgAllRuleBought": "#{lblMsgAgent}所有規則均已購買。"
+}

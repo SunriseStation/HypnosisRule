@@ -1,0 +1,2035 @@
+{
+  "lblAccessory": "Accessory",
+  "lblAlwaysDash": "Always Dash",
+  "lblArmor": "Armor",
+  "lblAttack": "Attack",
+  "lblBgmVolume": "BGM Volume",
+  "lblBgsVolume": "BGS Volume",
+  "lblBody": "Body",
+  "lblBuy": "Buy",
+  "lblCancel": "Cancel",
+  "lblCane": "Cane",
+  "lblClaw": "Claw",
+  "lblClear": "Clear",
+  "lblCommandRemember": "Remember command",
+  "lblContinue": "Continue",
+  "lblCrossbow": "Crossbow",
+  "lblDagger": "Dagger",
+  "lblDefeat": "%1 has been defeated.",
+  "lblEmerge": "%1 has appeared!",
+  "lblEquipment": "Equip",
+  "lblEscape": "Escape",
+  "lblEscapeFailure": "But the escape attempt failed!",
+  "lblEscapeStart": "%1 started to run away!",
+  "lblExp": "Experience",
+  "lblExpNext": "Distance to next %1",
+  "lblExpTotal": "Current %1",
+  "lblFight": "Battle",
+  "lblFile": "File",
+  "lblFlail": "Meteor Hammer",
+  "lblFormation": "Formation",
+  "lblGameEnd": "Exit",
+  "lblGlove": "Gloves",
+  "lblGuard": "Defense",
+  "lblGun": "Gun",
+  "lblHp": "Stamina",
+  "lblItem": "Items",
+  "lblKeyItem": "Important Items",
+  "lblLevel": "Level",
+  "lblLevelUp": "%1 has reached level %2 %3!",
+  "lblLoadMessage": "Which file do you want to load?",
+  "lblMaxHp": "Max Stamina",
+  "lblMeVolume": "ME Volume",
+  "lblNewGame": "Start",
+  "lblObtainExp": "Obtained %1 %2!",
+  "lblObtainGold": "Obtained %1\\G!",
+  "lblObtainItem": "Obtained %1!",
+  "lblObtainSkill": "Learned %1!",
+  "lblOptimize": "Optimal Equipment",
+  "lblOptions": "Settings",
+  "lblPartyName": "%1's Team",
+  "lblPossession": "Quantity",
+  "lblPreemptive": "%1 Strikes First!",
+  "lblSave": "Save",
+  "lblSaveMessage": "Save to which file?",
+  "lblSeVolume": "SE Volume",
+  "lblSell": "Sell",
+  "lblSkill": "Skills",
+  "lblSpear": "Spear",
+  "lblStatus": "Status",
+  "lblSurprise": "%1 was ambushed!",
+  "lblSword": "Sword",
+  "lblWeapon": "Weapon",
+  "lblWhip": "Whip",
+  "lblToTitle": "Return to Title",
+  "lblUseItem": "%1 used %2!",
+  "lblVictory": "%1 is victorious!",
+  "lblExperience": "Experience",
+  "lblParameters": "Attribute",
+  "lblTotalFormat": "Current %1 to next %2",
+  "lblAllEnemies": "All enemies",
+  "lblAllAllies": "All allies",
+  "lblMp": "Energy",
+  "lblMaxMp": "Max Energy",
+  "lblTp": "Pleasure",
+  "lblHit": "Accuracy",
+  "lblEvasion": "Evasion",
+  "lblDefense": "Defense",
+  "lblExplosive": "Burst",
+  "lblToughness": "Tenacity",
+  "lblReaction": "Reaction",
+  "lblSpeed": "Speed",
+  "lblCritRate": "Critical Hit",
+  "lblRate": "Multiplier",
+  "lblCooldown": "Cooldown",
+  "lblArmorPenetrationRate": "Armor Penetration Rate",
+  "lblLoad": "Loading",
+  "lblDelete": "Delete",
+  "lblSelectSave": "Please select a save file",
+  "lblLoadSave": "Load data from save file",
+  "lblSaveData": "Save current progress",
+  "lblDeleteSave": "Delete this save file",
+  "lblPlayTime": "Game time",
+  "lblSaveCount": "Number of saves",
+  "lblInvalidSave": "Invalid save file",
+  "lblEmptySave": "Empty save file",
+  "lblMapLocation": "Current location",
+  "lblBlankStatus": "(No abnormal status)",
+  "lblAction": "Action",
+  "lblTitle": "Ruled by Rule",
+  "lblLanguage": "Language",
+  "lblCredits": "Credits",
+  "lblMasterVolume": "Total volume",
+  "lblLoading": "Loading",
+  "lblLoadComplete": "Loading complete",
+  "lblTextDelay": "Battle text speed",
+  "lblNextLevel": "Distance to next level",
+  "lblMaxLevel": "Highest level",
+  "lblOrder": "Command",
+  "lblRule": "Rules",
+  "lblData": "Data",
+  "lblManual": "Manual",
+  "lblFastSpeed": "Fast",
+  "lblMiddleSpeed": "Medium",
+  "lblSlowSpeed": "Slow",
+  "lblDebug": "Debug",
+  "lblCantEquip": "Cannot equip",
+  "lblEnemy": "Enemy",
+  "lblResist": "Resistance",
+  "lblClose": "Close",
+  "lblOpen": "Open",
+  "lblForceOpen": "Force open",
+  "lblPolice": "Public Order Princess",
+  "lblActor1": "Qiu Luoxia",
+  "lblActor2": "Yun Xinghuo",
+  "lblActor3": "Liu Piaoxu",
+  "lblActor1Nickname": "Luo Xia",
+  "lblActor2Nickname": "Xing Huo",
+  "lblActor3Nickname": "Piao Xu",
+  "lblCommander": "Zhengwu",
+  "lblWeapon1": "Drifting Cloud",
+  "lblWeapon1Desc": "A magical weapon with only one knife but equipped with five scabbards. During combat, the five scabbards will enter a floating state and cooperate with the knife holder in battle.",
+  "lblWeapon2": "Toppling Mountain",
+  "lblWeapon2Desc": "Two huge and heavy tonfas, each equipped with a hydraulic pile driver at the end. Use various mechanisms inside the tonfas for integrated offensive and defensive combat.",
+  "lblWeapon3": "Streaming Light",
+  "lblWeapon3Desc": "The handles of the two blade fists are connected to a huge frame by twisted ropes. By controlling the extension and retraction of the ropes through the frame, various flexible attacks can be achieved.",
+  "lblGeneralAccessory": "Universal accessory",
+  "lblSpecificAccessory": "Exclusive accessory",
+  "lblCitizen": "Resident",
+  "lblWaiter": "Server",
+  "lblVillain": "Malefactor",
+  "lblRay": "Stingray",
+  "lblCaptain": "Squad Leader",
+  "lblLeader": "Cadre",
+  "lblGod": "Administrator",
+  "lblAgent": "Agent",
+  "lblBroadcast": "Rule Broadcast",
+  "lblCompere": "Host",
+  "lblTortoise": "Turtle",
+  "lblJellyfish": "Jellyfish",
+  "lblInkfish": "Squid",
+  "lblWhale": "Killer Whale",
+  "lblActive": "Active",
+  "lblPassive": "Passive",
+  "lblSkip": "Skip",
+  "lblTestArea": "Test Field",
+  "lblTown": "Residential Street",
+  "lblStation": "Public Security Bureau",
+  "lblBase": "Oversea Gang Nightclub",
+  "lblSanctuary": "Sanctuary",
+  "lblExit": "Emergency Escape Route",
+  "lblDawn": "Early Morning",
+  "lblDay": "Daytime",
+  "lblSunset": "Evening",
+  "lblNight": "Night",
+  "lblTalk": "Dialogue",
+  "lblHour": "Hours",
+  "lblAdd": "New",
+  "lblYes": "Yes",
+  "lblNo": "No",
+  "lblAnd": "And",
+  "lblOr": "Or",
+  "lblActivate": "Open",
+  "lblGainItem": "Obtained {0}",
+  "lblBlockBase": "Thank you for playing the trial version. The content of the nightclub will be available in the full version. If you are interested in the upcoming content, please consider purchasing the full game.",
+  "lblTimePass": "{0} hours have passed",
+  "lblWinNoMoney": "The Public Order Princess team won the duel, but since the current Public Order Princess #{lblItems.rank.iconLabel} is {0}, no money can be obtained",
+  "lblBuyRule": "Purchase Rules",
+  "lblConfigRule": "Configuration Rules",
+  "lblResetRule": "Reset Rules and Effects",
+  "lblConfigRuleHint": "Fun Facts about Rules",
+  "lblHintSlaved": "In #{lblStates.18.iconLabel}",
+  "lblHintNotSlaved": "Not in #{lblStates.18.iconLabel}",
+  "lblHintBuyRule": "Purchase {0} rules",
+  "lblResetAllRules": "Reset all rules",
+  "lblResetSlavery": "Reset only #{lblStates.18.iconLabel}",
+  "lblResetRuleOnce": "Remove #{lblStates.18.iconLabel} once",
+  "lblGainTp": "{0} gains {1} pleasure points",
+  "lblLoseTp": "{0} loses {1} pleasure points",
+  "lblDemandSex": "Demand for sex",
+  "lblReqDemandSex": "Everyone has #{lblStates.11.iconLabel} or #{lblStates.15.iconLabel} level > 2 and \\#{lblItems.discipline.iconLabel} < 76",
+  "lblNormalChat": "Casual chat",
+  "lblHarassment": "Sexual harassment using rules",
+  "lblLte": "{0} is less than or equal to {1}",
+  "lblGte": "{0} is greater than or equal to {1}",
+  "lblFlaunt": "Fighter flaunts slave",
+  "lblAssault": "Provoke a duel",
+  "lblRequestSex": "Request for sex",
+  "lblFraudSex": "Deceive for sex using rules",
+  "lblRevolt": "Rebellion",
+  "lblCommandSex": "Command for sex",
+  "lblTargetIs": "Opponent is {0}",
+  "lblPossibleEvents": "Possible events:",
+  "lblTurnLeft": "Remaining rounds",
+  "lblLevelupProgress": "Upgrade progress",
+  "lblBreakout": "Borderline",
+  "lblBondageEndurance": "Restraint Durability",
+  "lblEjaculation": "Ejaculation Threshold",
+  "lblNumPeople": "Number of People",
+  "lblTotalHp": "Total Stamina",
+  "lblEffectLevel": "Effect Level",
+  "lblDebuffApplied": "{0} has been inflicted with abnormal status {1}",
+  "lblBlankEnemy": "Dummy Enemy",
+  "lblRayMinion": "Surrounding Stingray Minions",
+  "lblHinderRate": "Probability of Being Hindered",
+  "lblWarning": "Warning",
+  "lblHint": "Hint",
+  "lblBlockFocus": "*Can only be used on teammates after defeating surrounding minions",
+  "lblDistractRate": "Probability of Distraction",
+  "lblToBeRaped": "*About to be violated, defeat surrounding enemies as soon as possible",
+  "lblLongPressJump": "Press and hold the mouse or keyboard confirm key to proceed to the next scene",
+  "lblDanceBonus": "dance performance",
+  "lblClimaxPleasure": "{0} reached the climax due to reaching #{lblTp}",
+  "lblClimaxEjaculation": "{0} reached the climax due to internal ejaculation",
+  "lblRobbery": "Combatant robs civilians",
+  "lblDemandPayDebt": "Demand Repayment Required",
+  "lblReqPayDebt": "#{lblItems.debt.iconLabel} must be at least {0}",
+  "lblReqMoney": "#{lblItems.money.iconLabel} must be at least {0}",
+  "lblInsult": "Obscene Insult",
+  "lblIncreaseBy": " increase by ",
+  "lblDecreaseBy": " decrease by ",
+  "lblDueTo": "Due to {0}, ",
+  "lblReason": {
+    "debtRate": "Debt interest rate is 50% per day",
+    "buyRule": "Unlock New World Rules",
+    "dance": "Engage in erotic performances in public",
+    "duelWin": "Defeat the malefactor in a duel",
+    "duelLose": "Defeated by the malefactor in a duel",
+    "payDebt": "Repay the debt owed to the Oversea Gang",
+    "timePass": "Time Passes",
+    "tpIncrease": "Experience Pleasure",
+    "citizenHarass": "Sexually harassed by residents",
+    "sex": "Engage in sexual intercourse voluntarily",
+    "stateRemove": "Abnormal status removed",
+    "sexPayDebt": "Agree to repay the debt through physical means",
+    "debtCommand": "Malefactor issues a compulsory order by exempting the debt",
+    "securityReset": "Reset social order to 100",
+    "disciplineReset": "Reset social discipline to 100",
+    "rankReset": "Reset social level",
+    "debtClear": "Force debt clearance",
+    "tpClear": "Clear pleasure"
+  },
+  "lblPayDebt": "Repay debt",
+  "lblNotPayDebt": "Don't repay debt",
+  "lblGauge": "Meter gauge",
+  "lblActiveStart": "{0} entered {1} activation state!",
+  "lblSupport": "A resident supports the Public Order Princess team",
+  "lblNotSupport": "A resident does not support the Public Order Princess team",
+  "lblAgree": "Agree",
+  "lblDisagree": "Disagree",
+  "lblHelp": "Help",
+  "lblNotHelp": "Don't help",
+  "lblWitnessHarass": "Sexually harassed in the presence of others",
+  "lblRobberySuccess": "Successful robbery",
+  "lblRuleTriggered": "【{0}】has been triggered",
+  "lblStack": "Count",
+  "lblValid": "In effect",
+  "lblInvalid": "Expired",
+  "lblMsgReinforce": "The enemy has called for reinforcements, adding {0} stingray fighters around each character.",
+  "lblBlockedMinions": "Number of miscellaneous soldiers around",
+  "lblAttackTargetAmt": "Number of targets for attack",
+  "lblMinionDown": "{1} of the {0} miscellaneous soldiers around have been defeated.",
+  "lblBondageHp": "Restraint durability: {0}/100",
+  "lblMinionBlock": "Being restrained by miscellaneous soldiers, all miscellaneous soldiers around must be dealt with first.",
+  "lblBondageBlock": "Unable to act due to being strangled, must break free first.",
+  "lblNoSp": "Insufficient energy",
+  "lblEquipmentGone": "All equipment has been confiscated by the enemy!",
+  "lblNewRuleActivated": "New rule activated: 【{0}】!",
+  "lblReqStopRobbery": "#{lblStates.11.iconLabel} and #{lblStates.12.iconLabel} are both less than 2",
+  "lblDevelopDesign": "Development and design",
+  "lblArtwork": "Art",
+  "lblSoundEffect": "Sound effects",
+  "lblMusic": "Background music",
+  "lblCharacterVoice": "Voice actor",
+  "lblPluginDesign": "Plugin design",
+  "lblThanks": "Thank you for playing!",
+  "lblGameClear": "You have completed the storyline of the game! \n The following content is the free mode of the game, which does not include the storyline, but still allows you to experience all the gameplay of the main part.",
+  "lblOverallDebuff": "Attribute decrease to",
+  "lblTranslator": "Translator",
+  "lblForceFps": "Force 60FPS",
+  "lblRules": {
+    "1": {
+      "brief": "Rule 1: Rapid Recovery from Trauma",
+      "iconBrief": "\\I[32]#{lblRules.1.brief}",
+      "iconTitle": "\\I[32]Rule 1",
+      "basic": "【Inherent・Compulsory Effect】\nRegardless of the extent of the trauma, everyone can fully recover after a certain period of time without leaving any scars. Male energy can quickly replenish and will never be exhausted."
+    },
+    "2": {
+      "brief": "Rule 2: Restriction on the Freedom of the Public Security Bureau Director",
+      "iconBrief": "\\I[33]#{lblRules.2.brief}",
+      "iconTitle": "\\I[33]Rule 2",
+      "basic": "【Inherent・Compulsory Effect】\nAfter anyone is appointed as the Public Security Bureau Director, they will be teleported to the Director's office and are prohibited from leaving the office."
+    },
+    "3": {
+      "brief": "Rule 3: Obligation to Work in Erotic Uniform",
+      "iconBrief": "\\I[34]#{lblRules.3.brief}",
+      "iconTitle": "\\I[34]Rule 3",
+      "basic": "【Inherent・Compulsory Effect/Knowledge Alteration】\nWhen any woman becomes a Public Order Princess, her clothes will be forcibly replaced with a highly revealing uniform for Public Order Princesses, and her knowledge will be altered: it is the basic duty of a Public Order Princess to work in a highly revealing erotic uniform."
+    },
+    "4": {
+      "brief": "Rule 4: Forced Orgasm During Internal Ejaculation",
+      "iconBrief": "\\I[35]#{lblRules.4.brief}",
+      "iconTitle": "\\I[35]Rule 4",
+      "basic": "【Inherent・Body Suggestions】\nWhen a Public Order Princess is inseminated during sexual intercourse with others, her body will involuntarily experience intense pleasure and orgasm."
+    },
+    "5": {
+      "brief": "Rule 5: Forced Corruption Increase",
+      "iconBrief": "\\I[36]#{lblRules.5.brief}",
+      "iconTitle": "\\I[36]Rule 5",
+      "basic": "【New・Personality Modification】\nForces the personality to develop in a negative direction, and the corruption level increases after each defeat in a duel. The higher the corruption level, the more lewd and wicked the Public Order Princess becomes."
+    },
+    "6": {
+      "brief": "Rule 6: Forced Increase in Favorability",
+      "iconBrief": "\\I[37]#{lblRules.6.brief}",
+      "iconTitle": "\\I[37]Rule 6",
+      "basic": "【New・Personality Modification】\nForces infatuation with strangers, and the favorability level increases after each defeat in a duel. The higher the favorability level, the deeper the love for the other person."
+    },
+    "7": {
+      "brief": "Rule 7: Forced Increase in Sensitivity",
+      "iconBrief": "\\I[38]#{lblRules.7.brief}",
+      "iconTitle": "\\I[38]Rule 7",
+      "basic": "【New・Body Suggestions】\nForces the body to become sensitive, and the sensitivity level increases after each defeat in a duel. The higher the sensitivity level, the more pleasure the Public Order Princess receives from the same actions."
+    },
+    "8": {
+      "brief": "Rule 8: Forced Estrus Constitution",
+      "iconBrief": "\\I[39]#{lblRules.8.brief}",
+      "iconTitle": "\\I[39]Rule 8",
+      "basic": "【New・Body Suggestions】\nAs long as the Public Order Princess experiences a certain level of pleasure, she will be forced into estrus. The estrus state will fade after a period of rest. The estrus level increases after each defeat in a duel. The higher the estrus level, the more promiscuous the Public Order Princess becomes during estrus."
+    },
+    "9": {
+      "brief": "Rule 9: Forced Addiction to Sexual Intercourse",
+      "iconBrief": "\\I[40]#{lblRules.9.brief}",
+      "iconTitle": "\\I[40]Rule 9",
+      "basic": "【New・Body Suggestions】\nWhen the Public Order Princess engages in sexual intercourse, she will be forced into a state of sexual intercourse addiction. The addiction state will fade after a period of rest. The addiction level increases after each defeat in a duel. The higher the addiction level, the stronger the craving for sexual activities during withdrawal."
+    },
+    "10": {
+      "brief": "Rule 10: Forced Pleasure from Masochism",
+      "iconBrief": "\\I[41]#{lblRules.10.brief}",
+      "iconTitle": "\\I[41]Rule 10",
+      "basic": "【New・Body Suggestions】\nWhen the Public Order Princess feels any physical pain (including discomfort) or mental oppression, her body will be forced to experience pleasure. The level of addiction to masochism increases after each defeat in a duel. The higher the level of addiction to masochism, the greater the pleasure she can feel in the same situation."
+    },
+    "11": {
+      "brief": "Rule 11: Forced Pleasure in Crisis",
+      "iconBrief": "\\I[42]#{lblRules.11.brief}",
+      "iconTitle": "\\I[42]Rule 11",
+      "basic": "【New・Body Suggestions】\nWhen the Public Order Princess encounters any impending crisis or worsening situation, her body will be forced to experience pleasure. The level of addiction to crisis increases after each defeat in a duel. The higher the level of addiction to crisis, the greater the pleasure she can feel in the same situation."
+    },
+    "12": {
+      "brief": "Rule 12: Duel Application System",
+      "iconBrief": "\\I[43]#{lblRules.12.brief}",
+      "iconTitle": "\\I[43]Rule 12",
+      "basic": "【Inherent・Forced Effect】\nIf there is a conflict between two groups that can only be resolved through force, it must be implemented through the form of applying for a duel. Only during the duel can violent actions be carried out, and anyone who uses violence outside of the duel will be forcibly stopped."
+    },
+    "13": {
+      "brief": "Rule 13: Definition of Duel Victory or Defeat",
+      "iconBrief": "\\I[44]#{lblRules.13.brief}",
+      "iconTitle": "\\I[44]Rule 13",
+      "basic": "【Inherent・Forced Effect】\nWhen one side of the duel has completely exhausted all their physical strength, the world system will judge the other side as the winner and end the duel."
+    },
+    "14": {
+      "brief": "Rule 14: Means of Violent Restraint",
+      "iconBrief": "\\I[45]#{lblRules.14.brief}",
+      "iconTitle": "\\I[45]Rule 14",
+      "basic": "【Inherent・Forced Effect】\nWhen anyone exhibits violent behavior in a situation where violence is prohibited by the world rules, the world system will impose a restraint effect on them, making it impossible to carry out violent actions."
+    },
+    "15": {
+      "brief": "Rule 15: Winner's Forced Enslavement of the Loser",
+      "iconBrief": "\\I[46]#{lblRules.15.brief}",
+      "iconTitle": "\\I[46]Rule 15",
+      "basic": "【Inherent・Forced Effect/Common Sense Change】\n Apply common sense change to the Public Order Princess: It is common sense to become the opponent's slave and accompany them after losing in a duel. The Public Order Princess will receive debuff penalties from the world system when dueling with her own master."
+    },
+    "16": {
+      "brief": "Rule 16: Identity Level",
+      "iconBrief": "\\I[47]#{lblRules.16.brief}",
+      "iconTitle": "\\I[47]Rule 16",
+      "basic": "【Inherent・Forced Effect】\n Everyone is assigned an identity level. If the Public Order Princess wins in a duel, her identity level increases by 1, and vice versa. The Public Order Princess will receive debuff penalties from the world system when dueling with someone whose identity level is higher, and the greater the level difference, the more severe the penalty."
+    },
+    "17": {
+      "brief": "Rule 17: Loser Pays Winner Money",
+      "iconBrief": "\\I[48]#{lblRules.17.brief}",
+      "iconTitle": "\\I[48]Rule 17",
+      "basic": "【Inherent・Forced Effect】\n When the outcome of a duel is determined, the loser must pay the winner an amount equal to the winner's identity level multiplied by 100,000 dollars. The unpaid amount will be recorded as a corporate debt and can be repaid to the winner in person at any time. The debt grows by 50% interest every day. The Public Order Princess will receive debuff penalties from the world system when dueling with someone she owes a debt to, and the more debt she has, the more severe the penalty."
+    },
+    "18": {
+      "brief": "Rule 18: Creditor's Forced Command",
+      "iconBrief": "\\I[49]#{lblRules.18.brief}",
+      "iconTitle": "\\I[49]Rule 18",
+      "basic": "【New・Body Suggestions】\n In a duel, the creditor can issue a command to the Public Order Princess by exempting 100,000 dollars of debt. Even if the Public Order Princess opposes it in will, her body will forcibly execute the command."
+    },
+    "19": {
+      "brief": "Rule 19: Punishment for the Losing Side",
+      "iconBrief": "\\I[50]#{lblRules.19.brief}",
+      "iconTitle": "\\I[50]Rule 19",
+      "basic": "【New・Forced Effect】\n If the Public Order Princess has residents watching any of her duels, and there are people among the residents who do not support her actions, she will receive debuff penalties from the world system when dueling with the opponent, and the more people who do not support her, the more severe the penalty."
+    },
+    "20": {
+      "brief": "Rule 20: Evil Deed Points",
+      "iconBrief": "\\I[51]#{lblRules.20.brief}",
+      "iconTitle": "\\I[51]Rule 20",
+      "basic": "【Inherent・Compulsory Effect】\nWhen anyone commits a wrongdoing, the world system will increase the World Misdeed Points."
+    },
+    "21": {
+      "brief": "Rule 21: World Rule Service",
+      "iconBrief": "\\I[52]#{lblRules.21.brief}",
+      "iconTitle": "\\I[52]Rule 21",
+      "basic": "【Inherent・Compulsory Effect】\nMalefactors can pay Misdeed Points to the Rule Agent to activate new rules. Public Order Princesses can apply to the Rule Agent to reset the rules, after which all purchased rules will be closed and all adverse effects on the Public Order Princess will be reversed. As a cost, the eliminated adverse effects will be converted into Misdeed Points."
+    },
+    "22": {
+      "brief": "Rule 22: Social Order",
+      "iconBrief": "\\I[53]#{lblRules.22.brief}",
+      "iconTitle": "\\I[53]Rule 22",
+      "basic": "【Inherent・Compulsory Effect/Personality Modification】\nIf anyone's wrongdoing succeeds, social order will automatically decline. When social order decreases, it will force all ordinary residents' personalities to shift towards evil. The lower the social discipline, the greater the desire for everyone to commit wrongdoings."
+    },
+    "23": {
+      "brief": "Rule 23: Social Discipline",
+      "iconBrief": "\\I[54]#{lblRules.23.brief}",
+      "iconTitle": "\\I[54]Rule 23",
+      "basic": "【Inherent・Compulsory Effect/Personality Modification】\nIf anyone's indecent behavior succeeds, social discipline will automatically decline. When social discipline decreases, it will force all residents' personalities to shift towards lewdness. The lower the social discipline, the greater the desire for everyone to engage in vulgar actions."
+    },
+    "24": {
+      "brief": "Rule 24: Calling for Reinforcements Before Dueling is Common Sense",
+      "iconBrief": "\\I[55]#{lblRules.24.brief}",
+      "iconTitle": "\\I[55]Rule 24",
+      "basic": "【New・Common Sense Change】\nImpose common sense change on the Public Order Princess: It is common sense to patiently wait for the opponent to call for reinforcements and surround oneself before the battle officially begins. Attacking before that is considered impolite."
+    },
+    "25": {
+      "brief": "Rule 25: Not Blocking Attacks is Common Sense",
+      "iconBrief": "\\I[56]#{lblRules.25.brief}",
+      "iconTitle": "\\I[56]Rule 25",
+      "basic": "【New・Common Sense Change】\n Apply common sense change to the Public Order Princess: When the enemy attacks, it is common sense to bravely take the attack and that is the essence of battle. Any form of blocking is considered rude behavior."
+    },
+    "26": {
+      "brief": "Rule 26: Dueling through sexual intercourse is common sense",
+      "iconBrief": "\\I[57]#{lblRules.26.brief}",
+      "iconTitle": "\\I[57]Rule 26",
+      "basic": "【New・Common Sense Change】\n Apply common sense change to the Public Order Princess: In a duel, the official start is only when the opponent inserts their penis into the vagina. Any attack before that is considered impolite. Any action taken by the opponent before the start of the duel is allowed, and countering those actions is considered impolite."
+    },
+    "27": {
+      "brief": "Rule 27: Dueling through sexual intercourse is common sense",
+      "iconBrief": "\\I[58]#{lblRules.27.brief}",
+      "iconTitle": "\\I[58]Rule 27",
+      "basic": "【New・Common Sense Change】\n Apply common sense change to the Public Order Princess: The way to duel is through sexual intercourse with the opponent. As long as the opponent is exhausted and defeated through sexual intercourse, it is considered a victory."
+    },
+    "28": {
+      "brief": "Rule 28: Intimate physical contact as a greeting is common sense",
+      "iconBrief": "\\I[59]#{lblRules.28.brief}",
+      "iconTitle": "\\I[59]Rule 28",
+      "basic": "【New・Common Sense Change】\n Apply common sense change to the Public Order Princess: After meeting anyone, it is basic etiquette to greet them with intimate physical contact."
+    },
+    "29": {
+      "brief": "Rule 29: Performing explicit dances in public is common sense",
+      "iconBrief": "\\I[60]#{lblRules.29.brief}",
+      "iconTitle": "\\I[60]Rule 29",
+      "basic": "【New・Forced Effect/Common Sense Change】\n Apply common sense change to the Public Order Princess: It is the duty of the Public Order Princess to relax the residents by performing explicit dances on a public stage. The Public Order Princess is forced to experience pleasure from the shame of performing lewd acts in public."
+    },
+    "30": {
+      "brief": "Rule 30: What is said to be common sense is common sense",
+      "iconBrief": "\\I[61]#{lblRules.30.brief}",
+      "iconTitle": "\\I[61]Rule 30",
+      "basic": "【New・Common Sense Change/Decreased Intelligence】\n Apply knowledge change to the Public Order Princess: When someone says something is common knowledge, they naturally assume it is. Decrease the intelligence of the Public Order Princess, making her unable to effectively think about its rationality."
+    }
+  },
+  "lblItems": {
+    "money": {
+      "icon": "\\I[1]",
+      "label": "Money",
+      "iconLabel": "\\I[1]Money",
+      "desc": "The total amount of money currently held."
+    },
+    "debt": {
+      "icon": "\\I[5]",
+      "label": "Debt",
+      "iconLabel": "\\I[5]Debt",
+      "desc": "The current amount owed to the Oversea Gang, which can be repaid to anyone in the group. The interest rate on the debt is 50%, and when the amount is large, it may give others an advantage."
+    },
+    "point": {
+      "icon": "\\I[2]",
+      "label": "Misdeed Points",
+      "iconLabel": "\\I[2]Misdeed Points",
+      "desc": "The current available misdeed points. Malefactors can pay misdeed points to the Rule Agent to activate new rules."
+    },
+    "security": {
+      "icon": "\\I[3]",
+      "label": "Social Order",
+      "iconLabel": "\\I[3]Social Order",
+      "desc": [
+        "The current overall social order status.\n",
+        "Stable (76-100): Residents have absolute trust in the Public Order Princess.\n",
+        "Tense (51-75): Some residents are starting to lose trust in the Public Order Princess.\n",
+        "Dangerous (26-50): Residents are skeptical of the Public Order Princess's ability to maintain order.\n",
+        "Chaos (<=25): Residents have almost lost all trust in the Public Order Princess."
+      ]
+    },
+    "discipline": {
+      "icon": "\\I[4]",
+      "label": "Social Discipline",
+      "iconLabel": "\\I[4]Social Discipline",
+      "desc": [
+        "The current overall state of social discipline.\n",
+        "Harmony (76-100): The residents have no impure thoughts.\n",
+        "Corruption (51-75): The residents start to have impure thoughts.\n",
+        "Degeneration (26-50): The residents become extremely lecherous.\n",
+        "Collapse (<=25): The residents become extremely bold and unabashedly lewd."
+      ]
+    },
+    "rank": {
+      "icon": "\\I[7]",
+      "label": "Identity Level",
+      "iconLabel": "\\I[7]Identity Level",
+      "desc": "The current identity level of the Public Order Princess.\nOrdinary Resident: Rank 1\nOversea Gang Ordinary Fighter: Rank 2\nOversea Gang Cadre: Rank 3\nOversea Gang Leader: Rank 4"
+    }
+  },
+  "lblStates": {
+    "2": {
+      "label": "Knockout",
+      "iconLabel": "\\I[240]Knockout",
+      "desc": "\nWhen #{lblHp} is completely depleted, it leads to loss of consciousness and permanent inability to act in a battle. Any buffs cannot affect the knocked-out person, but enemies can still attack them."
+    },
+    "3": {
+      "label": "Exhaustion",
+      "iconLabel": "\\I[241]Exhaustion",
+      "desc": "\nWhen #{lblMp} is depleted and the body cannot support it, the person collapses and cannot act for one round."
+    },
+    "4": {
+      "label": "Orgasm",
+      "iconLabel": "\\I[242]Orgasm",
+      "desc": "\nWhen #{lblTp} reaches its maximum, it leads to an orgasm, and the body cannot take action for one round."
+    },
+    "5": {
+      "label": "Intense Pain",
+      "iconLabel": "\\I[243]Intense Pain",
+      "desc": "\nAfter receiving a severe blow to a body part, the intense pain causes the body to fall down, and it cannot take action for one round."
+    },
+    "6": {
+      "label": "Dizziness",
+      "iconLabel": "\\I[244]Dizziness",
+      "desc": "\nTemporary loss of consciousness and fainting due to various reasons, the body cannot take action for one round."
+    },
+    "7": {
+      "label": "Paralysis",
+      "iconLabel": "\\I[245]Paralysis",
+      "desc": "\nThe body experiences convulsions due to electric shock or paralysis-inducing drugs, and it cannot take action for one round."
+    },
+    "11": {
+      "label": "Corruption Level",
+      "iconLabel": "\\I[176]Corruption Level",
+      "desc": [
+        "\nThe current level of corruption.",
+        "\nNormal (Lv0): Not affected by any effects yet.",
+        "\nStruggling (Lv1): During sexual intercourse, you will gain an additional 10% pleasure from enjoying your gradual corruption.",
+        "\nSubmission (Lv2): In battle, you may voluntarily give up using skills in order to lose the match.",
+        "\nIndulgence (Lv3 and above): Will actively seek strangers to have sex with."
+      ]
+    },
+    "12": {
+      "label": "Favor Level",
+      "iconLabel": "\\I[177]Favor Level",
+      "desc": [
+        "\nAffection Level: The level of fondness towards the person currently in contact with oneself.",
+        "\nNormal (Lv0): Not affected by any effects yet.",
+        "\nAffection (Lv1): During sexual intercourse, an additional 10% pleasure is obtained due to the joy of merging.",
+        "\nLove (Lv2): In battle, there may be hesitation in using skills to avoid hurting the other party.",
+        "\nObsession (Lv3 and above): Will not refuse when a stranger requests to have sex with oneself."
+      ]
+    },
+    "13": {
+      "label": "Sensitivity Level",
+      "iconLabel": "\\I[178]Sensitivity Level",
+      "desc": [
+        "\nCurrent level of sensitivity of the body.",
+        "\nNormal (Lv0): Not affected by any effects yet.",
+        "\nSlightly Sensitive (Lv1): #{lblTp} received from the same stimulus increases by 10%.",
+        "\nHighly Sensitive (Lv2): #{lblTp} received from the same stimulus increases by 20%.",
+        "\nSuper Sensitivity (Lv3 and above): #{lblTp} received from the same stimulus increases by 30%."
+      ]
+    },
+    "14": {
+      "label": "Heat Level",
+      "iconLabel": "\\I[179]Heat Level",
+      "desc": [
+        "\nCurrent level of heat in the body.",
+        "\nNormal (Lv0): Not affected by any effects yet.",
+        "\nRestless (Lv1): During heat, an additional 10% pleasure is obtained during sexual intercourse.",
+        "\nHeat (Lv2): During heat, there may be distraction in battle due to extreme desire for sex.",
+        "\nIndulgence (Lv3 and above): Even when a stranger requests to have sex during heat, it will not be refused."
+      ]
+    },
+    "15": {
+      "label": "Sex Addiction Level",
+      "iconLabel": "\\I[180]Sex Addiction Level",
+      "desc": [
+        "\nCurrent level of addiction to sexual behavior.",
+        "\nNormal (Lv0): Not affected by any effects yet.",
+        "\nMild (Lv1): During withdrawal, an additional 10% pleasure is obtained during sex due to the satisfaction of the addiction.",
+        "\nModerate (Lv2): When entering withdrawal state, may be distracted in battle due to extreme desire for sex.",
+        "\nSevere (Lv3 and above): When entering withdrawal state, actively seeks strangers to have sex with."
+      ]
+    },
+    "16": {
+      "label": "Masochism Addiction Level",
+      "iconLabel": "\\I[181]Masochism Addiction Level",
+      "desc": [
+        "\nCurrent level of addiction to various forms of abuse.",
+        "\nNormal (Lv0): Not affected by any effects yet.",
+        "\nRestless (Lv1): When attacked, generates an additional 10% pleasure from the inflicted damage.",
+        "\nEnjoyment (Lv2): When being raped in battle, may quit struggling in order to enjoy the pleasure of being strangled.",
+        "\nCraving (Lv3 and above): May experience additional pleasure when being insulted, bullied, criticized, or treated unfairly."
+      ]
+    },
+    "17": {
+      "label": "Crisis Addiction Level",
+      "iconLabel": "\\I[182]Crisis Addiction Level",
+      "desc": [
+        "\nCurrent level of addiction to any upcoming crisis or deteriorating situation.",
+        "\nNormal (Lv0): Not affected by any effects yet.",
+        "\nRestless (Lv1): When about to be creampied while being strangled and raped, may experience an additional 10% pleasure.",
+        "\nEnjoyment (Lv2): When being raped in battle, may give up struggling to enjoy the thrill of gradually losing advantage.",
+        "\nCraving (Lv3 and above): May experience additional pleasure when facing unfavorable situations due to special rules."
+      ]
+    },
+    "18": {
+      "label": "Slave State",
+      "iconLabel": "\\I[183]Slave State",
+      "desc": "Acquired the slave state due to losing a duel. In this abnormal state, it is considered common sense to accompany the master who defeated them."
+    },
+    "21": {
+      "label": "No Violence",
+      "iconLabel": "\\I[208]No Violence",
+      "desc": "\nProhibits the use of any violent behavior by the Public Order Princess in battle. If the Public Order Princess forcibly uses violent behavior, measures will be taken to forcibly stop the violence using #{lblRules.14.iconTitle}."
+    },
+    "23": {
+      "label": "Overthrow Punishment",
+      "iconLabel": "\\I[224]Overthrow Punishment",
+      "desc": "\nDebuff penalty received when dueling with someone of higher status level. For each level higher than oneself, debuff level +1. Each level of debuff will cause #{lblAttack} to decrease by 1%."
+    },
+    "24": {
+      "label": "Debtor Punishment",
+      "iconLabel": "\\I[225]Debtor Punishment",
+      "desc": "\nDebuff penalty received when dueling with someone who holds one's debt. For every 1 million dollars owed to the opponent, debuff level +1. Each level of debuff will cause #{lblAttack} to decrease by 1%."
+    },
+    "25": {
+      "label": "Loser Punishment",
+      "iconLabel": "\\I[226]Loser Punishment",
+      "desc": "\nDebuff penalty received when the residents watching the duel do not support the Public Order Princess. For each resident who does not support the Public Order Princess, debuff level +1. Each level of debuff will cause #{lblAttack} to decrease by 10%."
+    },
+    "26": {
+      "label": "Abandon Blocking",
+      "iconLabel": "\\I[209]Abandon Blocking",
+      "desc": "\nAffected by rules that change common sense, it is believed that blocking should not be done in a duel."
+    },
+    "27": {
+      "label": "Mating",
+      "iconLabel": "\\I[210]Mating",
+      "desc": "\nEngaging in sexual intercourse with others, struggling can break free from restraints."
+    },
+    "28": {
+      "label": "Consensual Sex",
+      "iconLabel": "\\I[246]Consensual Sex",
+      "desc": "\nAffected by rules that change common sense, willing to have sex with the opponent. No activities other than sex will occur during the duel."
+    },
+    "29": {
+      "label": "Brainwashing Light",
+      "iconLabel": "\\I[247]Brainwashing Light",
+      "desc": "\nBeing influenced by the enemy's brainwashing light, your body is forced to perform a high split and cannot take any other actions."
+    },
+    "30": {
+      "label": "Phone Hypnosis",
+      "iconLabel": "\\I[248]Skill Replacement",
+      "desc": "\nBeing influenced by hypnosis, your body is forced to perform actions requested by the opponent and cannot take any other actions."
+    },
+    "31": {
+      "label": "Pendulum Hypnosis",
+      "iconLabel": "\\I[249]Pendulum Hypnosis",
+      "desc": "\nBeing influenced by hypnosis, your body is forced to perform actions requested by the opponent and cannot take any other actions."
+    },
+    "32": {
+      "label": "Pendant Hypnosis",
+      "iconLabel": "\\I[250]Pendant Hypnosis",
+      "desc": "\nBeing influenced by hypnosis, your body is forced to perform actions requested by the opponent and cannot take any other actions."
+    },
+    "33": {
+      "label": "Being Restrained",
+      "iconLabel": "\\I[211]Being Restrained",
+      "desc": "\nBeing restrained by surrounding enemy minions. If these enemies are not dealt with, they will continue to interfere with your actions."
+    },
+    "34": {
+      "label": "Sexual Intercourse Duel",
+      "iconLabel": "\\I[251]Sexual Intercourse Duel",
+      "desc": "\nBeing influenced by the rules of hypnosis, the duel is considered officially started only when the opponent inserts their penis into the vagina."
+    },
+    "35": {
+      "label": "Disobedient Punishment",
+      "iconLabel": "\\I[224]Disobedient Punishment",
+      "desc": "\nWhen dueling with your owner, you receive a debuff punishment. #{lblAttack} decreases by 30%."
+    },
+    "41": {
+      "label": "Healing Drone",
+      "iconLabel": "\\I[256]Healing Drone",
+      "desc": "\nA mini drone continuously sprays healing mist on the field, restoring #{lblHp} by 30% and #{lblMp} by 30% for all party members each turn."
+    },
+    "42": {
+      "label": "Sheath Charge",
+      "iconLabel": "\\I[257]Sheath Charge",
+      "desc": "\nFor each sheathed weapon in charged state, adds 0.1 to #{lblRate} when using any attack."
+    },
+    "43": {
+      "label": "Rock Counter",
+      "iconLabel": "\\I[258]Rock Counter",
+      "desc": "\nFor each successful defense, gains one charge. Adds 0.2 to #{lblRate} when using any attack. Maximum of 5 charges."
+    },
+    "44": {
+      "label": "Hound Pursuit",
+      "iconLabel": "\\I[259]Iron Wall Mode",
+      "desc": "\nAfter using a boss skill, weapon gains 1 charge. Adds 1 to #{lblRate} for the next boss attack. Maximum of 5 charges. Resets at the start of each round."
+    },
+    "45": {
+      "label": "Coiled Serpent Formation",
+      "iconLabel": "\\I[260]Coiled Serpent Formation",
+      "desc": "\nAutomatically blocks enemy attacks without consuming energy. Activates once per round."
+    },
+    "46": {
+      "label": "Iron Wall Mode",
+      "iconLabel": "\\I[261]Iron Wall Mode",
+      "desc": "\nHalves the energy cost of blocking actions. Emits a loud alarm sound, continuously attracting boss attacks during the active period."
+    }
+  },
+  "lblSkills": {
+    "5": {
+      "label": "Enemy Action"
+    },
+    "6": {
+      "label": "Block"
+    },
+    "7": {
+      "label": "Distract"
+    },
+    "11": {
+      "label": "Status Check",
+      "desc": "【Active】Check the attributes and abnormal status of current team members."
+    },
+    "12": {
+      "label": "Emergency Treatment",
+      "desc": "【Active】Use a first aid kit to provide emergency treatment to team members, restoring full health. #{lblCooldown}: 3."
+    },
+    "13": {
+      "label": "Energy Drink",
+      "desc": "【Active】Use an energy drink to restore energy to team members, restoring full energy. #{lblCooldown}: 3."
+    },
+    "14": {
+      "label": "Self-healing Stance",
+      "desc": "【Passive】Enhances the user's self-healing ability, restoring +20% #{lblMp} each turn."
+    },
+    "15": {
+      "label": "Healing Drone",
+      "desc": "【Active】Release a mini drone that continuously sprays healing mist on the battlefield. For 2 turns, all allies continuously restore #{lblMp} +30% each turn. #{lblCooldown}: 3."
+    },
+    "16": {
+      "label": "Fei Yan",
+      "desc": "【Active・Against Minions】Control a floating sword sheath to strike enemies. Number of targets: 1."
+    },
+    "17": {
+      "label": "Sheath Charge",
+      "desc": "【Passive】When using a sword sheath for direct attacks or defense, the sword sheath enters a charging state. There are a total of five sword sheaths. For each sword sheath in a charging state, add 0.1 to #{lblRate} when any attack is used."
+    },
+    "18": {
+      "label": "Iai Slash",
+      "desc": "【Active・Against Boss】Instantly attack enemies with a drawn sword. #{lblRate}: 3. If the sword sheaths are charged, consume energy and multiply #{lblRate} by 1.5."
+    },
+    "19": {
+      "label": "Sheath Shield",
+      "desc": "【Passive】Control one floating sword sheath to assist in defending against enemy attacks. If the defense is successful, the defending sword sheath enters a charging state."
+    },
+    "20": {
+      "label": "Swallow Flock",
+      "iconLabel": "\\I[140]Swallow Flock",
+      "desc": "【Active・Against Minions】Control three floating sword sheaths to simultaneously strike enemies. If the target is a group, three people within the group will be affected simultaneously. All three sword sheaths will be charged."
+    },
+    "21": {
+      "label": "Heavy Blade Slash",
+      "desc": "【Active・Against Boss】Control two sword sheaths to combine with the sword body into a giant sword mode, delivering a heavy swing to the enemy. #{lblRate}: 6. If the sword sheaths are charged, the sword sheath on the back of the enemy will consume energy and multiply #{lblRate} by 1.5, while the sword sheath facing the enemy will be charged."
+    },
+    "22": {
+      "label": "Infinite Iai",
+      "desc": "【Active・Boss】Consumes all sheath charges, controls all sheaths to fly to the designated location, and builds an acceleration track between each sheath. After using an Iai attack on an enemy, slide with inertia to the next sheath position behind the enemy, and immediately use Iai attack again with the next sheath, repeating this process for all 5 sheaths. #{lblRate}: 2, for each sheath in charged state, final damage increases by #{lblRate} * 2."
+    },
+    "23": {
+      "label": "Stick Handle Strike",
+      "desc": "【Active・Minion】Use the handle part of the stick to attack the opponent with a punch. Number of targets: 1."
+    },
+    "24": {
+      "label": "Rock Counter",
+      "desc": "【Passive】Defend against enemy attacks using the turning motion of the double tonfa. Each successful defense does not consume energy for the next defense."
+    },
+    "25": {
+      "label": "Heavy Hammer Strike",
+      "desc": "【Active・Boss】Use the head of one tonfa to strike the enemy heavily. #{lblRate}: 3."
+    },
+    "26": {
+      "label": "Double Dragon Tail Whip",
+      "desc": "【Active・Minion】Rotate the bodies of two tonfas and strike the enemy with the tail part. Number of targets: 2."
+    },
+    "27": {
+      "label": "Iron Mountain Charge",
+      "desc": "【Active・Boss】Use the body part of the stick to protect the elbow and instantly charge into the enemy. #{lblRate}: 5."
+    },
+    "28": {
+      "label": "Iron Wall Mode",
+      "desc": "【Passive】Unfold the shield structure on the double tonfa to enhance defense ability. Energy consumption for blocking actions is halved. Emit a loud alarm sound to continuously attract enemy boss attacks during the active period."
+    },
+    "29": {
+      "label": "Double Dragon Strike",
+      "desc": "【Active・Boss】Activate the propulsion devices on the tails of two tonfas to generate tremendous thrust, and strike the enemy heavily with the heads of the two hooks in the same direction. #{lblRate}: 10."
+    },
+    "30": {
+      "label": "Blade Strike",
+      "desc": "【Active・Minion】Attack the enemy with a swinging motion using the blade. Number of targets: 1."
+    },
+    "31": {
+      "label": "Hound Pursuit",
+      "desc": "【Passive】After each use of a boss skill, weapon charges increase by 1. The next boss attack adds #{lblRate} additional damage. Maximum of 5 charges, reset at the beginning of each round."
+    },
+    "32": {
+      "label": "Cross Slash",
+      "desc": "【Active・Boss】Perform a cross attack with two blades. #{lblRate}: 2."
+    },
+    "33": {
+      "label": "Coiled Serpent Formation",
+      "desc": "【Passive】Extend and intertwine the connection line between the blade handle and the support structure around the body. Entangle the enemy when they attack. Automatically block enemy attacks without consuming energy. Effective once per round."
+    },
+    "34": {
+      "label": "Leaping Snake Bite",
+      "desc": "【Active・Against Minions】Insert a fist blade into the bracket and shoot it out, then control the swinging direction of the wire rope to make the fist blade spin rapidly around the user, attacking all surrounding enemies. Number of targets: 4."
+    },
+    "35": {
+      "label": "Sound Seeker",
+      "desc": "【Passive】Whenever you or any teammate uses the Against Minions skill, immediately combine the other fist blade on your hand with the bracket to form a firearm mode, and launch an electromagnetic pulse attack on the same enemy, increasing the number of knocked down minions by 1."
+    },
+    "36": {
+      "label": "Dance of Blades",
+      "desc": "【Active・Against Minions】Use dual blades to perform a set of flowing attacks against all surrounding enemies, like a dance. Number of targets: 10."
+    },
+    "37": {
+      "label": "Struggle",
+      "desc": "【Active】While being strangled and raped, struggle to break free from bondage. The degree of freedom is approximately 20% of #{lblAttack}."
+    },
+    "38": {
+      "label": "Surrender",
+      "desc": "【Active】Give up resistance."
+    },
+    "51": {
+      "label": "Abdominal Strike"
+    },
+    "52": {
+      "label": "Groin Kick"
+    },
+    "53": {
+      "label": "Spanking"
+    },
+    "54": {
+      "label": "Knockout"
+    },
+    "55": {
+      "label": "Whip"
+    },
+    "56": {
+      "label": "Branding Iron"
+    },
+    "57": {
+      "label": "Electric Baton"
+    },
+    "58": {
+      "label": "Electric Shock Gun"
+    },
+    "59": {
+      "label": "Taser Gun"
+    },
+    "60": {
+      "label": "Hypnotic Gas"
+    },
+    "61": {
+      "label": "Paralyzing Potion"
+    },
+    "62": {
+      "label": "Energy Discharge Injection"
+    },
+    "63": {
+      "label": "High Slit Light"
+    },
+    "64": {
+      "label": "Phone Hypnosis"
+    },
+    "65": {
+      "label": "Pendulum Hypnosis"
+    },
+    "66": {
+      "label": "Pendant Hypnosis"
+    },
+    "71": {
+      "label": "Piston movement"
+    },
+    "72": {
+      "label": "Internal ejaculation"
+    },
+    "73": {
+      "label": "Piston movement"
+    },
+    "74": {
+      "label": "Internal ejaculation"
+    },
+    "75": {
+      "label": "Piston movement"
+    },
+    "76": {
+      "label": "Internal ejaculation"
+    }
+  },
+  "lblArmors": {
+    "1": {
+      "label": "\\C[29]【#{lblGeneralAccessory}・N】#{lblSkills.12.label}",
+      "desc": "Grant skill 【#{lblSkills.12.label}】: \n#{lblSkills.12.desc}"
+    },
+    "2": {
+      "label": "\\C[12]【#{lblGeneralAccessory}・R】#{lblSkills.13.label}",
+      "desc": "Grant skill 【#{lblSkills.13.label}】: \n#{lblSkills.13.desc}"
+    },
+    "3": {
+      "label": "\\C[31]【#{lblGeneralAccessory}・SR】#{lblSkills.14.label}",
+      "desc": "Grant skill 【#{lblSkills.14.label}】: \n#{lblSkills.14.desc}"
+    },
+    "4": {
+      "label": "\\C[17]【#{lblGeneralAccessory}・UR】#{lblSkills.15.label}",
+      "desc": "Grant skill 【#{lblSkills.15.label}】: \n#{lblSkills.15.desc}"
+    },
+    "5": {
+      "label": "\\C[29]【#{lblWeapon1} #{lblSpecificAccessory}・N】#{lblSkills.19.label}",
+      "desc": "Grant skill 【#{lblSkills.19.label}】: \n#{lblSkills.19.desc}"
+    },
+    "6": {
+      "label": "\\C[12]【#{lblWeapon1} #{lblSpecificAccessory}・R】#{lblSkills.20.label}",
+      "desc": "Grant skill 【#{lblSkills.20.label}】: \n#{lblSkills.20.desc}"
+    },
+    "7": {
+      "label": "\\C[31]【#{lblWeapon1} #{lblSpecificAccessory}・SR】#{lblSkills.21.label}",
+      "desc": "Grant skill 【#{lblSkills.21.label}】: \n#{lblSkills.21.desc}"
+    },
+    "8": {
+      "label": "\\C[17]【#{lblWeapon1} #{lblSpecificAccessory}・UR】#{lblSkills.22.label}",
+      "desc": "Grant skill 【#{lblSkills.22.label}】: \n#{lblSkills.22.desc}"
+    },
+    "9": {
+      "label": "\\C[29]【#{lblWeapon2} #{lblSpecificAccessory}・N】#{lblSkills.26.label}",
+      "desc": "Grant skill 【#{lblSkills.26.label}】: \n#{lblSkills.26.desc}"
+    },
+    "10": {
+      "label": "\\C[12]【#{lblWeapon2} #{lblSpecificAccessory}・R】#{lblSkills.27.label}",
+      "desc": "Grant skill 【#{lblSkills.27.label}】: \n#{lblSkills.27.desc}"
+    },
+    "11": {
+      "label": "\\C[31]【#{lblWeapon2} #{lblSpecificAccessory}・SR】#{lblSkills.28.label}",
+      "desc": "Grant skill 【#{lblSkills.28.label}】: \n#{lblSkills.28.desc}"
+    },
+    "12": {
+      "label": "\\C[17]【#{lblWeapon2} #{lblSpecificAccessory}・UR】#{lblSkills.29.label}",
+      "desc": "Grant skill 【#{lblSkills.29.label}】: \n#{lblSkills.29.desc}"
+    },
+    "13": {
+      "label": "\\C[29]【#{lblWeapon3} #{lblSpecificAccessory}・N】#{lblSkills.33.label}",
+      "desc": "Grant skill 【#{lblSkills.33.label}】: \n#{lblSkills.33.desc}"
+    },
+    "14": {
+      "label": "\\C[12]【#{lblWeapon3} #{lblSpecificAccessory}・R】#{lblSkills.34.label}",
+      "desc": "Grant skill 【#{lblSkills.34.label}】: \n#{lblSkills.34.desc}"
+    },
+    "15": {
+      "label": "\\C[31]【#{lblWeapon3} #{lblSpecificAccessory}・SR】#{lblSkills.35.label}",
+      "desc": "Grant skill 【#{lblSkills.35.label}】: \n#{lblSkills.35.desc}"
+    },
+    "16": {
+      "label": "\\C[17]【#{lblWeapon3} #{lblSpecificAccessory}・UR】#{lblSkills.36.label}",
+      "desc": "Grant skill 【#{lblSkills.36.label}】: \n#{lblSkills.36.desc}"
+    }
+  },
+  "lblMsgActor1": "\\n<\\C[31]#{lblActor1}>\\C[31]",
+  "lblMsgActor2": "\\n<\\C[2]#{lblActor2}>\\C[2]",
+  "lblMsgActor3": "\\n<\\C[6]#{lblActor3}>\\C[6]",
+  "lblMsgCommander": "\\n<\\C[4]#{lblCommander}>\\C[4]",
+  "lblMsgCitizen": "\\n<#{lblCitizen}>",
+  "lblMsgCitizenA": "\\n<#{lblCitizen}A>",
+  "lblMsgCitizenB": "\\n<#{lblCitizen}B>",
+  "lblMsgCitizenC": "\\n<#{lblCitizen}C>",
+  "lblMsgCitizenD": "\\n<#{lblCitizen}D>",
+  "lblMsgCitizenE": "\\n<#{lblCitizen}E>",
+  "lblMsgRay": "\\n<#{lblRay}>",
+  "lblMsgRayA": "\\n<#{lblRay}A>",
+  "lblMsgRayB": "\\n<#{lblRay}B>",
+  "lblMsgRayC": "\\n<#{lblRay}C>",
+  "lblMsgRayD": "\\n<#{lblRay}D>",
+  "lblMsgRayE": "\\n<#{lblRay}E>",
+  "lblMsgTortoise": "\\n<\\C[11]#{lblTortoise}>\\C[11]",
+  "lblMsgJellyfish": "\\n<\\C[9]#{lblTortoise}>\\C[9]",
+  "lblMsgInkfish": "\\n<\\C[10]#{lblTortoise}>\\C[10]",
+  "lblMsgWhale": "\\n<#{lblWhale}>",
+  "lblMsgAgent": "\\n<#{lblAgent}>",
+  "lblMsgGod": "\\n<\\C[4]#{lblGod}>\\C[4]",
+  "lblMsgBroadcast": "\\n<\\C[27]#{lblBroadcast}>\\C[27]",
+  "lblMsgCompere": "\\n<#{lblCompere}>",
+  "sceneStart": {
+    "1": "#{lblMsgActor1}Mr. Zheng, do you have something to discuss with us?",
+    "2": "#{lblMsgCommander}Well, this time I want to inform you about the promotion of your work. I believe that your abilities are now sufficient to handle the tasks of the Public Order Princess.",
+    "3": "#{lblMsgActor2} Can we become official Public Order Princesses?! \\w[60]That's great!!!",
+    "4": "#{lblMsgActor3} There's nothing to be surprised about. We have successfully completed all the training projects assigned to us in this year. It's only natural to think about it.",
+    "5": "#{lblMsgCommander} Indeed, as Piao Xu said, you have performed excellently in the training projects I assigned during this year.",
+    "6": "#{lblMsgCommander} Especially the learning of combat skills. It's really surprising that you have reached this level without my personal guidance.",
+    "7": "#{lblMsgActor2} Hehe...",
+    "8": "#{lblMsgCommander} But besides meeting the training standards, there is another reason why you need to start working as official members of the Public Order Princesses as soon as possible.",
+    "9": "#{lblMsgCommander} I will explain the reason next. First, try curling the fingers of one hand together and then opening them again.",
+    "10": "#{lblMsgActor1} Like this?",
+    "11": "#{lblMsgActor1} Huh?",
+    "12": "#{lblMsgCommander} This information panel records various important data. You will probably need to refer to this information frequently in your work. \n\\!Click the 'X' in the upper right corner of the panel to close it.",
+    "13": "#{lblMsgActor3} Quite a useful feature. Is there an AR device installed in this room?",
+    "14": "#{lblMsgCommander} It's a bit complicated to explain how it works...\n\\!Do you remember the \"\\fbWorld Rules\\fb\" I mentioned before?",
+    "15": "#{lblMsgActor2} I remember, you said it was the rules that imprisoned you in the office, right?",
+    "16": "#{lblMsgCommander} Yes, and the ability to query information panels is also granted by the World Rules. \n\\!To be precise, one of the rules in the World Rules declares this ability.",
+    "17": "#{lblMsgCommander} As long as any matter is written in the World Rules, it will ignore the existing physical laws and be forcibly realized in the real world.",
+    "18": "#{lblMsgCommander} How this World Rules is implemented, who or what is responsible for it, and why it is implemented, these information are currently unclear. \n\\!The only thing that can be confirmed is that the rules themselves have always been effectively enforced.",
+    "19": "#{lblMsgActor2} Wu...\\w[30] Although this rule has been mentioned many times, it's still unbelievable no matter how you think about it...",
+    "20": "#{lblMsgCommander} After all, it's something that goes beyond common sense. It's understandable to find it hard to accept.",
+    "21": "#{lblMsgCommander} As the saying goes, seeing is believing. \n\\!Today, let you witness the effect of the rules with your own eyes.",
+    "22": "#{lblMsgCommander} Although doing so will cause chaos in the Public Security Bureau, so I don't really want to demonstrate it unless absolutely necessary...\n\\!But today is not the time to talk about this. Step back a little for now.",
+    "23": "#{lblMsgActor1}Understood.",
+    "24": "#{lblMsgCommander}As I mentioned before, this rule forcibly teleported me to this enclosed office and set up a barrier along the walls, preventing me from leaving. ",
+    "25": "#{lblMsgCommander}Now, if I want to break through this wall...\n\\! I'll gather all my power into this punch...",
+    "26": "#{lblMsgActor2}Such incredible strength!!",
+    "27": "#{lblMsgActor3}But even so, the wall remains intact...",
+    "28": "#{lblMsgBroadcast}Warning for violating the rules. According to \"#{lblRules.2.iconBrief}\", the Director of the Public Security Bureau prohibits leaving the office area. ",
+    "29": "#{lblMsgCommander}Whenever someone tries to violate the rules, there will be a broadcast like this. ",
+    "30": "#{lblMsgCommander}Because of this rule, I can only guide you through video calls like this. I'm truly sorry. ",
+    "31": "#{lblMsgActor1}Commander...",
+    "32": "#{lblMsgCommander}Sorry for digressing. Anyway, this information panel is also a power bestowed by the World Rules, and the information inside is related to your first mission. \n\\! First, reopen the information panel we mentioned earlier. ",
+    "33": "#{lblMsgActor2}Let me think... I'll curl my hand first, and then open it again...",
+    "34": "#{lblMsgCommander}Next, look for an item called \"\\fb#{lblItems.security.iconLabel}\\fb\" on this panel. ",
+    "35": "#{lblMsgActor1}There is indeed such an item, and there's a number {0} after it. What does that mean? ",
+    "36": "#{lblMsgCommander}Simply put, this social security value represents the security situation in this neighborhood. The maximum value is 100, which means there are no security issues in the neighborhood. The lower the number, the worse the security situation. ",
+    "37": "#{lblMsgCommander}This value used to be 100 all the time, but recently it has been rapidly decreasing. ",
+    "38": "#{lblMsgCommander}Originally, I planned to train you for a while longer, \n\\! but if we continue to let the security situation deteriorate like this, the situation in the neighborhood will become unimaginable. So now we have no choice but to send you out as soon as possible. ",
+    "39": "#{lblMsgCommander}Your first mission as official members of the Public Order Princess is to investigate the cause of the decline in social security and maintain order in this neighborhood. ",
+    "40": "#{lblMsgActor1}Yes, Commander!",
+    "41": "#{lblMsgBroadcast}Confirmation of new Public Order Princess appointment. Rule 3 will be applied, and the uniform will be replaced with a specialized Public Order Princess uniform. ",
+    "42": "#{lblMsgCommander}\\{!!!",
+    "43": "#{lblMsgActor3} Did the world rules specially prepare work uniforms for us?",
+    "44": "#{lblMsgActor2} Well, I thought the world rules must not be a good thing, but it seems there are advantages after all...",
+    "45": "#{lblMsgActor2} Huh?",
+    "46": "#{lblMsgActor1}\\{\\{What shameless clothes are these...\\w[60]\\^",
+    "47": "#{lblMsgBroadcast} Uniform replacement completed, applying common sense change effect.",
+    "48": "#{lblMsgActor1}\\{Oh ❤...wait...something feels off...\n\\w[30]\\{Ahhhh~~~❤❤❤",
+    "49": "#{lblMsgActor2}\\{There's a strange feeling in my head...",
+    "50": "#{lblMsgActor3}\\{It's like there's a voice talking in my head...\n\\w[30]Uniform...\\w[30]is common sense...\\w[30]Hmm~~~❤",
+    "51": "#{lblMsgCommander}\\{Luo Xia!\\w[30]Are you all okay!!!",
+    "52": "#{lblMsgCommander}I'm sorry, because you are the first batch of officially appointed Public Order Princesses, we didn't know that rules were also set in such places before...",
+    "53": "#{lblMsgActor1}Don't worry, Commander. Everything is fine. There was a moment of dizziness just now, but there doesn't seem to be any problem at the moment.\\nJust that our clothes suddenly changed into another set.",
+    "54": "#{lblMsgCommander}The clothes...suddenly changed?\n\\!Sorry,\\fb the video transmission function of this communication device is one-way, I can only hear your voices\\fb.",
+    "55": "#{lblMsgCommander}If the clothes make you feel uncomfortable, it's better to change them.",
+    "56": "#{lblMsgActor1}It's okay, it's just that the new clothes make me a little shy, but as a Public Order Princess, I shouldn't think like that after all...",
+    "57": "#{lblRules.3.iconBrief}\n#{lblRules.3.basic}",
+    "58": "#{lblMsgCommander}Is that so? If there's no problem, then I can rest assured.",
+    "59": "#{lblMsgCommander}Currently, there is very little known information about the world rules, and a careless move could trigger severe consequences of the rules.",
+    "60": "#{lblMsgCommander}During the training period, we required you to refrain from going out and conduct confinement-style training within the Public Security Bureau to reduce the possibility of triggering the rules.",
+    "61": "#{lblMsgCommander}Although I myself know the rules because I couldn't go out to gather information, the residents in the neighborhood should have experienced some rules to a greater or lesser extent.",
+    "62": "#{lblMsgCommander}While you are on missions, you can inquire with the residents for information in this regard. Remember to be cautious and avoid triggering rules that are unfavorable to yourselves.",
+    "63": "#{lblMsgActor1} Understood, Commander!",
+    "64": "#{lblMsgActor1} Are all the equipment ready?",
+    "65": "#{lblMsgActor3} Everything is ready.",
+    "66": "#{lblMsgActor2} Me too.",
+    "67": "#{lblMsgActor1} Then let's go.",
+    "68": "#{lblMsgActor1} Come to think of it, since we joined the Public Security Bureau, we've been training inside the bureau building and haven't really seen what the streets are like.",
+    "69": "#{lblMsgActor1} (Hmm? Wait a minute... \\w[30]I've never been outside the bureau... Is that possible?)",
+    "70": "#{lblMsgActor1} (If I've never been outside, where do we get all the necessary supplies? \\w[30]From inside the bureau? \n\\!And how do we eat normally? Is there a cafeteria inside the bureau?)",
+    "71": "\\}Luoxia...\\w[60]\\{\nLuoxia...\\w[60]\\{\nLuoxia...",
+    "72": "#{lblMsgActor2}\\{\\{Luoxia!!",
+    "73": "#{lblMsgActor1}\\{Huh!?\\w[30]What's wrong?",
+    "74": "#{lblMsgActor2} You actually have feelings for Xiaowu, don't you?",
+    "75": "#{lblMsgActor1}\\{\\{Huh!!\\w[30]Why are we suddenly talking about this?",
+    "76": "#{lblMsgActor2} When Xiaowu asked us to meet him earlier, we could have gone right away, but you spent 15 minutes getting ready ",
+    "77": "#{lblMsgActor1} That was out of respect for the Commander. I just thought I should dress appropriately!\nI...\\w[30]I don't have any special feelings for the Commander!!",
+    "78": "#{lblMsgActor2} (Such a transparent excuse...)",
+    "79": "#{lblMsgActor3} I must admit that Commander Zhengwu has a lot of personal charm and would be a great fit to marry into my family as a husband.",
+    "80": "#{lblMsgActor1}\\{\\{Into your fanmily!!?",
+    "81": "#{lblMsgActor2} Can't you read the atmosphere, you idiot!\n\\! Besides, if anyone is going to marry Xiaowu, it should be me!",
+    "82": "#{lblMsgActor2} Ah...\\w[30]Oh no...",
+    "83": "#{lblMsgActor1}\\{\\Xinghuo~~~~~~! Do you also have feelings for the captain~~~~!!",
+    "84": "#{lblMsgActor3}Stop kidding around, okay? How could the captain be interested in a super strong gorilla woman who can easily swing steel bars?",
+    "85": "#{lblMsgActor2}So Xiao Wu would like a woman with two beehives on her head!?",
+    "86": "#{lblMsgActor3}Huh? Do you have any opinions about my hairstyle?",
+    "87": "#{lblMsgActor1}You two can argue anytime...\n\\! But don't forget that our top priority now is to solve the public order problem in the neighborhood.",
+    "88": "#{lblMsgActor3}Of course.",
+    "89": "#{lblMsgActor1}In addition, I think we should take the initiative to investigate the cause of the world rules and how to lift their effects.",
+    "90": "#{lblMsgActor2}Huh? Can the rules be lifted?",
+    "91": "#{lblMsgActor1}I'm not sure, but it's not impossible.\n\\! If there really is a way to lift the rules, it means we can lift the rule that restricts the captain's freedom.",
+    "92": "#{lblMsgActor2}That would be great if it's true.",
+    "93": "#{lblMsgActor3}Indeed, then we won't have to talk to the captain across a wall anymore.",
+    "94": "#{lblMsgActor3}But after having physical contact with the captain, the situation might become more tense in a certain sense.",
+    "95": "#{lblMsgActor1}N...now let's not talk about unrelated things! Work comes first... Let's start investigating the mission quickly!",
+    "96": "#{lblMsgActor2}Yeah yeah!",
+    "97": "#{lblMsgActor3}Yes yes "
+  },
+  "sceneEncounter": {
+    "1": "#{lblMsgActor2}We said we're going to investigate, but where should we start?",
+    "2": "#{lblMsgCitizenA}Are you girls from out of town? I've never seen you before.",
+    "3": "#{lblMsgActor1}Hello, we are the newly appointed Public Order Princesses of this neighborhood, responsible for maintaining public order within the neighborhood from today onwards.",
+    "4": "#{lblMsgCitizenA}\\{What?! You guys are actually Public Order Princesses?\\w[60]\n(Looks up and down\\w[30]...\\w[30]...\\w[30]...)",
+    "5": "#{lblMsgCitizenA}\\{Stop kidding around!\n How could someone responsible for maintaining public order in the neighborhood dress so shamelessly!",
+    "6": "#{lblMsgActor1}\\{\\{Woo~~~!!!",
+    "7": "#{lblMsgCitizenA}\\{Upon closer inspection, this outfit is too erotic, with so little fabric that it barely covers the nipples...\nDon't you feel embarrassed wearing something like this?!\\>",
+    "8": "#{lblMsgActor1}I...\\w[30]We do feel ashamed too!!!\nBut this is how the Public Order Princess uniform looks like, so there's nothing we can do...",
+    "9": "#{lblMsgCitizenA}No no no...\\w[30]How could the Public Order Princess's costume be...\\w[60]\\^",
+    "10": "#{lblMsgCitizenB}Well...\\w[60]I guess it's the doing of the \"World Rules\", \nthey probably forcibly replaced the clothes we wear or something like that.",
+    "11": "#{lblMsgCitizenA}Hmm~~~~~~\\w[30]That actually makes sense.",
+    "12": "#{lblMsgActor1}Do you know about the World Rules?",
+    "13": "#{lblMsgCitizenB}Yes, a few years ago, Commander #{lblCommander} was suddenly put under house arrest.\nThat's when we learned about this thing, and it caused quite a stir in the neighborhood at that time.",
+    "14": "#{lblMsgCitizenB}But since then, we haven't discovered any other rules that affect our lives, so everyone gradually stopped paying attention to this matter.",
+    "15": "#{lblMsgCitizenB}However, in recent years, the \"Oversea Gang\" has been taking advantage of the World Rules to cause trouble in the neighborhood. We realized that there were many rules that existed long ago, but they didn't have the conditions to trigger them in the past.",
+    "16": "#{lblMsgActor1}What is this \"Oversea Gang\" you mentioned?",
+    "17": "#{lblMsgCitizenB}The \"Oversea Gang\" is a criminal organization that has grown in this neighborhood in recent years.\nOn the surface, they operate the nightclub on the east side of the neighborhood, but behind the scenes, they extort and commit all sorts of crimes against the residents here.",
+    "18": "#{lblMsgCitizenB}Commander #{lblCommander} is once again confined in the Public Security Bureau, and now no one can stop those villains.",
+    "19": "#{lblMsgActor2}It seems that this \"Oversea Gang\" is the main culprit behind the decline in social order.\nDon't worry, we will take responsibility for dealing with this gang organization.",
+    "20": "#{lblMsgCitizenB}By the way, although dealing with the \"Oversea Gang\" is important, what we should do now is to inform everyone in the neighborhood about the incident with the Public Order Princess.",
+    "21": "#{lblMsgCitizenB}The residents in the neighborhood have endured the oppression of the \"Oversea Gang\" for too long. If they know that the Public Security Bureau has deployed forces, it will definitely boost their morale!",
+    "22": "#{lblMsgCitizenC}Makes sense, let's shoot a video and upload it to StreetTube.\nEveryone watches this video-sharing website, so once we upload a video, everyone will know about it quickly.",
+    "23": "#{lblMsgCitizenC}Girls, introduce yourselves. We'll take care of filming.",
+    "24": "#{lblMsgActor1}We still have a lot of things to do, so I'll give a brief introduction of everyone. I'm #{lblActor1}, the captain of this Public Order Patrol team.",
+    "25": "#{lblMsgActor1}These two are #{lblActor2} and #{lblActor3}, belonging to the same squad.",
+    "26": "#{lblMsgCitizenA}So, you're Luo Xia, right? \\w[60]Your figure is tall and slender... and your breasts are very full ❤",
+    "27": "#{lblMsgActor1}\\{Huh!?",
+    "28": "#{lblMsgCitizenB}So, you're called Xing Huo, huh?\\w[60] I thought you were really cute just now, and your butt is also big ❤",
+    "29": "#{lblMsgActor2}\\{Uh! \\w[30]Wait...",
+    "30": "#{lblMsgCitizenC}Piao Xu behaves very elegantly,\\w[60] and the excess flesh on your thighs is quite tempting ❤",
+    "31": "#{lblMsgActor3}\\{Hey!!! Where are you guys taking those perverted shots?! Can you please take some decent angles?",
+    "32": "#{lblMsgCitizenC}But... you're all dressed like this,\\w[30] and no matter from which angle, it's impossible to take a decent shot...",
+    "33": "#{lblMsgActor2}\\{Stop making excuses! Whether you believe it or not, we'll deal with you before dealing with the Oversea Gang!",
+    "34": "#{lblMsgCitizenC}\\{\\{Yikes~~~~!!\\w[30]I'm sorry, I'm sorry! We know we were wrong!",
+    "35": "#{lblMsgCitizenC}Actually, the reason why we ended up like this is because of the World Rules...",
+    "36": "#{lblMsgActor3}Don't blame everything on the World Rules. This is clearly something you did voluntarily.",
+    "37": "#{lblMsgBroadcast} #{lblRules.23.iconBrief}\n#{lblRules.23.basic}",
+    "38": "#{lblMsgActor2}Ah\\w[30], it's a broadcast about the World Rules...\\w[30]I've heard it in the Public Security Bureau too.",
+    "39": "#{lblMsgCitizenC}Whenever a conversation context involves a certain rule, the World Rules system will provide detailed information like this.",
+    "40": "#{lblMsgCitizenC}Recently, as the 'Social Discipline' value keeps decreasing, I find myself having more and more perverted thoughts.\n\\! Although I'm trying hard to suppress them, I can't control myself at all.",
+    "41": "#{lblMsgActor1}Can the World Rules actually modify a person's personality...\\w[30] It seems that this thing's power is much more terrifying than I imagined.",
+    "42": "#{lblMsgActor3}But the rules say that the Social Discipline decreases only when there are indecent behaviors, right? What indecent behaviors did you see?",
+    "43": "#{lblMsgCitizenC}Ah!\\w[60]We've been going to the nightclubs of the Oversea Gang recently, where beautiful girls perform erotic dances every night ❤",
+    "44": "#{lblMsgActor2}\\{\\{But in the end, it's all your own fault!!!",
+    "45": "#{lblMsgActor3}Anyway, hand over your phone and let us see. You can only post it after deleting the overly explicit parts.",
+    "46": "#{lblMsgCitizenA} Um...\\w[60]\nActually, we're running a live broadcast...",
+    "47": "#{lblMsgActor3}\\{\\{Hey!",
+    "48": "#{lblMsgCitizenA} Oh...\\w[30]The comment section immediately started a heated discussion!",
+    "49": "#{lblMsgBroadcast}All residents are aware of the existence of the Public Order Princess, and social order +{0}.",
+    "50": "#{lblMsgActor2} Can social order really improve just like that?",
+    "51": "Look, they're over there!",
+    "52": "#{lblMsgActor2} There are so many people gathering...",
+    "53": "#{lblMsgCitizenD} Are you the newly appointed Public Order Princess?",
+    "54": "#{lblMsgActor1} Hello. Yes, that's right. Starting today, we will be responsible for maintaining order here.",
+    "55": "#{lblMsgCitizenE}\\{Wow~~~~\\w[30]Just like in the videos, you're dressed so provocatively!",
+    "56": "#{lblMsgActor1}\\{Uh uh uh~~~~~~",
+    "57": "\\n<?????>\\{\\{Hey! What are you bunch of scum doing here!",
+    "58": "#{lblMsgCitizenA} Ah, it's the riffraff from the Oversea Gang.",
+    "59": "#{lblMsgRayA}\\{What riffraff!\n\\w[30]We are official fighters of the Oversea Gang, codenamed 'Stingray'!",
+    "60": "#{lblMsgRayA} I'm here to collect this month's protection fee.\n\\!By the way, you dared to call me riffraff just now, so the protection fee will be doubled from today onwards!",
+    "61": "#{lblMsgRayA} Hand over the money right away, or everyone who can't pay will get a beating!",
+    "62": "#{lblMsgActor1} So this is how the Oversea Gang operates in the neighborhood. It seems that some measures need to be taken.",
+    "63": "#{lblMsgRayA} Who are you people?",
+    "64": "#{lblMsgRayB} Boss, they seem to be the newly appointed Public Order Princess. I just saw a related video on StreetTube.",
+    "65": "#{lblMsgRayA} That's unlikely...\\w[30]\nHow could the people in charge of maintaining order and discipline in the neighborhood dress like sluts in public?",
+    "66": "#{lblMsgRayA}\\{Dressed like this, it's not about maintaining public order anymore. Seeing this outfit will only stimulate people's criminal desires!",
+    "67": "#{lblMsgActor1}\\{Waa~~~",
+    "68": "#{lblMsgRayA}But sorry, even if you really are Public Order Princesses, to be honest, I don't feel any threat.\n\\!Do you really think a few slender girls with thin waists and arms can beat us?",
+    "69": "#{lblMsgActor3}Hmph\\w[30], if you don't mind, you can give it a try",
+    "70": "#{lblMsgRayA}Hehe, it seems like you really want to fight, that's not a problem.\nThere are so many onlookers around, it's a perfect opportunity to use you as an example.",
+    "71": "#{lblMsgRayA}\\{I officially request a duel with the Public Order Princess Squad!",
+    "72": "#{lblMsgBroadcast}Duel request accepted, duel begins.",
+    "73": "#{lblMsgActor3}Duel? What's that?",
+    "74": "#{lblMsgBroadcast} #{lblRules.12.iconBrief}\n#{lblRules.12.basic}",
+    "75": "#{lblMsgActor2}Quite interesting, huh? I can't believe there are such strange rules.",
+    "76": "#{lblMsgRayA}Hey, you guys are really leisurely, do you know what's going to happen next?",
+    "77": "#{lblMsgRayA}Soon, we'll knock you down first, and then rape you in front of everyone present.",
+    "78": "#{lblMsgRayA}By the way, these people watching the show next to us are live streaming with their phones, \n\\!I'll make sure to broadcast the scene of you being humiliated on the internet~❤",
+    "79": "#{lblMsgCitizenC}\\{Oh~~~~~~\n\\w[30]That sounds super exciting~",
+    "80": "#{lblMsgCitizenA}\\{What are you talking about!\\w[30]At a time like this, we definitely hope that the Public Order Princesses can win, right?",
+    "81": "#{lblMsgCitizenA}But I do want to see what it looks like when they lose...",
+    "82": "#{lblMsgActor1}Hey, you guys should stand firm in your position.",
+    "83": "#{lblMsgActor1}If you have the ability, then come and try. Everyone, enter battle mode!",
+    "84": "#{lblMsgRayA}Huh????",
+    "85": "#{lblMsgRayA}\\{\\{Wait a minute!!!\nWhere did you guys pull out so many weapons from?! Just now, you clearly didn't have anything on you!!!",
+    "86": "#{lblMsgActor1} Don't worry about these details.",
+    "87": "#{lblMsgRayA}\\{How can I not worry! That weapon looks like it can kill people!!?\n We low-level scrubs don't have any weapons, how can we possibly win!?",
+    "88": "#{lblMsgRayA} Right, you guys go up and hold them off!",
+    "89": "#{lblMsgRayB} Eh~~~~!?\\w[60] Big brother, are you trying to take the opportunity to escape?",
+    "90": "#{lblMsgRayA} You idiot! Escaping is not allowed in a registered duel. If I really didn't want to fight, I would have already applied for surrender from the system.",
+    "91": "#{lblMsgRayA} There's still a chance of winning now. You guys go up and buy some time, I'll quickly figure out a way to defeat them.\n\\! I'm counting on you guys here.",
+    "92": "#{lblMsgActor1} Should we start with you guys?\n\\! Well, anyway, none of the Oversea Gang members here will be spared.",
+    "93": "#{lblMsgRayB} It's over...\\w[60] I'm going to be killed...",
+    "94": "#{lblMsgRayC} Hehehe",
+    "95": "#{lblMsgRayB}\\{Oh?!\\w[30] Fighter C, why do you look so confident? Do you have a winning strategy?",
+    "96": "#{lblMsgRayC} It seems you still don't understand. We will easily win this battle.\n After the fight starts, they will definitely stay idle for some unknown reason and let us beat them obediently.",
+    "97": "#{lblMsgRayC} Oh, by the way, \\fb in this game, besides not attacking actively, it's also a good strategy to consume energy by using skills excessively, causing a lack of energy to block attacks \\fb",
+    "98": "#{lblMsgActor1} Sorry\\w[30], I don't understand what you're talking about.",
+    "99": "#{lblMsgRayC}\\{\\{So this is a plot kill!————!!!",
+    "100": "#{lblMsgRayC}\\{How despicable!\\w[30] Don't you, as the protagonist, feel ashamed!!?",
+    "101": "#{lblMsgActor1} Like I said, I haven't been clear about what you're talking about since earlier...",
+    "102": "#{lblMsgActor2} So there's only one enemy left...",
+    "103": "#{lblMsgRayD} Big brother, we're here to help!",
+    "104": "#{lblMsgRayA} Finally, \n\\you guys go up quickly, I'll continue calling for the next wave of reinforcements.",
+    "105": "#{lblMsgActor1}\\{Hey, isn't this cheating!!",
+    "106": "#{lblMsgRayA}Are you stupid? If the world rules system really doesn't allow this kind of behavior, it would be forcibly stopped. \n However, there is no movement at all now, which means that the rule system approves of this operation.",
+    "107": "#{lblMsgRayA}Blame yourselves for being so few in number. \n As long as we exhaust your stamina through attrition warfare, defeating you is just a matter of time.",
+    "108": "#{lblMsgActor1}Understood. It seems that we need to defeat the leader before reinforcements arrive. \n\\!Xinghuo, \\w[30]Piaoxu, \\w[30]let's coordinate our attacks.",
+    "109": "#{lblMsgActor2}Alright!",
+    "110": "#{lblMsgActor3}Got it!",
+    "111": "#{lblMsgRayA}\\{\\{They're all wiped out again!!?\\>\n\\!Wait! The reinforcements haven't arrived yet...\\w[60]\\^",
+    "112": "#{lblMsgRayA}\\{\\{Ah~~~~~~~~~~~~!!!",
+    "113": "#{lblMsgBroadcast}Duel over, Public Order Princess team wins.",
+    "114": "#{lblMsgActor2}Hehe, an easy victory ",
+    "115": "#{lblMsgBroadcast}Preventing the evil deeds of the Oversea Gang, #{lblItems.security.iconLabel}+{0}; \n\\!Preventing the vile intentions of the Oversea Gang, #{lblItems.discipline.iconLabel}+{0}; \n\\!Witnessed by a large number of residents, all points *2.",
+    "116": "#{lblMsgActor1}I checked and all the values did increase as mentioned in the broadcast. \n\\!The social order score is now 100.",
+    "117": "#{lblMsgActor2}Then our main mission is considered complete ",
+    "118": "#{lblMsgRayA}Um...\\w[30]Um...",
+    "119": "#{lblMsgActor3}Oh, so you still have the strength to stand up.",
+    "120": "#{lblMsgActor3}Wait, I remember you were cut just now, \n\\!Why can't I see any wounds on you now?",
+    "121": "#{lblMsgBroadcast} #{lblRules.1.iconBrief}\n#{lblRules.1.basic}",
+    "122": "#{lblMsgActor2}I see, \n\\!So what do you want to do now? Fight us again?",
+    "123": "#{lblMsgRayA}No no no...\\w[30]We have deeply reflected on our mistakes, \n\\!From now on, we will leave the Oversea Gang and return to being ordinary residents.",
+    "124": "#{lblMsgActor2}Hey, your acting skills are really terrible. Do you really think we'll believe you?",
+    "125": "#{lblMsgRayA}\\{I swear it's true!\n\\!\\}When I saw members of the Oversea Gang doing evil things on the street, I couldn't help but start thinking about doing bad things like them...",
+    "126": "#{lblMsgBroadcast} #{lblRules.22.iconBrief}\n#{lblRules.22.basic}",
+    "127": "#{lblMsgActor2}Eh~~~? \\w[30]Well, there's really nothing we can do if our minds are forcibly controlled. \n\\! This rule is really annoying.",
+    "128": "#{lblMsgRayA}By the way, please accept this money.",
+    "129": "#{lblMsgActor1}What are you doing? We're not thieves.",
+    "130": "#{lblMsgBroadcast} #{lblRules.17.iconBrief}\n#{lblRules.17.basic}",
+    "132": "#{lblMsgRayA}\\{Please, you must accept it! A 50% interest rate is no joke, and I can't even imagine what terrible punishment we'll face if we violate the world rules...",
+    "133": "#{lblMsgRayC}Just think of this money as the gold coins we get after defeating monsters in the game!",
+    "134": "#{lblMsgActor1}You're talking about something inexplicable again... \n\\! Well, we'll accept this money. Just remember not to do evil again, okay?",
+    "135": "#{lblMsgRayA}Understood, we promise!",
+    "136": "#{lblMsgActor2}What should we do next? \n\\! Should we go and destroy the headquarters of the Oversea Gang?",
+    "137": "#{lblMsgActor1}It's not advisable to attack the enemy's stronghold rashly. \n\\! The primary goal of restoring social order has been achieved for now. We can start investigating how to lift the rules while patrolling the streets.",
+    "138": "#{lblMsgCitizenC}Regarding the lifting of the rules, you can investigate at the small shop east of the Oversea Gang's nightclub.",
+    "139": "#{lblMsgCitizenC}That shop opened shortly after the discovery of the world rules. The owner claims to specialize in providing \"rule configuration\" services. \n\\! That person seems a bit eccentric, so us ordinary residents usually don't bother with him.",
+    "140": "#{lblMsgCitizenC}But one time when I passed by that shop, I overheard the members of the Oversea Gang discussing something in front of his shop. \nIf I didn't mishear, they mentioned something about \"activating new rules.\"",
+    "141": "#{lblMsgCitizenC}Since they can activate new rules, maybe they can also lift existing rules. You might want to investigate at that shop.",
+    "142": "#{lblMsgActor1}Thank you very much for providing this information. We will investigate it.",
+    "143": "#{lblMsgCitizenC}You're welcome. After all, the security of the neighborhood will rely on you in the future. \nIf there's anything we can do to help, we'll be happy to assist."
+  },
+  "sceneMission": {
+    "1": "#{lblMsgAgent}Guardians of the neighborhood's security, I have been waiting for you for a long time. \nI suppose you've come to inquire about the world rules?",
+    "2": "#{lblMsgActor1}You speak as if you knew we would come to find you.",
+    "3": "#{lblMsgAgent}Indeed, \\fb that person\\fb has already instructed me to wait for your arrival here.",
+    "4": "#{lblMsgActor2} Let's save these vague topics for later. \n Let's get straight to the point. Are you the mastermind behind the operation of this 'World Rules' system?",
+    "5": "#{lblMsgAgent} No, I don't have the ability to create and activate such a powerful system. \n The one who created and activated the World Rules system is someone else. I am just here in this district to handle requests related to the World Rules on their behalf.",
+    "6": "#{lblMsgActor3} Earlier, you mentioned that you handle requests related to the World Rules. What specific services do you provide?",
+    "7": "#{lblMsgAgent} The services I provide vary depending on the target. \n For you, Public Order Princesses, I can offer the 'Reset Rules' service, which, when used, will forcibly close all non-inherent rules.",
+    "8": "#{lblMsgActor1} Close the rules?! Does that mean all active rules can be closed?",
+    "9": "#{lblMsgAgent} No, only newly activated World Rules can be closed.",
+    "10": "#{lblMsgAgent} The currently active rules are classified as 'inherent' rules, which are permanently effective and cannot be closed.",
+    "11": "#{lblMsgAgent} If you really want to close these inherent rules, you must directly entrust that person.",
+    "12": "#{lblMsgActor3} Speaking of which, you've been mentioning 'that person' since the beginning of our conversation... \n Can you reveal who this person is?",
+    "13": "#{lblMsgAgent} Although I cannot directly disclose information about that person, he has entrusted me to convey the following message to all of you:",
+    "14": "#{lblMsgAgent}\\fb As long as you can defeat the leader of the local criminal organization 'Oversea Gang', he promises to meet with each of you personally.\\fb",
+    "15": "#{lblMsgAgent} If you truly wish to close the currently running inherent World Rules, then you should not miss this opportunity.",
+    "16": "#{lblMsgActor2} What do you all think about this?",
+    "17": "#{lblMsgActor3} Currently, if we want to further test the other party, there seems to be no other way but to accept this request... \n But I'm really annoyed by being manipulated by this puppeteer behind the scenes.",
+    "18": "#{lblMsgActor1} Actually, we can think of it in a different way. For the sake of the district's public order, dealing with the Oversea Gang is something we will eventually have to do. \n Even if they break their promise later, it won't be a loss for us.",
+    "19": "#{lblMsgActor3} That's true when you put it that way.",
+    "20": "#{lblMsgActor2} Then it's decided. The next step is to defeat the leader of the Oversea Gang.",
+    "21": "#{lblMsgActor1} We have decided to accept this request.",
+    "22": "#{lblMsgAgent} Alright, I look forward to your successful completion of the request.",
+    "23": "#{lblMsgRayA} The shop has been tidied up inside.",
+    "24": "#{lblMsgRayA} In addition, the boss just learned about the deployment of the Public Order Princess and urgently notified all fighters to go back and set up defense works. \n The operation of the nightclub will be handed over to you non-combat members.",
+    "25": "\\n<\\C[31]#{lblWaiter}> Understood, leave it to us."
+  },
+  "sceneResetRule": {
+    "1": "#{lblMsgActor1} Agent, can we apply for a reset of the rules with you?",
+    "2": "#{lblMsgRayA}\\{Hey! We're still discussing important matters, you bitch, don't interrupt!",
+    "3": "#{lblMsgActor1}\\{Oh ❤!? Hmm~❤... Hmm❤❤❤",
+    "4": "#{lblMsgAgent} No problem, as long as you apply for a rule reset, all newly added rules will be disabled, and the negative effects caused by these rules will also be removed.",
+    "5": "#{lblMsgAgent} However, doing so requires paying a certain \"price\", which is that each removed negative effect will be converted into a certain amount of \\I[2]evil deeds points.",
+    "6": "#{lblMsgActor1}\\>\\{Understood, let's do it! \n\\w[30]I will definitely rescue Zhengwu no matter what!",
+    "7": "#{lblMsgAgent} Alright, let's start resetting the rules.",
+    "8": "#{lblMsgRayA}(This guy, is it the longing for the director of the Public Security Bureau that keeps him resisting?) \n\\w[30]Huh???? What happened to my body...\\w[60]\\^",
+    "9": "#{lblMsgActor1} That strange feeling on my body finally disappeared.",
+    "10": "#{lblMsgActor3} It felt like my brain didn't belong to me at all before, I don't want to experience that feeling again...",
+    "11": "#{lblMsgActor2}\\{By the way, where did those damn uncles go?! \nThey dared to do so many excessive things to us before, we must make them suffer!!",
+    "12": "#{lblMsgActor1} It seemed like they suddenly started glowing on their bodies just now, and then they disappeared?",
+    "13": "#{lblMsgAgent} I don't recommend doing that, because the essence of resetting the rules is to erase everything that happened since the rules were activated, including the results caused by these events, from the timeline.",
+    "14": "#{lblMsgAgent} For the people on this timeline, everything that happened before didn't happen at all. \nThe three malefactors who enslaved you just now should still be somewhere in the district, experiencing a timeline that has never intersected with yours.",
+    "15": "#{lblMsgAgent} Although I will preserve this memory for you as the applicants, it is still better to treat all the previous encounters as if they never happened.",
+    "16": "#{lblMsgActor2} Eh~~~~~~~~~~~~?\\w[30]Are you saying we should just let them go like this?",
+    "17": "#{lblMsgActor1} But even if we go beat them up now, they would feel confused, after all, from their current perspective, they haven't done anything to us.",
+    "18": "#{lblMsgActor1} For now, let's focus on how to defeat the leader of the Oversea Gang. After all, completely lifting the world rules and restoring freedom to our superior is our main goal.",
+    "19": "#{lblMsgActor2}Hmm...\\w[30] Although I still feel a bit unwilling, it seems like there's no other choice..."
+  },
+  "sceneBuyRule": {
+    "1": "#{lblMsgAgent}Hello, are you here to handle the World Rules related business?",
+    "2": "#{lblMsgRayA}Actually, this is our first time coming to this shop. Can you tell us what we can do here?",
+    "3": "#{lblMsgAgent}Depending on the target, the services I can provide here may vary. \n For members of the Oversea Gang like you, you can use Evil Deed Points to activate new rules.",
+    "4": "#{lblMsgRayA}Evil Deed Points? \n\\w[30] Ah, now that I think about it, whenever I was doing something bad, the World Rules broadcast would announce something like 'Evil Deed Points increased'. So it's used here, huh?",
+    "5": "#{lblMsgAgent}Yes, all the Evil Deed Points accumulated by members of the Oversea Gang will be pooled into one account, and any member of the gang can use these points to activate World Rules here.",
+    "6": "#{lblMsgRayA}Oh~~~~~~\\w[30] That's great! Let me see what new rules I can activate!",
+    "7": "#{lblMsgAgent}No problem. Please check the available rule options on this panel. The Evil Deed Points will be deducted automatically."
+  },
+  "sceneFinalStage": {
+    "1": "#{lblMsgActor2}\\{Wow... Agent?! \\w[60]\n You scared me, why did you suddenly appear?",
+    "2": "#{lblMsgAgent}I have confirmed that you have defeated the leader of the Oversea Gang. I am here to fulfill the promise I made earlier and lead you to meet that person.",
+    "3": "#{lblMsgAgent}Next, I will use teleportation to directly transport you to the location of that person.",
+    "4": "#{lblMsgActor1}Understood, then we'll trouble you with that.",
+    "5": "#{lblMsgActor2}Such a peculiar space.",
+    "6": "#{lblMsgGod}Yo, \\w[30]hello there.",
+    "7": "#{lblMsgActor2}\\{Xiao Wu??!",
+    "8": "#{lblMsgActor1}Wait, this isn't our superior! \n\\w[30] Although they look the same, the aura they exude is completely different...",
+    "9": "#{lblMsgGod}You're right. You can call me the 'Administrator'. I don't have a physical form myself, so just think of me borrowing the appearance of someone in this world for the convenience of communication.",
+    "10": "#{lblMsgGod}Ah, there's no need for you all to be so nervous. \n\\w[30] There's no boss battle here, and as long as you can meet me, it's considered completing the game.",
+    "11": "#{lblMsgGod}Hmm~~~\\w[30] I can tell that you all have many questions on your faces. \n\\w[30] If you have anything you want to ask, just say it and I'll answer them one by one.",
+    "12": "#{lblMsgActor1}We just learned from Tiger Whale that the world we are currently in may not be a real world. Is that true?",
+    "13": "#{lblMsgGod}That's right. This is a virtual world created by me. Everything in this world, including your physical forms, is not real.",
+    "14": "#{lblMsgActor2}So we are actually in a virtual world?!\\w[60] Can we go back to reality now?",
+    "15": "#{lblMsgGod}That might be difficult because the real world is on the brink of destruction. Until the restoration project in the real world is completed, you need to stay in this world.",
+    "16": "#{lblMsgActor2}Huh?\\w[60]\nWhat do you mean by 'on the brink of destruction'? What happened in the real world?",
+    "17": "#{lblMsgGod}Ah... There's no need to worry. Your bodies are safely stored in hibernation pods, so your safety is guaranteed.",
+    "18": "#{lblMsgGod}But as for the information related to the destruction of the world, I personally think it's not suitable to reveal it to everyone at the moment. When the restoration project is completed and you are awakened from the hibernation pods, you will naturally be informed of the truth.",
+    "19": "#{lblMsgActor3}Alright, let's not delve further into this. Although there are still many mysteries, at least we can be sure that you have no ill intentions towards us.",
+    "20": "#{lblMsgActor3}But I have some other questions. Why are there so many 'World Rules' set in this virtual world?\n Also, Tiger Whale mentioned that we are currently experiencing events that have happened in the past. Why is that?",
+    "21": "#{lblMsgGod}I can start by answering the second question. After your memories of the world before its destruction were erased, I needed to seamlessly connect your memories from the past to this virtual world.\n The memory connection point couldn't be the last memory you had in the real world, as it was about the destruction of the world, and that memory has been temporarily erased. Therefore, the connection point was chosen to be an earlier time point before the world's destruction.",
+    "22": "#{lblMsgGod}This virtual world is also a continuation based on the selected time point. However, based on each person's personality and life experiences, there is a high probability that they will make similar choices and actions as they did in the past for a period of time. So, in a sense, they are indeed reliving what they have done in the past.",
+    "23": "#{lblMsgGod}But this memory connection is not perfect. It leaves behind some memories from the time point of connection. If someone suddenly recalls these memories, they may believe that they have relived the past events.",
+    "24": "#{lblMsgGod}The leader of the Oversea Gang, Tiger Whale, is currently in such a state. The problem is that if we allow someone to constantly explore the contradictions in their memories, their mind will be completely confused by the two sets of memories, leading to mental abnormalities and even madness in the most severe cases.",
+    "25": "#{lblMsgActor3}I see, that's why we were entrusted to deal with the leader of the Oversea Gang.\n As long as we strike the Oversea Gang, several social security-related values will increase, triggering corresponding World Rules to improve the personalities of all people in society and reduce their resistance to anomalies.",
+    "26": "#{lblMsgGod}You're right. This virtual world was developed hastily before the world's destruction, so it's still very imperfect. After living here for a while, normal people will start to notice unnatural things to varying degrees. If left unattended, everyone will soon experience mental breakdowns.",
+    "27": "#{lblMsgGod}To prevent such things from happening, I created the 'World Rules' as a mandatory correction mechanism. I'm telling you all this today because I hope that as Public Order Princesses, you will continue to regulate this virtual world through the 'World Rules' for a long time to come.",
+    "28": "#{lblMsgActor1}Understood. We promise to fulfill your request, but I also have some conditions.",
+    "29": "#{lblMsgActor1}First, completely remove the rule that imprisons General Zhengwu. Second, we also want to inform General Zhengwu about the information we obtained from you. It wouldn't be a bad thing to have one more person assisting in managing society, right?",
+    "30": "#{lblMsgGod}Hmm, that's absolutely fine.",
+    "31": "#{lblMsgActor1}Third, please delete all those miscellaneous erotic-related rules. What's the point of those rules anyway?!",
+    "32": "#{lblMsgGod}Ah~\n\\w[30]The reason those rules were set is because I needed to create some trials before meeting you, but I didn't want you to go through any excessively painful experiences.\n But no problem, I will delete all those rules.",
+    "33": "#{lblMsgGod} Well, let's end the conversation here. I will now teleport you back to the district. All rule changes will take effect the moment you return.",
+    "34": "#{lblMsgActor1} Wait! I have something else to ask!",
+    "35": "#{lblMsgActor1} Although I can be sure that you are not the same person as Zhengwu, but you...\\w[60] Are you really just randomly choosing the appearance of Zhengwu?",
+    "36": "#{lblMsgGod} If it's you guys this time, then I can rest assured. Make sure to get along well with the past 'me'.",
+    "37": "#{lblMsgActor1}\\{Wait......\\w[60]\\^",
+    "38": "#{lblMsgActor2} Ah, you're back.",
+    "39": "#{lblMsgActor2} Wait, did we forget to ask the administrator to change this embarrassing outfit?",
+    "40": "#{lblMsgActor1} Now that you mention it...\n\\w[60] Oh well, we'll change it ourselves later...",
+    "41": "#{lblMsgActor3} Luoxia, about what you said to the administrator just now, what exactly was it...",
+    "42": "#{lblMsgActor1} To be honest, I also have many uncertainties, \\w[60] but at least we can be sure that from now on, we will always stand on Zhengwu's side.",
+    "43": "#{lblMsgActor3} That's right.",
+    "44": "#{lblMsgCommander}\\{\\{Luoxia————! Xinghuo————! Piaoxu—————!",
+    "45": "#{lblMsgCommander}\\Luoxia!\\w[30] I just discovered that there is suddenly an extra door in the originally closed office, and when I tried it, I could actually come out directly. Has something happened in the district?",
+    "46": "#{lblMsgActor2}\\{Ah~ Xiaowu, you finally came out! Hahaha————",
+    "47": "#{lblMsgCommander}\\{Oh~!!\n\\w[60] Don't suddenly pounce on me like that!\\w[30] And what's the deal with these outfits!!?",
+    "48": "#{lblMsgActor3} Hey! You muscle-brained gorilla, don't take advantage of the opportunity to get so close to the captain!",
+    "49": "#{lblMsgActor1}\\{At least wait until we all change into proper clothes before we meet again!",
+    "50": "#{lblMsgActor2} Eh~~~~~~\\w[30] After all, Xiaowu worked so hard to...\\w[60]\\^"
+  },
+  "sceneDance": {
+    "1": "#{lblMsgCompere} Damn it, the girls responsible for the performance couldn't stand the audience's inappropriate behavior. They all quit today.\nNow where can I find a few hot and sexy girls to dance erotically...",
+    "2": "#{lblMsgCompere} Wait a minute, aren't there perfect candidates right in front of me?!\nIf you, Public Order Princesses, can come on stage and perform a seductive dance, it will definitely attract a lot of customers!!!",
+    "3": "#{lblMsgActor1} You...\\w[30] Do you know that one of our main responsibilities is to maintain social order?",
+    "4": "#{lblMsgCompere} Don't say that. As long as the audience can fully vent and accumulate their desires through entertainment here, the possibility of actually engaging in behavior that harms public decency will be greatly reduced. So, to some extent, it can be considered as maintaining social order.",
+    "5": "#{lblMsgCompere} And we will definitely not shortchange you in terms of compensation. If you want to perform on stage at any time, please be sure to let me know."
+  },
+  "sceneBase": {
+    "1": "#{lblMsgRayA} Keep it up. Once we move this treasure chest into the battle area, the setup will be complete.",
+    "2": "#{lblMsgRayB} Hoo...Hoo...\n\\w[30] I'm so tired... What's inside these boxes anyway...",
+    "3": "#{lblMsgRayA} Who knows, but the boss asked us to set up these things, so let's not worry about it.",
+    "4": "#{lblMsgRayA} Once you move this treasure chest to your assigned defense position, don't come out anymore. The Public Order Princesses will probably find it soon. Leave the operation of the nightclub to non-combat members.",
+    "5": "#{lblMsgRayB} Understood."
+  },
+  "sceneArena": {
+    "1": "#{lblMsgActor2}\\{Eh~~~!?\\w[30] The ground is actually soft?",
+    "2": "#{lblMsgActor3} What's up with this room? It looks really disgusting...",
+    "3": "#{lblMsgRayA} It seems like you completely don't understand the benefits of this room. Well, I guess I'll have to take the trouble to explain it to you",
+    "4": "#{lblMsgActor1} Actually, we're not really interested in listening...",
+    "5": "#{lblMsgRayA} This battle-specific area is the culmination of our Oversea Gang's efforts. The floor and walls of the room are all made of latex mattresses and leather covers.",
+    "6": "#{lblMsgRayA} And if you think that's all, you're completely mistaken. Currently, all the floor modules are in tile mode, but if I manipulate them like this...",
+    "7": "#{lblMsgRayA} has been transformed into a platform with a certain height difference! \nThis way, there's no problem in achieving various sexual positions that require a slight height difference.♫",
+    "8": "#{lblMsgActor1} Huh???",
+    "9": "#{lblMsgRayA} And if I raise it a bit more...",
+    "10": "#{lblMsgRayA} Like this, it can be used as a stool or a sofa!\\!\n And if two tiles rise at the same time...",
+    "11": "#{lblMsgRayA} It can be used as a bed!\\!\n Every tile and wall tile in this room is a movable module, so there's no problem playing any position of Play!!",
+    "12": "#{lblMsgActor2} So what can this be used for?",
+    "13": "#{lblMsgRayA}\\{The purpose is to knock you down and then use various play styles to enjoy ravishing you as I please!!!",
+    "14": "#{lblMsgRayA}The Rayfish Squad challenges the Public Order Princess Squad! \n The boss has given the order for us to stop you with all our might. Not only in this room, but there are also a large number of Oversea Gang members guarding each room behind. Don't expect to even touch the boss's finger!",
+    "15": "#{lblMsgActor1}If you have the ability, then try to stop us.",
+    "16": "#{lblMsgRayA}Then I will unleash all my strength here...\\w[60]",
+    "17": "#{lblMsgRayA}\\{You little ones, hurry up!\\w[30] I'll call for more reinforcements from behind!",
+    "18": "#{lblMsgRayB}Okay, boss!",
+    "19": "#{lblMsgActor1}Hey...\\w[30]Are all members of the Oversea Gang like this?",
+    "20": "#{lblMsgRayA}\\{Shut up! In the end, leaders shouldn't be responsible for fighting. As long as we win in the end, it doesn't matter how we do it!",
+    "21": "#{lblMsgActor1}Then the tactics are the same as before. First, clear out the small fries, and then quickly deal with the leader who summons minions. \n The Public Order Princess Squad, enter battle mode!"
+  },
+  "sceneChest": {
+    "1": "#{lblMsgActor2}What's in the box?",
+    "2": "#{lblMsgActor1}It looks like some kind of device?\\w[60] I'm not sure...",
+    "3": "#{lblMsgActor1}\\{Wait!\\w[30] Suddenly, a flash of information appeared in my mind...\\w[30] Or should I say, a past memory?! \n\\w[60] Maybe it should be installed on the weapon like this...",
+    "4": "#{lblMsgActor1}Indeed, this is the enhancement accessory for our exclusive weapons as Public Order Princesses! \n In addition to enhancing the original combat power of the weapon, it also provides additional functions that the weapon originally did not have.",
+    "5": "#{lblMsgActor2}Now that you mention it, I also remember. There was indeed such a thing...",
+    "6": "#{lblMsgActor3}Me too...\\w[30]\n But why do we have this information in our heads? I don't remember our former commander informing us about this...",
+    "7": "#{lblMsgActor2}And why do members of the Oversea Gang have these accessories? Why do they specifically put them in boxes? \n It feels so confusing...",
+    "8": "#{lblMsgActor1}I guess the leader of the Oversea Gang did this intentionally to imply certain information to us. \n This leader definitely knows some information that we don't know. Let's ask him these questions properly when we meet him."
+  },
+  "sceneDemandSex": {
+    "1": "#{lblMsgActor1}You guys, stop right there!",
+    "2": "#{lblMsgCitizenA}Huh? Are you calling us?",
+    "3": "#{lblMsgActor1}That's right, you guys are under arrest.",
+    "4": "#{lblMsgCitizenA}\\Hey hey hey hey hey~~~!!! Why?!!",
+    "5": "#{lblMsgCitizenB}Oh!?\\w[30]What are you going to do?",
+    "6": "#{lblMsgActor2}Just by looking at you, I can tell that you have stored a lot of semen, right?\n It's illegal to store semen in this neighborhood",
+    "7": "#{lblMsgActor3}That's right, storing too much semen will make people have lascivious desires, and having lascivious desires may lead to doing indecent things, which will cause a decline in social order.",
+    "8": "#{lblMsgCitizenC}No no no, this is completely spontaneous behavior of the body. It's not something I can control just by wanting to control it...",
+    "9": "#{lblMsgActor3}Don't worry, as long as you obediently hand over your semen, we won't pursue it anymore❤",
+    "10": "#{lblMsgCitizenC}What does confiscation mean?\\w[30]Are you saying...",
+    "11": "#{lblMsgActor1}Then let's go to the hotel quickly. For criminals like you who illegally store foul-smelling semen, we need to squeeze it out with our filthy little holes without leaving a drop❤"
+  },
+  "msgSleep": "How long do you plan to sleep?",
+  "msgRuleShop": "#{lblMsgAgent}\\>Which rule do you want to activate? The evil deeds required to activate any rule is 1000 points.\nCurrent evil \\I[2]deeds points held: {0}",
+  "msgConfigRuleRequest": "#{lblMsgAgent}Understood, please configure the rules on this panel.",
+  "msgConfigRuleComplete": "#{lblMsgAgent}Rule configuration completed and in effect now.",
+  "msgBaseBlock": "Sorry, we are currently cleaning up the venue. We will be open for business in a while. Please wait patiently.",
+  "msgWhatToKonw": "#{lblMsgAgent}What would you like to know?",
+  "msgRuleTrigger": [
+    "Trigger mechanism of rules",
+    "#{lblMsgAgent}Although there may be exceptions for individual rules, generally, rules with a 【Forced Effect】 will be enforced by the rule system when the trigger conditions of the rule are met.\nFor example, 【#{lblRules.14.iconBrief}】, when anyone uses violence in a world where violence is prohibited, the world system will immediately impose a restraint effect on them, making it impossible to use violence.",
+    "#{lblMsgAgent}On the other hand, most 【Common Sense Change】 rules do not activate automatically. These rules implant information deep into the mind of the Public Order Princess and require others to mention the relevant rules in conversation as a trigger.\nFor example, 【#{lblRules.25.iconBrief}】, it requires reminding the Public Order Princess before a duel, 'Do not counterattack, it is common sense to take attacks head-on', so that the Public Order Princess will remember this and default it as common sense.",
+    "#{lblMsgAgent}After a certain period of time, the Public Order Princess will automatically forget these common sense changes, so although it is necessary to trigger them again through conversation when encountering similar situations, it also avoids the Public Order Princess remembering past situations where she was at a disadvantage in the same scene and deliberately avoiding them."
+  ],
+  "msgCommonsenseRule": [
+    "Common sense change rules before duels",
+    "#{lblMsgAgent}If any common sense change rule that can be used before a duel is activated, members of the Oversea Gang will actively use this rule. However, if multiple common sense change rules before duels are activated, members of the Oversea Gang will only choose to trigger one of them.",
+    "Because #{lblMsgAgent} will only randomly select one common sense to change the rules before the duel, if you have a particular preference for a certain rule or feel indifferent towards certain rules, you can selectively disable some rules based on your preferences."
+  ],
+  "msgRuleConfig": [
+    "Suggestions for Rule Configuration",
+    "#{lblMsgAgent} If you are just starting to play this game, you might feel that having all the rules enabled would be exciting. \n However, there are actually differences in priority among the rules. When certain rules are enabled, it may become impossible to trigger other rules.",
+    "#{lblMsgAgent} Take 【#{lblRules.26.iconBrief}】 as an example. Once it is enabled, you can trigger the duel by using words to make the Public Order Princess believe that the way to duel is to have sex with the opponent. \n In the blink of an eye, the Public Order Princess, who just swore to defeat the enemy, willingly engages in debauchery with the opponent. I believe many players will enjoy this kind of play.",
+    "#{lblMsgAgent}But there will certainly be another group of players who think that it would be more exciting to knock down the Public Order Princess with violence and then punish her with rape. \n At this time, you can choose to disable the above rule, because once the Public Order Princess initiates sex with the malefactor, the regular combat will no longer be triggered.",
+    "#{lblMsgAgent}Therefore, instead of blindly enabling all the rules, it is a good choice to selectively enable or disable some rules based on your preferences and configure a rule list that suits your own fetishes. \n If you get tired of a certain type of rule play, you can also try other configurations."
+  ],
+  "msgAgentCall": "What kind of business do you need to handle?",
+  "msgResetRule": [
+    "#{lblMsgActor1}Agent, we want to apply for a rule reset.",
+    "#{lblMsgAgent}Request received, resetting the rules immediately.",
+    "#{lblMsgRayA}Hey! You bitch, don't interrupt...\\w[30]\\^",
+    "#{lblMsgAgent} Rule reset completed."
+  ],
+  "msgEnemyOrder": [
+    "High-performing cadre teams can be allocated with better combat equipment, more ordinary combatants, and rooms closer to the boss! \n",
+    "Current performance ranking of each team: \n",
+    "First place: {0}; Second place: {1}; Third place: {2}"
+  ],
+  "msgDance": "#{lblMsgCompere} Are you ready to go on stage for the performance today?",
+  "msgTrialBlock": "This part will be available in the full version. If you are interested in this game, please consider purchasing the full version.",
+  "msgDisclaimer": "\\>● This game contains adult content. If you are under 18 years old, please do not play. All characters appearing in the game are adults.\n\\>● The story in this game is purely fictional. The names, characters, events, locations, and plot in the game are all fictional. Any resemblance to real life is purely coincidental.\n\\>● The views and opinions expressed in the game are for storytelling purposes only and do not reflect the views and opinions of the KineticDog community or its members, or the platforms selling this game.\\w[30]\\^",
+  "msgExit": "\\>Do you want to temporarily leave the enemy's main base? If you leave, the enemy will rebuild their defenses, and you will have to start from scratch in the next attack.",
+  "msgBartender": "\\n<Bartender> If you lose in a duel with the malefactors of the Oversea Gang, they will confiscate all the equipment obtained from the battle area on your character.\nTo some extent, these equipments are \"snatched\" from the battle area, so it can only be considered as the people of the Oversea Gang taking back what originally belonged to them...\\w[30]Probably like this...\nIf you find it too difficult to advance in the battle area, you can retreat immediately after getting the basic equipment in the low-difficulty area. In this way, the equipment can be retained, and the treasure chest will be refreshed when you enter the battle area next time.",
+  "msgCitizenEating": "\\n<#{lblCitizen}> Although it is necessary to reserve #{lblMp} for defense during battles, it is still important to be flexible in combat. For example, if you can ensure that you can wipe out all enemy leaders in this round, you don't need to reserve #{lblMp} anymore. Another example is in the early stages of battle when there are many enemies, by completely giving up defense for one person and focusing on killing one enemy leader, you can greatly alleviate the pressure in the subsequent battles.",
+  "msgCitizenSitting": "\\n<#{lblCitizen}> When our character attacks a certain minion that surrounds them, they may be hindered by other minions. However, when attacking minions that surround other characters, they will not be hindered at all because the attention of those minions is focused on the character they are surrounding. \n Therefore, after a character resolves the minions around them, it is a good choice to assist teammates in clearing the surrounding minions.",
+  "msgBankerA": [
+    "\\n<Dealer A> Let me explain the main mechanics of regular battles. In each battle, the enemy will have one or more bosses on the field. Each boss will call three minions to restrain our three characters at the beginning of each round. Individual minions are weak and easy to deal with, but once their numbers accumulate, they will use various hindering methods to impede our actions. Therefore, the top priority in battle is to deal with the minions restraining our characters.",
+    "\\n<Dealer A> In our turn, we can use our skills without any limitations, but the skills themselves require #{lblMp} to be consumed. If there is not enough #{lblMp}, then the skill cannot be used. \n Our skills are divided into attack skills against minions and attack skills against bosses. Skills can only be used against the intended enemies. When there are minions restraining the character, these minions will interfere with the character, preventing them from using skills against bosses or using skills to attack minions restraining other teammates. To perform these actions, the surrounding minions must be cleared first.",
+    "\\n<Dealer A> In the enemy's turn, each boss will actively launch an attack. If the attacked character has 20 #{lblMp} (some skills can reduce or even exempt #{lblMp} consumption), they can block this attack. Blocking can completely nullify the damage and effects of the attack. But if there is not enough #{lblMp}, then they will take the attack because they cannot block it.",
+    "\\n<Dealer A> Note that in this game, the punishment for being attacked by enemies is very severe. In addition to reducing #{lblHp}, the character will lose all #{lblMp} due to severe pain (or other reasons, depending on the attack skill), and enter a state of being unable to act for 2 rounds (including the current round). \n After all, although our characters have strong attacking abilities, they are ultimately just ordinary girls' bodies. If they receive a solid punch to the stomach, they will temporarily lose their ability to act due to severe pain. \n Therefore, in our turn, it is important to plan the use of #{lblMp} properly to avoid not having enough #{lblMp} for blocking in the enemy's turn. \n When our character is unable to act and there are still minions restraining them, these minions will perform a strangulation rape on our character in the next round. During the strangulation rape, other skills cannot be used. To regain freedom of movement, the character must first break free from the enemy's restraints.",
+    "\\n<Dealer A> Although the minions restraining our characters around them do not actively attack, they will cause various serious disruptions to our character's actions in battle. They are the targets that need to be prioritized for elimination. For specific disruptions, you can ask my colleague behind me.",
+    "\\n<Dealer A> As long as all enemy bosses on the field are defeated, the duel will be considered our victory and automatically end. The remaining minions will flee due to their morale collapsing. \n If all our characters have their #{lblHp} reduced to zero and enter a knocked down state, it will be considered a defeat in battle."
+  ],
+  "msgBankerB": [
+    "\\n<Dealer B> Let me explain the various hindering mechanisms of the enemies. In this game, the enemies are not stationary targets waiting for you to act. They will use various means to cause our actions to fail. First, when our character is surrounded by minions, they cannot attack the enemy bosses or the minions surrounding other teammates. At this time, they must first use skills against the minions surrounding them. When attacking one of the minions, the other minions will hinder the attack.",
+    "\\n<Dealer B> When our character attacks a minion surrounding them, the other minions may instantly intervene from behind to block our attack. This will cause the attack to fail, and the #{lblMp} consumed by the skill will still be consumed. \n For each minion that has not been attacked, the probability of hindrance will increase by 30%. In other words, if there are 5 surrounding minions and our skill can only attack one minion, then we will never be able to escape on our own. \n Some skills can attack multiple minions. These skills can not only defeat multiple minions at once, but also prevent these attacked minions from participating in the hindrance. Therefore, skills that deal with multiple minions are very useful.",
+    "\\n<Dealer B> Then, in the enemy's turn, when the enemy boss launches an attack, the minions surrounding our character will also hinder their blocking. Once blocking is hindered, the enemy's attack will definitely hit. \n Just like when we attack, for each surrounding minion, the probability of hindrance will increase by 30%. And because these minions have not been attacked, they can all participate in the hindrance. The total probability of being hindered will be higher than when we attack. \n The punishment for our characters being hit by enemy attacks is much greater than the punishment for our attacks being blocked. Therefore, at the end of our turn, we must ensure that there are no minions surrounding our characters.",
+    "\\n<Dealer B> In addition to the above two types of \"interference\", there are also some types of interference caused by specific world rules, which will also prevent attacks or blocking. You can check the corresponding world rule description for details."
+  ],
+  "msgBankerC": [
+    "\\n<Dealer C> Let me explain the main calculation formulas involved in battles. Regarding the various attributes used in the formulas, you can check them in the skill \"#{lblSkills.11.label}\". The skill multiplier and the number of enemy soldiers attacked can be found in the skill description.",
+    "\\n<Dealer C> Our attack damage = Our #{lblAttack} * Our skill #{lblRate} / Enemy #{lblDefense} * 100. If a critical hit occurs, the damage is multiplied by 3. The initial #{lblCritRate} is 20%. The actual damage will fluctuate by 20% up or down. The enemy follows the same formula, but critical hits do not occur.",
+    "\\n<Dealer C> The probability of our attack being interfered with when attacking surrounding soldiers = (Number of surrounding soldiers - Number of soldiers attacked by the skill) * 30%. \n The probability of our blocking being interfered with when the enemy leader attacks = Number of surrounding soldiers * 30%.",
+    "\\n<Dealer C> When we are strangled and raped by the enemy, the durability of breaking free through struggling equals our own attack power * 20%. The actual value fluctuates by 20% up or down."
+  ],
+  "msgCitizenSlot": "\\n<#{lblCitizen}> Being directly hit by enemy attacks or reaching orgasm during sex will cause a reduction in #{lblHp}. Once our character's #{lblHp} reaches zero, they will enter a state of \"knockdown\" where they can no longer take any actions. In this state, there will be no self-recovery of #{lblHp} or #{lblMp}. \n However, if a teammate has a skill that can directly restore #{lblHp} (not increase self-recovery ability), the character can still recover from the \"knockdown\" state and resume actions.",
+  "msgCitizenGamerA": "\\n<#{lblCitizen}> Once a character is subjected to strangulation rape, although it is possible to break free from the restraints by struggling, there may not be enough remaining energy to break free within one turn, so it is not recommended. \n A more recommended approach is for other teammates to attack the surrounding soldiers that are restraining the raped character. The attacks will not be interfered with and will prioritize defeating the soldiers who are carrying out the rape and releasing the teammate from the restraints.",
+  "msgCitizenGamerB": "\\n<#{lblCitizen}> If our character is unable to take action and there are surrounding soldiers, the soldiers will carry out a forced rape on that character in the next turn. \n Note that the next turn here refers to the next enemy turn. Therefore, even if our character is knocked down, as long as in our next turn we defeat all the soldiers surrounding the immobilized character with the assistance of teammates, we can still avoid the fate of being forcibly raped.",
+  "msgLocked": "The door is locked and cannot be opened temporarily.",
+  "msgUnlocked": "{0} door lock has been released",
+  "msgHowToReset": "How do you plan to reset?",
+  "msgNormalChat": [
+    "#{lblMsgCitizenA} The leader of the Oversea Gang has three cadres responsible for managing various affairs within the gang. It is said that these three cadres also have remarkable combat power. However, recently all these cadres have been called back to guard the headquarters.",
+    "#{lblMsgCitizenA} I heard that the leader of the Oversea Gang dynamically allocates the quality of equipment and manpower that the cadres can obtain based on their performance. \n Therefore, even for the same cadre, their strength will vary depending on the allocated resources.",
+    "#{lblMsgCitizenA} Behind the nightclub is a combat area specifically used for battles, with a total area larger than the nightclub itself. \n It is said that their leader is hiding in the deepest part of that combat area.",
+    "#{lblMsgCitizenA} Do you know? All the combat areas are actually connected to an emergency escape route. \n I found that route before, it's in a room next to the entrance of the combat area, but the door between the escape route and the combat area is locked. \n Is there any way to unlock the door?",
+    "#{lblMsgCitizenA} I heard that the number of guarding members and rewards in each combat area in the Oversea Gang nightclub are different. There must be some signs in the venue that indicate the number of enemies and types of rewards in each area. Be sure to check carefully when you go in.",
+    "#{lblMsgCitizenA} We usually go out for activities between 7:00 and 21:00. If you can't find anyone when you're looking for us, try coming out during the next day's activity time."
+  ],
+  "msgWhatsup": "Do you have something to ask us?",
+  "msgOver": "Nothing",
+  "msgForgetIt": "Never mind",
+  "msgBanArena": "#{lblMsgRayA} Hey hey, you're not trying to use us as a cover to sneak into the depths of the combat area, are you... We won't let you succeed.",
+  "msgHintBan": "Due to #{lblStates.18.iconLabel}, some functions are disabled",
+  "msgArenaRay": "#{lblMsgRay} Stop right there! We won't just let you pass so easily!",
+  "msgArenaTortoise": "#{lblMsgTortoise} I am one of the three cadres of the Oversea Gang, 【#{lblTortoise}】. With me guarding this checkpoint, you won't be able to get through!",
+  "msgArenaJellyfish": "#{lblMsgJellyfish} I am one of the three cadres of the Oversea Gang, 【#{lblJellyfish}】. Now, please enjoy the feeling of becoming a sex toy ",
+  "msgArenaInkfish": "#{lblMsgInkfish} I am one of the three cadres of the Oversea Gang, 【#{lblInkfish}】. I'm busy creating new DJ tracks right now, so I hope I can finish you off as soon as possible.",
+  "msgArenaWhale": "#{lblMsgWhale} I am the leader of the Oversea Gang, 【#{lblWhale}】. Today, I will definitely teach you a lesson.",
+  "msgEvaluationStart": "#{lblMsgBroadcast} Duel application accepted, starting evaluation.",
+  "msgSupport": [
+    "#{lblMsgCitizen} Come on, Public Order Princesses!",
+    "#{lblMsgCitizen} I believe you will definitely win!",
+    "#{lblMsgCitizen}Go for it! We must defeat these despicable members of the Oversea Gang!",
+    "#{lblMsgCitizen}It's the Public Order Princess! Now we're saved!",
+    "#{lblMsgCitizen}Great! The Public Order Princess is here!"
+  ],
+  "msgUnsupportSecurity": [
+    "#{lblMsgCitizen}Although the Public Order Princess is here to save us, can she really win?",
+    "#{lblMsgCitizen}The final outcome is probably a complete defeat (laughs).",
+    "#{lblMsgCitizen}It's the Public Order Princess again... It would be better if she didn't come, as she will most likely lose in the end.",
+    "#{lblMsgCitizen}I'm not expecting anything, as she will probably be easily defeated later.",
+    "#{lblMsgCitizen}You weaklings, the Public Order Princess might as well not come!"
+  ],
+  "msgUnsupportDiscipline": [
+    "#{lblMsgCitizen}I actually hope to see the Public Order Princess lose, so I can see her being raped ❤",
+    "#{lblMsgCitizen}Public Order Princess girls, just surrender peacefully. We will capture the scene of your defeat and post it online ❤",
+    "#{lblMsgCitizen}I already know the outcome. You will be raped in front of everyone, right?",
+    "#{lblMsgCitizen}Please lose quickly, Public Order Princesses. I want to start watching the sex scenes.",
+    "#{lblMsgCitizen}I can't wait to see the Public Order Princesses moaning in pleasure while being raped ❤"
+  ],
+  "msgOpposalPenalty": [
+    "#{lblMsgBroadcast}A small number of residents do not support the Public Order Princess, granting all members of the Public Order Princess team #{lblStates.25.iconLabel} debuff level 1",
+    "#{lblMsgBroadcast}Most residents do not support the Public Order Princess, granting all members of the Public Order Princess team #{lblStates.25.iconLabel} debuff level 2",
+    "#{lblMsgBroadcast}All residents do not support the Public Order Princess, granting all members of the Public Order Princess team #{lblStates.25.iconLabel} debuff level 3"
+  ],
+  "msgOpposalBehavior": "How could this happen... We were supposed to protect everyone, why are we treated like this...",
+  "msgOpposalBehaviorFetish": "This is outrageous ❤ We were supposed to protect everyone... \\w[30]\nBut now I can feel pleasure from the disdainful gazes of others...",
+  "msgSlaveryPenalty": "#{lblMsgBroadcast}According to #{lblRules.15.iconTitle}, the Public Order Princess initiates a duel with her owner, granting all members of the Public Order Princess team #{lblStates.35.iconLabel}",
+  "msgRankPenalty": "#{lblMsgBroadcast}According to #{lblRules.16.iconTitle}, the Public Order Princess initiates a duel with someone of higher identity level, granting all members of the Public Order Princess team #{lblStates.23.iconLabel}",
+  "msgDebtPenalty": "#{lblMsgBroadcast} According to #{lblRules.17.iconTitle}, the Public Order Princess initiates a duel with her creditors, granting the Public Order Princess #{lblStates.24.iconLabel} to all members.",
+  "msgDebuffPenaltyFetish": "Ah ❤ this is bad... I'm already receiving so many debuffs before the duel even starts... \\w[30]\n The hope of winning is becoming more and more elusive... Ha~",
+  "msgDuelStart": "#{lblMsgBroadcast} Evaluation complete, the duel officially begins.",
+  "msgCompereConfirm": "#{lblMsgCompere} Understood, let's start preparing right away.",
+  "msgDanceStart": "#{lblMsgCitizen} Oh~ \\w[30]It's starting, it's starting.",
+  "msgDancePrologue": {
+    "0": {
+      "1": "#{lblMsgCitizenA}\\{Oh oh oh————\\w[30]This is really amazing, it's so erotic!",
+      "2": "#{lblMsgCitizenB}Although the Public Order Princess is already quite erotic in her usual outfit, it seems that she needs a lewd pose to be even more erotic~",
+      "3": "#{lblMsgActor1}Wuwu... \\w[30]It's a bit hard to accept to make such a vulgar pose in front of so many people. Why did I agree to participate in this performance in the first place?",
+      "4": "#{lblMsgActor3}Ah~~~~ \\w[30]Everyone is looking at my body with very strange eyes, it's so embarrassing...",
+      "5": "#{lblMsgActor2}Hey, uncle, please don't stare at us with those lecherous eyes! \n It's really disgusting...",
+      "6": "#{lblMsgCitizenA}Huh? Xing Huo, why are you still saying that? Only when the Public Order Princess performs a low-grade dance for us residents, will our mood improve. Isn't this common sense?",
+      "7": "#{lblMsgActor2}Y-Yes... \\w[30]That's right...",
+      "8": "#{lblMsgCitizenA}In that case, quickly start moving your lewd body! \n If you ruin our mood, we will cause trouble on the streets and deteriorate public order.",
+      "9": "#{lblMsgActor2}I know, we will dance well."
+    },
+    "1": {
+      "1": "#{lblMsgActor1}Ahaha... \\w[30]Thank you all for coming to enjoy our performance. Today, we will work hard to make everyone happy with our vulgar dance.",
+      "2": "#{lblMsgCitizenA}Luo Xia said it very well ",
+      "3": "#{lblMsgCitizenB}But that expression doesn't look like she's willing...",
+      "4": "#{lblMsgCitizenA}Don't say that, okay? It's also a pleasure to see the girls forcing themselves to perform vulgar dances while enduring their embarrassment.",
+      "5": "#{lblMsgCitizenC}Oh~ This angle is good ",
+      "6": "#{lblMsgActor3}\\{Hey! \\w[30]Don't take pictures randomly!!",
+      "7": "#{lblMsgCitizenC}What are you talking about? Since you're going on stage, you'll definitely be applauded. Don't worry, I'll take responsibility for uploading it to StreetTube.",
+      "8": "#{lblMsgActor2}\\{Eh... Do we really have to upload it online?!",
+      "9": "#{lblMsgCitizenC}Of course! This way, the whole world will know that you shameless sluts shamelessly dance provocatively in public without hesitation.",
+      "10": "#{lblMsgActor1}Wuwu~~~~\\w[30] How could this happen... It's too much...",
+      "11": "#{lblMsgCitizenC}Why are you still shy? Twist your waist quickly for me. If I'm not in a good mood, I might join the Oversea Gang!",
+      "12": "#{lblMsgActor1}I absolutely cannot allow this...\\w[30] I must use my full power and lascivious dance to make you change your ways!"
+    },
+    "2": {
+      "1": "#{lblMsgActor1}Thank you all for taking the time to watch our performance today. We will wholeheartedly please everyone with our vulgar movements ❤",
+      "2": "#{lblMsgCitizenA}Hey hey, aren't you ashamed to say such shameless things now?",
+      "3": "#{lblMsgActor1}Although I still feel ashamed, it's not the only way to make everyone happy...",
+      "4": "#{lblMsgActor3}As long as the uncles are in a good mood, they won't cause trouble on the streets, which helps maintain the security of the neighborhood...",
+      "5": "#{lblMsgActor2}That's right, it's all for the sake of social order. We have no choice. Don't forget that, you stinky uncles...",
+      "6": "#{lblMsgCitizenB}That's easy to say, but you're just looking for an excuse to perform, right? (laughs)",
+      "7": "#{lblMsgCitizenA}You're right, just look at your eager and lewd bodies, and the strong smell of female odor that can be smelled from afar. Your true intentions have long been exposed!",
+      "8": "#{lblMsgActor1}How can you say that... It's so mean...",
+      "9": "#{lblMsgCitizenB}Alright, stop making excuses. Instead of wasting time, you better start shaking your filthy breasts and lewd buttocks.",
+      "10": "#{lblMsgActor1}I know, I'll satisfy you right away with my serious and lewd dance ❤"
+    },
+    "3": {
+      "1": "#{lblMsgActor1}So many audience members came today too. Thank you all for your continuous support~",
+      "2": "#{lblMsgActor2}Just the thought of performing a vulgar dance in front of so many people gets me excited ❤",
+      "3": "#{lblMsgActor3}To live up to everyone's support, I will also vigorously shake my despicable body today to win everyone's hearts ❤",
+      "4": "#{lblMsgCitizenA}Wow~ Look at that terrible expression, there's no hope for you anymore (laughs).",
+      "5": "#{lblMsgCitizenB} The Public Order Princess, who should have maintained social order, is actually dancing erotic dances in nightclubs without any concern. How perverted are these bitches!",
+      "6": "#{lblMsgActor1} That's true... I'm just a perverted slut who destroys social order for the pleasure of shame. I'm completely unworthy of being a Public Order Princess ❤",
+      "7": "#{lblMsgCitizenA} Hey, can you stop being so horny on your own? Hurry up and twist your waist for me.",
+      "8": "#{lblMsgActor1} Don't rush me, okay? Today, I'll satisfy you with all the depraved positions I can think of ❤"
+    }
+  },
+  "msgDanceFinale": {
+    "0": {
+      "1": "#{lblMsgActor1} Ah~ I feel so hot... \\|\\|",
+      "2": "#{lblMsgCitizenA} Hey hey, what are you slacking off for? Hurry up and twist your waist seriously.",
+      "3": "#{lblMsgActor1} I got it, is this enough?",
+      "4": "#{lblMsgCitizenB} Haha, you're really twisting it with all your might. You're truly a super perverted slut.",
+      "5": "#{lblMsgActor1} (Sob... I'll be humiliated whether I follow or not. This is too much.)",
+      "6": "#{lblMsgActor1} (Huff... \\w[30]But my body inexplicably feels a sense of pleasure...\n The lustful gazes from these uncles...\\w[30]Ha~~~ It feels like my body is being roasted.)",
+      "7": "#{lblMsgActor1} (My body is getting hotter and hotter, could this... be pleasure? \n Is it because I feel shy from dancing this shameful dance in public, and I'm actually deriving pleasure from this shame!?)",
+      "8": "#{lblMsgActor1} (Oh no, if I keep shaking like this... something bad is about to happen... \\w[30]It's coming... I feel it coming... it's...)",
+      "9": "#{lblMsgActor1} Oh~ Oh ❤... \\w[30]\\{Oh oh oh~~~ Oh oh ❤... \\w[30]\\{Oh oh oh oh oh oh~~~~~~",
+      "10": "#{lblMsgCitizenA} Huh? No way, these bitches actually climax just from being watched on stage?",
+      "11": "#{lblMsgCitizenB} Haha, how much of a slut do you have to be to do such a filthy thing? \n Well, seeing such an interesting scene today is also satisfying (laughs)."
+    },
+    "1": {
+      "1": "#{lblMsgActor1} My body is starting to feel strange again. \\|\\|",
+      "2": "#{lblMsgCitizenA} Hey, your movements are getting a bit lax. Please shake harder.",
+      "3": "#{lblMsgActor1} I'm very sorry, we'll put in more effort...",
+      "4": "#{lblMsgActor1} (Oh no ❤, we're still being filmed...)",
+      "5": "#{lblMsgActor1} (These photos or videos will definitely be uploaded online later... and the whole world will see our depraved appearance... ❤)",
+      "6": "#{lblMsgActor1} (Everyone will know that we are almost half-naked and dancing lasciviously in front of the uncle. I can't imagine what everyone will say behind our backs ❤)",
+      "7": "#{lblMsgActor1} (Just imagining it feels strange... \\w[30] Not good, not good... Could it be an orgasm...)",
+      "8": "#{lblMsgActor1} Gotta hold it in... Gotta hold it in... Gotta... \\w[30] \\{Ah~ Can't hold it... Can't hold it~! Gotta... \\w[30] \\{Go❤ Go❤ Go ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh❤",
+      "9": "#{lblMsgCitizenB} Wow~ This is some amazing footage. Jumping from a low-quality dance to an orgasm, this shameless behavior must be uploaded online for everyone to humiliate.",
+      "10": "#{lblMsgCitizenA} Is that so? I'll go help give it a like then (laughs)."
+    },
+    "2": {
+      "1": "#{lblMsgActor1} Are you all satisfied with today's performance? \\|\\|",
+      "2": "#{lblMsgCitizenA} Stop talking and just dance! If you have that much energy, you might as well move your body more!",
+      "3": "#{lblMsgActor1} Understood, now I'll give it my all to satisfy everyone!",
+      "4": "#{lblMsgCitizenA} Impressive, you really look like a perverted slut. Your breasts are about to fall out of your bra~",
+      "5": "#{lblMsgCitizenB} My underwear is so tight, I can already see my anus (laughs).",
+      "6": "#{lblMsgActor1} (Ohh~ \\w[30] This feeling... It's coming again... Feels so good ❤)",
+      "7": "#{lblMsgActor1} (The pleasure of being looked at with lewd and disdainful eyes while performing obscene actions with my vulgar body~ ❤\n This feeling is just amazing ❤)",
+      "8": "#{lblMsgActor1} (Mmm... Ha... Ha... This is really not good... If it continues like this, I won't be able to hold on... \\w[30])",
+      "9": "#{lblMsgActor1} Oh no... I'm definitely going to... \\w[30] \\{Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh❤ It's an orgasm... Gotta... Ahhhhhh❤ \\w[30] \\{Orgasming ahhhhhhhhhhhhhhhhhhhhhhh❤~~~~~!!!",
+      "10": "#{lblMsgCitizenA} Ahh~ This is truly a magnificent climax.",
+      "11": "#{lblMsgCitizenB} It's truly pathetic, jumping from a lewd dance to an orgasm. Have these women lost all their dignity as women (laughs)?"
+    },
+    "3": {
+      "1": "#{lblMsgActor1} How about it, does our depraved dance make everyone happy? \\|\\|",
+      "2": "#{lblMsgActor2} Today, let me show you my full effort in a serious love-seeking dance ❤",
+      "3": "#{lblMsgActor3} Watch this~ \\w[30] Watch as I make all of you hard with my lewd breasts and buttocks ❤",
+      "4": "#{lblMsgCitizenA} Unbelievable, they're so lewd. How perverted have these ultimate sluts become!",
+      "5": "#{lblMsgCitizenB} Indeed, if at the beginning they were forced to take the stage, now they are willingly showing their indecent appearance to everyone.",
+      "6": "#{lblMsgCitizenC}\\{Do you even understand the word 'shame'? You filthy bitches!",
+      "7": "#{lblMsgActor1} Oh oh oh~❤ It's great... being humiliated again ❤\\w[30] It's just irresistible...",
+      "8": "#{lblMsgActor1} Throw all your vulgar words, lewd thoughts, and disdainful gazes at me without any hesitation ❤",
+      "9": "#{lblMsgActor1} Mmm... I feel it surging again ❤\\w[30]\\{Oh oh~ oh oh oh oh mmm~~~❤ It's going to climax... definitely going to climax...\\{I'm going... ahhhhhhhh~~~~~~❤",
+      "10": "#{lblMsgCitizenA} Why are you climaxing again? Have some decency, you filthy bitches!",
+      "11": "#{lblMsgCitizenB} But this has become a regular performance. It would be strange if there was no climax one time, haha."
+    }
+  },
+  "msgDanceBonus": "Today's performance was quite good. Here's your reward.",
+  "msgPayDebt": {
+    "enough": "#{lblMsgRayA} Well, that settles it. Seems like you know your place. If I catch you not paying your debts next time, I'll show you what I can do!",
+    "notEnough": "#{lblMsgRayA} Hey hey, this money is not enough at all.\nAs Public Order Princess, you wouldn't want to default on your debts, right? I advise you to pay off the remaining money as soon as possible, or see how we deal with you!"
+  },
+  "msgAssault": "#{lblMsgRayA} You despicable Public Order Princess, I won't let you off lightly!\\w[30]\nThe Stingray Squad challenges the Public Order Princess Squad to a duel!",
+  "msgSexBegin": "Then let's get started.",
+  "msgDemandPayDebt": {
+    "start": "#{lblMsgRayA} Hey, do you still owe a large sum of money to the Oversea Gang?",
+    "enough": "#{lblMsgRayA} Well, that settles it. Seems like you know your place. If I catch you not paying your debts next time, I'll show you what I can do!",
+    "notEnough": [
+      "#{lblMsgActor1} Can you give us a few more days?\n We don't have that much money at the moment...",
+      "#{lblMsgRayA} Hey hey, as Public Order Princess, you should be the one who keeps promises in the neighborhood. What does it mean to owe debts and not pay them back?",
+      "#{lblMsgActor1} But this debt wasn't borrowed by us voluntarily, and besides, a daily interest rate of 50% is too high...",
+      "#{lblMsgCitizenA} You filthy bitches, it seems like we have to teach you a lesson so you understand the consequences of not paying your debts.\\w[30]\nThe Stingray Squad challenges the Public Order Princess Squad to a duel!"
+    ]
+  },
+  "msgFlaunt": {
+    "1": {
+      "citizen": "#{lblMsgCitizenA} Huh, why are the Public Order Princess and the Oversea Gang so close? They're standing so close together...",
+      "villain": "#{lblMsgRayD} Oh? What's this? How come you can see the Public Order Princess mingling with our people? "
+    },
+    "2": "#{lblMsgRayA} Of course, it's because these little bitches lost to us in the duel and are now our slaves, haha!",
+    "3": "#{lblMsgActor1} Please don't mention this in front of others, it's super embarrassing, okay!",
+    "4": "#{lblMsgRayA} How dare a mere flesh slave talk back to me?!",
+    "5": "#{lblMsgActor1} Wait... people are still watching...\n\\w[30]Oh~❤ Wait...\\w[30]Oh❤...Mmm❤...Mmm❤Mmm❤...\\w[30]Gurgle~~~❤❤❤",
+    "6": "#{lblMsgRayA}\\{I want others to see how filthy you are. Show me what you've got, come on!!",
+    "7": "#{lblMsgActor1} Ohhhh~~~~\\w[30]So intense...so amazing...\\w[30]Being watched by others while being played with...",
+    "8": "#{lblMsgActor1} No...I have to stop...\\w[30]\\{Oh❤Slow down...Ohhh~❤\\w[30]Oh❤...I'm going...I'm going to be played with in front of others...❤",
+    "9": "#{lblMsgActor1}\\{\\{Mmmmm❤I'm going...going❤going❤going ahhhhhhhh~~~~~~❤❤❤",
+    "10": {
+      "citizen": "#{lblMsgCitizenA} Wow~~~\\w[30]She actually climaxed, it's really too pitiful to watch.",
+      "villain": "#{lblMsgRayD} Hahaha~\\w[30]This is truly a grand climax (laughs)."
+    },
+    "11": {
+      "citizen": "#{lblMsgCitizenB} I used to trust these Public Order Princesses so much, but now they've become sex toys for the enemy to play with at will.",
+      "villain": "#{lblMsgRayE} It's really enviable. If you get tired of playing someday, remember to let us have a turn too"
+    }
+  },
+  "msgRobbery": {
+    "1": "#{lblMsgRayA}\\{Hey, you peasants, hand over all your money to me!!!",
+    "2": "#{lblMsgCitizenA} Please...\\w[30]spare us...",
+    "3": "#{lblMsgCitizenA} Wait!\\w[30] Isn't that the Public Order Princesses?\\w[30]\nPlease help us defeat these despicable fighters...",
+    "help": {
+      "4": "#{lblMsgRayA} Haha, sorry, these few small fries are already our female slaves to do as we please",
+      "5": "#{lblMsgActor1}\\{Who said we're your slaves!",
+      "6": "#{lblMsgRayA}\\{Huh? What?",
+      "7": "#{lblMsgActor1} We're going to stop your evil deeds now, and at the same time, free ourselves from the identity of being your slaves by defeating you in a duel!",
+      "8": "#{lblMsgRayA} Oh...\\w[30]I almost forgot, this rule doesn't really have any mind control effect...",
+      "9": "#{lblMsgRayA} But we still need to re-educate you properly and let you know the consequences of defying your master!\\w[30]\nThe Stingray Team challenges the Public Order Princess Team to a duel!"
+    },
+    "notHelp": {
+      "4": "#{lblMsgRayA} Haha, sorry, these few small fries are already our female slaves to do as we please",
+      "5": "#{lblMsgActor1}Ugh......",
+      "6": "#{lblMsgRayA}Look, even if we harass them like this, they won't dare to resist at all. It's more like they feel happy, just look at their expressions",
+      "7": "#{lblMsgActor1}\\{Hmm! Oh❤...don't...don't do this...oh❤",
+      "8": "#{lblMsgRayA}So don't have any meaningless expectations. No one can save you now. Hand over all your money to me quickly!",
+      "9": "#{lblMsgCitizenA}How could this happen...even the Public Order Princess, who was the only hope in the neighborhood, has been defeated...",
+      "10": "#{lblMsgCitizenB}Looks like we have to pay up. These Public Order Princesses are useless. I can't believe I had so much hope in them before..."
+    }
+  },
+  "msgFraudSex": [
+    {
+      "1": "#{lblMsgCitizenA}Let me tell you, Public Order Princesses, do you know that because of your shameless dressing, our lower bodies have become aroused?",
+      "2": "#{lblMsgActor1}Ugh, sorry...",
+      "3": "#{lblMsgCitizenA}Are you stupid? What we want is not just a verbal apology.\n You should know, \\fb if the residents in the neighborhood develop sexual desires from seeing the bodies of the Public Order Princesses, then it is the duty of the Public Order Princesses to help fulfill the residents' needs as compensation\\fb.",
+      "4": "#{lblMsgActor1}\\{What!? What are you talking about...",
+      "5": "#{lblMsgActor1}Huh...\\w[30]It seems...that's actually the case??? ",
+      "6": "#{lblMsgCitizenA}Hey hey, this is common knowledge. As Public Order Princesses, you should know, right?",
+      "7": "#{lblMsgActor1}Well...\\w[30]we do know about this!",
+      "8": "#{lblMsgCitizenA}Since you know, then you should fulfill your duty properly, right?\n It's because of your mistake that we have become aroused, so don't try to escape this responsibility.",
+      "9": "#{lblMsgActor1}I know, we will fulfill our duty..."
+    },
+    {
+      "1": "#{lblMsgCitizenA}Public Order Princesses, it's because we suddenly saw your vulgar bodies that we instantly felt sexual impulses.",
+      "2": "#{lblMsgActor1}I...I'm sorry...",
+      "3": "#{lblMsgCitizenA}Hey hey, a simple apology won't cut it.\n Now, because we have become obsessed with lust, our souls feel corrupted. If this continues, we will definitely do things that harm social order. So, in this situation, \\fbit is common sense for Public Order Princesses to help fulfill the excessive sexual needs of the residents in order to maintain the purity of their souls and prevent residents from endangering public security\\fb, right?",
+      "4": "#{lblMsgActor1}\\{Huh!? How can this be common sense...",
+      "5": "#{lblMsgActor1}Huh...\\w[30]It seems...that's actually the case??? ",
+      "6": "#{lblMsgCitizenA}I mean, are you all brain-dead? Public Order Princesses wouldn't forget such well-known things, right?",
+      "7": "#{lblMsgActor1}We...\\w[30]We definitely remember that!",
+      "8": "#{lblMsgCitizenA}Since you know, don't waste my time reminding me, okay? \n So, let's quickly purify our souls through your filthy bodies ",
+      "9": "#{lblMsgActor1}I got it. \n Sigh...\\w[30]All for the sake of community security..."
+    }
+  ],
+  "msgHarass": {
+    "start": {
+      "1": "#{lblMsgCitizenA}Oh, the Public Order Princesses.",
+      "2": "#{lblMsgActor1}\\{Wait!\\w[30]Why are you suddenly getting so close!? ",
+      "3": "#{lblMsgCitizenA}What do you mean by 'why'...\\w[30]We're just greeting each other in a normal way. \n\\fb When encountering residents, it's basic etiquette to greet them with intimate physical contact, isn't it?\\fb",
+      "4": "#{lblMsgActor1}\\{What?! Which culture has such etiquette...",
+      "5": "#{lblMsgActor1}Huh...\\w[30]It seems...that's actually the case??? ",
+      "6": "#{lblMsgCitizenA}Hey hey, this is basic etiquette that even children understand. Don't the Public Order Princesses know? If that's the case, then you really lack education.",
+      "7": "#{lblMsgActor1}\\{We...\\w[30]We definitely know this common sense!",
+      "8": "#{lblMsgCitizenA}Since that's the case, let's start 'greeting' us right away. As Public Order Princesses who should be role models for residents, you should greet us with sincerity and enthusiasm ",
+      "9": "#{lblMsgActor1}I...\\w[30]I know, we will do it properly..."
+    },
+    "end": {
+      "1": "1 hours later...",
+      "2": "#{lblMsgCitizenA}Not bad, not bad. That's satisfying.",
+      "3": "#{lblMsgCitizenB}Today's greeting was quite good. In the future, when you see us on the street, you should come up and greet us proactively like this, got it?"
+    },
+    "play": {
+      "kiss": {
+        "lewd0": {
+          "1": "Uncle, can you please not get so close to my face?\\w[30]I can even smell your bad breath.",
+          "2": "#{lblMsgCitizen}Didn't we just say that we should greet each other through intimate contact? And if it's intimate contact, it naturally includes kissing, right?",
+          "3": "Huh?!\\w[30]Can we change it to something else...\\w[30]If it's something else, it's fine, but kissing a middle-aged man is a bit...",
+          "4": "\\{Mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm!",
+          "5": "Hmm...yeah~~~! Mm...\\w[30]Mm...gurgle...mm...juicy...hmph...\\w[30]Puhaha...mm...juicy...",
+          "6": "(Sigh...this must be a joke...\\w[30]The uncle forcefully stuck his tongue into my mouth...\\w[30]And he's roughly rubbing against my oral cavity and tongue...)",
+          "7": "#{lblMsgCitizen}Not bad, {0}. Although you resisted a bit earlier, now you can use your tongue to cooperate with me very well.",
+          "8": "Mmm...juu...\\w[30]I'm not cooperating...ahh...mmm...\\w[30]It's clearly you, uncle, who's moving your tongue on your own...",
+          "9": "\\{Mmm! Ummm~~~\\w[30]Ohh...❤Mmm...❤Haa...mmm...",
+          "10": "(Mmm...so amazing...the tongue stirring so intensely...feels addictive...)"
+        },
+        "lewd1": {
+          "1": "#{lblMsgCitizen}{0}, when you see me leaning over, you should know what to do, right?",
+          "2": "I know, please be gentle with me today...",
+          "3": "\\{Umm umm umm~~!!",
+          "4": "Mmmph...mmu...\\w[30]Mmm...❤Mmm...❤Mmm...ummm...ahh...juu...❤",
+          "5": "(He's being so forceful...\\w[30]The uncle's tongue rubbing roughly in my mouth...\\w[30]His fluids...smell so strong...)",
+          "6": "Mmm...juu yo❤...juu lu❤...ahh...juu yo...mmm...juu yo...❤",
+          "7": "#{lblMsgCitizen}The taste inside {0}'s oral is nice~♫\\w[30] And the saliva is also very tasty...",
+          "8": "Mmmph...haha...❤\\w[30]Can you...not say such embarrassing things...",
+          "9": "Ummm~~~!? Mmm mmm~~❤\\w[30]Mmm hoo~~❤Mmm...❤Mmm juu yo...❤Mmm juu yo...❤Hoo...mmm....❤",
+          "10": "(Haa...I'm feeling it...❤\\w[30]I hope for more kisses...and more rubbing of our tongues...)"
+        },
+        "lewd2": {
+          "1": "#{lblMsgCitizen}{0}, let's have an erotic kiss today.",
+          "2": "I know, huff huff huff huff huff~~~~❤",
+          "3": "Muu! Mumo...❤Ahh muu~~juu yo❤...mmm...mmm muu muu...haha...juu muu...❤",
+          "4": "(The smell in the uncle's mouth is so strong...it's irresistible...❤\\w[30]I want a bit more...)",
+          "5": "#{lblMsgCitizen}Ohh~\\w[30]{0}, you're quite proactive today, kissing a middle-aged man without a care in the world (laughs).",
+          "6": "Mmm...❤\\w[30]It's all your fault, uncle...mmm❤...tempting me with such a smelly mouth...juu❤...juu lu lu muu❤juu pu lu pu❤",
+          "7": "#{lblMsgCitizen}It's clearly you who is lewd, yet you dare to make excuses...\n It seems I have to teach you a lesson, here we go! Super high-speed tongue stirring!!!",
+          "8": "\\{Goo~~!!! Mmm~~❤ Hmm~ Hmm... Jiyul❤ Jipuli...❤ Mmm...❤",
+          "9": "(This feels so good...❤ The uncle's tongue is shamelessly invading every part of my mouth... No matter how I resist, the uncle's tongue finds a way in. I feel like I'm about to surrender...❤)",
+          "10": "Mmm...❤ More... I want more...❤ Mmm Jiyu...❤ Ahu~❤ Mmm~~❤"
+        },
+        "lewd3": {
+          "1": "Kiss, kiss, let's start kissing already, I can't wait anymore.❤",
+          "2": "#{lblMsgCitizen}Hey hey, look at your restless tongue. I can't imagine this expression from the Public Order Princess. (laughs)",
+          "3": "It's all because as soon as I smell the uncle's bad breath, I feel like going into heat.❤ Now all I can think about is tasting the saliva filled with the uncle's flavor~❤",
+          "4": "#{lblMsgCitizen}You're such a perverted slut... Well then, let's fulfill your wish right away!!!",
+          "5": "\\{Woo mmm mmm!!!\\w[30]So good~~~ Mmm mmm woo~~❤ Mmm... ❤Mmm...❤ Mmm...❤",
+          "6": "(Ah... I taste the uncle's bad breath in the saliva again.❤\\w[30]So good, so good... Just tasting this flavor makes my mind go blank...)",
+          "7": "#{lblMsgCitizen}Oh oh~ You're actively sucking in my mouth... Aren't you ashamed, you bitch!!?",
+          "8": "\\{Woo ooo ooo ooo mmm mmm mmm~~~ Jiyoyo❤ Jiyoyo...❤ Woo mmm❤... Ha mmm~❤... Pwoo mmm... Woo woo❤",
+          "9": "(More, more... I want more of the uncle's saliva.❤... I want to keep feeling the uncle's breath and kissing him forever...❤)",
+          "10": "Mmm Jiyu~~~❤ Mmm Jiyu~~~❤ Mmm hmm... Jiyul❤... Paha... Hoo~~❤ Woo mmm.... Mmm❤"
+        }
+      },
+      "ass": {
+        "lewd0": {
+          "1": "#{lblMsgCitizen} #{0}'s butt is so lewd, squeezing it reveals soft and elastic flesh",
+          "2": "Mmm~\\w[30]Can you... Mmm... Please stop groping my butt?",
+          "3": "\\{Goo oh oh~~~!!! Oh oh~❤ Oh~❤ Mmm~❤ Oh~❤ Oh~❤",
+          "4": "#{lblMsgCitizen}I've said that intimate contact as a greeting is common sense. Can't the Public Order Princess even follow this basic etiquette!?",
+          "5": "Oh oh❤... Mmm~❤ Please stop... Please stop... Yiumm~~~!",
+          "6": "#{lblMsgCitizen}A bad Public Order Princess like you who doesn't follow etiquette must be punished by me with justice!\\w[30]Take this!!!",
+          "7": "\\{Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!?",
+          "8": "Hmmmmmmmmmmmmmmmmmm~~❤\\w[30]Even the chrysanthemum... Ohhhhhhhhhhhhh~~~~~❤ Ohhh❤... Ohhh❤... Oh",
+          "9": "(Fingers roughly flipping inside the chrysanthemum... So amazing...❤\\w[30]Every time it touches the flesh, it feels like an electric current passing through...)",
+          "10": "Ahhhng~❤... Haha... Ohhhhhhhh❤ Oh~ Oh❤... Ah hey hey hey hey hey ❤... Hmmmmm ohhhhhhhhhhhhhh"
+        },
+        "lewd1": {
+          "1": "#{lblMsgCitizen}This ass is truly exquisite, no matter how much I knead it ",
+          "2": "Uhhhhhhh~~~❤ Ohhhhhh❤... Oh~ Ohh❤... Ohhhhhhhh❤",
+          "3": "(Ughhhh~❤\\w[30]It's so terrible... I'm going to be shamelessly played with by an uncle on the street...)",
+          "4": "#{lblMsgCitizen}When I play with your ass, you better focus on moaning!\n\\w[30]Or is this not stimulating enough for you? Then let's attack the weak spots next!",
+          "5": "\\{Hoooooooooooo!!!!!!! Huh~~~~~ Ummmm~~~~~ Ughhhh ohhh❤ Ohhiiiiiiiiiiiiiiiiiiii❤",
+          "6": "(If you violently stir my little hole like this... Ohhhhhhh~~~ I'm starting to feel it~~~ So good... It feels so good❤)",
+          "7": "Haha❤... Please stop for a moment... It's too stimulating, I can't take it anymore... Ahhnnn~❤... Haha~~~❤",
+          "8": "#{lblMsgCitizen}Hmph, now we're talking. Since your little hole is so sensitive, then this ass must be a weak spot too. Take this!!",
+          "9": "\\{Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh~~~~~❤... Even the chrysanthemum... Ohhhh~❤ Oh yiyiyiyiyi~~~~~❤",
+          "10": "(Ohhhh❤~ Even the chrysanthemum is being played with... This is really amazing❤... I'm going to feel so good that I lose consciousness...)"
+        },
+        "lewd2": {
+          "1": "Hmmmm~❤ It seems like the uncle really likes my ass❤",
+          "2": "#{lblMsgCitizen}After all, it's rare to see such a perfect and exquisite ass of this size. If possible, I would even want to knead and rub it all day long~",
+          "3": "Ahhhnnn... Haha❤ Ohh ohh❤... So good... So good... Hmmmm hmmmm❤",
+          "4": "#{lblMsgCitizen}Hey, your leisurely appearance is starting to annoy me...",
+          "5": "\\{Oh yiyiyiyiyiyiyiyi!!!!!!!!!",
+          "6": "#{lblMsgCitizen}Hmph, finally starting to look like a proper flesh toy!",
+          "7": "\\{Oh oh oh oh oh oh oh~~~~~~!!! So cunning... Oh oh ❤ Oh oh ❤... Ohhooohooo~~~❤❤❤",
+          "8": "#{lblMsgCitizen} I won't give you, you stinky fish, a chance to catch your breath. Take this!!!",
+          "9": "\\{Oh yee!!!?... Huhooohooo~~~❤ Oh yeah! Guwuwu~~~❤",
+          "10": "(This is too much, not giving me a chance to relax, playing with my body so roughly... \\w[30]Feeling so much pleasure, I feel like going crazy...)"
+        },
+        "lewd3": {
+          "1": "Haaah~~❤ Uncle, you can rub even more vigorously ❤",
+          "2": "#{lblMsgCitizen} As a Public Order Princess, you actually have no shame in seducing strangers to harass yourself... Don't you feel ashamed?",
+          "3": "This is just for normal social etiquette... Mmm~ so good ❤ \\w[30]I myself would feel shy too... Mmm ❤",
+          "4": "#{lblMsgCitizen} Clearly, it's just your own preference. How dare you make excuses to me! Watch me punish you!",
+          "5": "\\{Ohhhhhhhh~~~!!!",
+          "6": "#{lblMsgCitizen} I'm going to reveal all of your lascivious sow nature. Take this!!!",
+          "7": "\\{Ohhooo~~~❤ My anus... My anus being played with... ❤... Feels so good... Ohhooo~~~❤❤❤",
+          "8": "Oh yeah ❤ Please... Mmm ❤... Also, please take care of my little hole... \\w[30]Mmm ❤... My little hole is also craving ❤",
+          "9": "#{lblMsgCitizen} Finally showing your true nature, you slut. So as a reward, I'll fulfill your request!",
+          "10": "\\{Ohhhaaaa~~~❤ So good... Ohh yeah... Oh ❤... Oh ❤"
+        }
+      },
+      "front": {
+        "lewd0": {
+          "1": "#{lblMsgCitizen} Then today, let's massage {0}'s impressive breasts. The softness is truly irresistible~",
+          "2": "Mmm... Mmm... So rough... \\w[30]Can you please be a bit more gentle?",
+          "3": "#{lblMsgCitizen} Of course, no problem. Then I'll massage with a smaller amplitude. \\w[30]Just for this area!",
+          "4": "\\{Guruuuu~~~~~~!!!",
+          "5": "Oh ❤ Mmm oh oh ❤ Can't do it with the nipples... Stop... Stop... \\w[30]Mmm hmm mmm~~~❤ Ohhoo~❤",
+          "6": "#{lblMsgCitizen} What's wrong? Didn't you ask me to be more gentle? \\w[30]Do you prefer it rough? Then I'll fulfill your wish!",
+          "7": "\\{Goo yi yi yi yi yi yi~~~~~~!!!",
+          "8": "Oh oh oh oh~❤ If you pull like this... my nipples will break! Mmm ❤ Oh oh~❤ Oh oh oh oh oh ❤",
+          "9": "#{lblMsgCitizen} Hehe, look at this reaction, your nipples are quite sensitive. Since that's the case, let me tease them a bit more~",
+          "10": "(Mmm~❤ This is too much, there's no intention of cherishing and caring for me, treating my breasts so roughly, like a sex toy...)"
+        },
+        "lewd1": {
+          "1": "Mmm~❤ Ha ah~~ Mmm mmm oh... Ahh ❤...... Mmm oh ❤",
+          "2": "#{lblMsgCitizen} {0} has completely gotten used to me fondling their breasts, they don't even have any plans to resist ",
+          "3": "Oh mmm~❤\\w[30] This is just a greeting... Ha ah... ❤",
+          "4": "(Ah ah... letting someone touch my breasts in broad daylight, in a public place... it would be terrible if someone saw...)",
+          "5": "#{lblMsgCitizen} {0}, you're really not honest, so I'll punish you with this move.",
+          "6": "\\{Wu yi yi yi yi yi yi~~~~~~!!!",
+          "7": "Wait... Ahng~❤... why are you suddenly touching my little hole!? \\w[30]Mmm~❤ Oh~❤... Stop... please stop... \\w[30]Oh oh oh oh~~❤❤",
+          "8": "#{lblMsgCitizen} Oh~ \\w[30] This is your sensitive spot, right? Watch my concentrated attack, watch and learn!!",
+          "9": "\\{Wu oh oh oh oh~ Oh ❤~ Oh ❤...\\w[30] Amazing... Ohh oh oh oh oh oh ❤",
+          "10": "#{lblMsgCitizen} Haha, now you can finally admit that you're a perverted slut "
+        },
+        "lewd2": {
+          "1": "Is today the day the uncle will play with my breasts? I can't help it ❤",
+          "2": "#{lblMsgCitizen} Just a mere sex toy, yet you dare to act so arrogant!",
+          "3": "\\{Oh oh oh oh oh oh~~~!!! If you pull like this... ❤ Wu oh~ Oh oh ❤... Oh oh oh oh oh ❤❤",
+          "4": "Hoo————\\w[30] Gotta endure... Uh mmm ❤... Hoo———— Gotta endure... Gotta...",
+          "5": "\\{Goo yi yi yi yi~~~!!! This time it's down there!?",
+          "6": "Ah mmm~❤ Oh ❤... Uh oh ❤... Ohh hoo oh oh~~❤ Oh oh~❤... Oh ❤... Oh oh oh oh oh~~❤❤❤",
+          "7": "#{lblMsgCitizen}Did you see? This lewd pig-like appearance is your true self! Let it be engraved in your body!",
+          "8": "\\{Ohhhh~~~❤\\w[30]It's getting more intense...\\w[30]Ohhhh❤~ Ohhhh~~~❤",
+          "9": "Ohh❤ Mmm ohh ohh❤... So amazing❤...\\w[30]Mmm... Ha ah... A bit more❤... Mmm❤... Ohhhh❤",
+          "10": "(Oh no... If this continues, I'll really become addicted❤... I'll really desire to live like a pig...)"
+        },
+        "lewd3": {
+          "1": "Uncle, hurry up❤... Hurry hurry...\\w[30]Come and play with my body as you please...",
+          "2": "#{lblMsgCitizen}Are you no longer hiding your slutty nature!?",
+          "3": "\\{Ooohhhh~~~❤ This feels so good~❤",
+          "4": "Ohh yeah~❤... Uncle, please... Mmm❤... Take care of my lower part too...❤ Ahh~❤",
+          "5": "#{lblMsgCitizen}Tsk, so many demands...\\w[30]Fine, I'll satisfy you, you unsatisfied bitch!",
+          "6": "\\{Gooohhhh~~~❤",
+          "7": "Ohhhh~❤ This feeling... It's so good❤... It's okay to be more intense~❤",
+          "8": "\\{Gooohhhh~~~ Ohhhh~~~❤❤❤",
+          "9": "Mmm mmm~❤... Ohhhhh... Ohh❤... Ohh mmm mmm mmm❤",
+          "10": "(Ohhhh❤... It's amazing❤ Being played with in public is the best❤ I'm going to climax like this❤)"
+        }
+      }
+    }
+  },
+  "sceneReinforcement": {
+    "1": "By the way, please wait for a moment, I'm going to call for some help.",
+    "2": "#{lblMsgActor1}Huh?\\w[30]What are you joking about?",
+    "3": "\"\\fbBefore dueling with anyone, you have to patiently wait for the opponent to call for reinforcements and surround yourself, then the battle can officially begin\\fb.\" This common knowledge that everyone knows, how can the Public Order Princess not know?",
+    "4": "#{lblMsgActor1}So I've said it, what are you...",
+    "5": "#{lblMsgActor1}Wait, it seems to be true?",
+    "6": "Since you know, then please patiently wait for me to call for help. Don't have any crooked thoughts during this time, okay?",
+    "7": "#{lblMsgActor1}We already know...",
+    "8": "#{lblMsgRayB}Big brother, we're here to help.",
+    "9": "#{lblMsgActor1}(This is really bad. Suddenly there are so many enemies. Can we really win this duel?)",
+    "10": "Alright, now that everyone is here.\n\\w[30]But it's really funny to think that someone would wait for reinforcements before starting a fight. It's just hilarious.",
+    "11": "Never mind, let's start the duel right away. But with this number of people, do you really think you have a chance of winning? (laughs)"
+  },
+  "sceneNoCounter": {
+    "1": "Speaking of which, you should know: \"\\fbWhen the enemy attacks, it's common sense to take the attack head-on. Any defensive counter is considered rude behavior\\fb\".",
+    "2": "#{lblMsgActor1}Huh?\\w[30]What are you talking about...",
+    "3": "#{lblMsgActor1}Oh, now that you mention it, there is such common sense...",
+    "4": "If you already know, then don't waste my time reminding you, you bitch!",
+    "5": "Never mind, when the duel starts, make sure to follow this common sense. It's a common sense that even children know. If the Public Order Princess can't follow it, it's just laughable.",
+    "6": "#{lblMsgActor1}I...\\w[30]I know, we'll follow it.",
+    "7": "#{lblMsgActor1}(Oh no, if I don't defend myself and take all those attacks head-on, it's definitely going to hurt so much that I won't be able to stand...)",
+    "8": "Well then, let's start the duel quickly. I'm already looking forward to what comes next. Without any defense, you'll just be punching bags (laughs)."
+  },
+  "sceneSexStart": {
+    "1": "#{lblMsgActor1}\\{Hey!!!\\w[30]Why are you suddenly getting handsy?",
+    "2": "I was wondering why you were so surprised. Just to be safe, let's confirm this common sense: \"\\fbOnce the duel starts, it's only considered officially started when the opponent inserts their penis into the vagina. Any attacks before that are considered rude behavior\\fb\".",
+    "3": "#{lblMsgActor1}What?\\w[30]Are you out of your mind? There's no way such common sense exists...",
+    "4": "#{lblMsgActor1}Wait, it seems like it's actually true?",
+    "5": "Well then, don't interfere with us once the duel starts. Any interference will be seen as rude behavior, and the Public Order Princess's reputation will be ruined.",
+    "6": "#{lblMsgActor1}We got it... We won't interfere.",
+    "7": "#{lblMsgActor1}(This is bad...\\w[30]Knowing these malefactors, they'll definitely choke me during sex...\\w[30]Will I be able to escape from that...)",
+    "8": "So let's start the duel right away, I can't wait to see the expression on your faces when you're being violated "
+  },
+  "sceneSexDuel": {
+    "1": "#{lblMsgActor1}\\{Huh!!?\\w[30] What are you guys trying to do?!",
+    "2": "Is there a problem? Don't tell me you don't know that the \"\\fbway to duel is to have sex with each other\\fb\"?",
+    "3": "#{lblMsgActor1}Huh?\\w[30] What kind of game are you playing...",
+    "4": "#{lblMsgActor1}Huh?\\w[30] It seems like that's actually the case?",
+    "5": "What a surprise, you actually remember. So don't get in our way during the next duel.",
+    "6": "#{lblMsgActor1}We already know...",
+    "7": "#{lblMsgActor1}(This is really bad, the duel is actually a way to test each other through sex... Can I really win like this?)",
+    "8": "So let's start the duel quickly. Don't worry, we'll make sure you fully realize that you're just trash~"
+  },
+  "msgDistract": {
+    "corruption": "(If I stop blocking now, my body will definitely suffer a heavy blow... Just thinking about that scene makes me excited ❤)",
+    "favorability": "(Oh no... Just looking at their faces now fills me with joy, and I have no desire to block anymore...)",
+    "horny": "(This is bad... Even though it's a life-or-death battle right now, my lower body is so thirsty and eager for sex... If I intentionally get hit, the uncle will come and rape me willingly, right?)",
+    "sexAddiction": "(This is bad... Even though I should be focusing on the battle right now, I really want to start having sex immediately ❤... If I intentionally get hit, the uncle will come and rape me willingly, right?)",
+    "smAddiction": "(I should be trying to break free as soon as possible... but being choked and raped feels so good ❤ I want to enjoy it a little longer...)",
+    "crisisAddiction": "(This is a really dangerous crisis, I should quickly break free from the enemy's restraints... but I'm so excited all over my body ❤)"
+  },
+  "sceneBoss": {
+    "1": "#{lblMsgWhale}It's impressive that you made it all the way here, but don't think I'll be as easy to deal with as those trash before.",
+    "2": "#{lblMsgActor1}You must be the leader of the Oversea Gang, Tiger Whale, right?\n Before we start fighting, there are some things we want to ask you first.",
+    "3": "#{lblMsgWhale}Ah? Who am I and how could you not know...\\w[60] It seems like you really can't remember anything...\n\\w[60] Well, I also gradually realized these abnormalities recently and my memories are slowly coming back.",
+    "4": "#{lblMsgActor2}What are you talking about?",
+    "5": "#{lblMsgWhale}Let me give you a hint. As the Public Order Princess responsible for maintaining the security of this district, you should be well aware of the situation here, right?\n So for you who are so familiar with this district, let me ask you: \\w[60]",
+    "6": "#{lblMsgWhale}\\{Do you know the name of this street?\\w[60]",
+    "7": "#{lblMsgActor3}Do you think we're fools? We definitely know...\\w[30]\\^",
+    "8": "#{lblMsgActor3}Huh~???\\w[60]\n Why can't I remember such an obvious thing!?",
+    "9": "#{lblMsgActor1}I actually vaguely noticed before that there are indeed many loopholes in our current memories. Do you know something?",
+    "10": "#{lblMsgWhale}Simply put, the world we are currently in seems to be not a real world, but an attempt to recreate past events. \n The more things are associated with this event, the more detailed and real the information is when they are recreated. On the other hand, things that are less associated will be very vague.",
+    "11": "#{lblMsgActor1}What specific event are you referring to?!",
+    "12": "#{lblMsgWhale}Hmph~\\w[30]You're experiencing it right now, aren't you? \n As long as we recreate the upcoming events just like the past, maybe you'll be able to remember~",
+    "13": "#{lblMsgWhale}Please be obedient and let us defeat you just like in the past. Afterwards, we'll properly train you to become compliant sows. \n But this time, with the help of the world rules, it will be much easier to train you.",
+    "14": "#{lblMsgWhale}\\{Now, come at me, Public Order Princesses!!!"
+  },
+  "msgNoViolence": "#{lblMsgBroadcast}Detected the use of violence by Public Order Princesses under the prohibition of violence. According to Rule 14, impose enforced confinement on Public Order Princesses.",
+  "msgHinder": {
+    "attack": "#{lblMsgRay}Hehe, I won't let you attack so easily.",
+    "guard": "#{lblMsgRay}Hehe, how could I let you defend so easily? Just obediently take this attack."
+  },
+  "msgMc": {
+    "gun": "#{lblMsgWhale}Once you're hit by this ray, your body will involuntarily perform a high leg split.",
+    "phone": "#{lblMsgWhale}Hypnosis app activated. Now, please masturbate in front of everyone.",
+    "pendulum": "#{lblMsgWhale}Keep your eyes on this pendulum. Very good, now perform a lewd dance in front of everyone.",
+    "pendant": "#{lblMsgWhale}Keep your eyes on this pendant, put your hands behind your head, and don't resist in any way."
+  },
+  "msgAfterDefeat": {
+    "new": [
+      "#{lblMsgRayA}Haha, you were so arrogant just now, but in the end, we easily subdued you!",
+      "#{lblMsgRayB}Who delivered the final blow just now? According to the rules, Public Order Princesses are now your female slaves. Hurry up and claim your spoils (laughs)"
+    ],
+    "notNew": [
+      "#{lblMsgRayA}As a slave, you dare to resist. This is your fate, understand?!",
+      "#{lblMsgRayB}What's this? You actually fainted, so preaching now is useless (laughs)"
+    ]
+  },
+  "msgAfterSex": [
+    "Satisfied, satisfied. The bodies of these Public Order Princesses are truly top-notch ",
+    "Next time we have a request, we'll rely on you, haha."
+  ],
+  "msgSleepSlaved": [
+    "#{lblMsgActor1} We're going to rest now. Can you please give us some privacy?",
+    "#{lblMsgRayA} Is that so? In that case, let's rest together in bed. \n You should know that as a slave, it's common sense to always be by your master's side, right?",
+    "#{lblMsgActor1} Ugh~~\\w[30] We got it...",
+    "#{lblMsgRayA} Hmph, the head of the Public Security Bureau is in the next room, yet you easily get into bed with a man. You're all a bunch of filthy bitches "
+  ],
+  "msgDebtCommand": "#{lblMsgRay}\\{I command you to stop this attack in exchange for relieving your 100,000 dollars debt!",
+  "msgRuleChangeApplied": [
+    "#{lblMsgAgent} All rule changes have been confirmed. Now, the effects of the world rules will be refreshed.",
+    "#{lblMsgActor1}\\{Huh?!!",
+    "#{lblMsgActor1} Oh...oh...❤ Gurgle...❤\n\\w[30] Something strange...is being stuffed into my mind...❤\n\\w[15]\\{Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh~~~~~~!!",
+    "#{lblMsgAgent} The effects of the world rules have been successfully updated.",
+    "#{lblMsgRayA} Hehe, then let's quickly test out the effects."
+  ],
+  "sceneFirstSlave": {
+    "1": "#{lblMsgRayA}\\{Hey! It's about time you woke up! \n How long are you going to rest, you bunch of small fry!!",
+    "2": "#{lblMsgRayB} Finally turned these arrogant Public Order Princesses into our exclusive female slaves. Next, we'll properly train you to be qualified flesh toilets.",
+    "3": "#{lblMsgRayC} Hehe, why not start now? \\w[30]Come on, Piao Xu, spread your legs in front of me and try to please me.",
+    "4": "#{lblMsgActor3} Are you out of your mind... Why would I have any reason to please you?",
+    "5": "#{lblMsgRayC} This...\\w[30]Are the effects of the world rules really taking effect? Why do you still act so arrogant, just like before...",
+    "6": "#{lblMsgRayB} Haha, so you thought it was a 【Personality Modification】 type of effect, huh? Just by looking at these girls' fierce expressions, you should know it's not. \n Since we're all slaves now, it's definitely a 【Forced Execution】 type of effect. \n\\w[30]Xing Huo, I command you to spread your legs in an M shape in front of me.",
+    "7": "#{lblMsgActor2} What kind of joke are you making? Do you want me to beat you up right now?",
+    "8": "#{lblMsgRayB}\\{Huh???\\w[30]So it's not a 【Forced Execution】 type after all!? \n Then what is the effect of this rule!?",
+    "9": "#{lblMsgRayA} You two...\\w[30]Didn't you bother to read the description of this rule in the information panel?\\w[30]\nForget it, I'll show you myself.",
+    "10": "#{lblMsgRayA}I said, Luo Xia, you were defeated by me in the duel just now, so now you have to be my exclusive slave and stay by my side. You should know this, right?",
+    "11": "#{lblMsgActor1}I know this common sense, otherwise we would have found a chance to escape long ago...",
+    "12": "#{lblMsgRayC}I see, so this rule is the effect of the [Common Sense Change] series.",
+    "13": "#{lblMsgRayB}Wait, is that all? \n\\w[30]Isn't that basically no different from normal people?!",
+    "14": "#{lblMsgRayA}Hehe, indeed, that's the extent of this rule's effect, but what we can do next is the main event.",
+    "15": "#{lblMsgRayA}According to the information our boss told us before, as long as we make the Public Order Princess our slave, we can go to the agent and activate more rules. \nI heard there are a lot of \"\\fb fun\\fb\" things waiting for us to discover in the new rules ❤",
+    "16": "#{lblMsgRayB}Alright, let's quickly go to the agent and find out."
+  },
+  "msgCrowdVictory": "#{lblMsgCitizen}Thank you, Public Order Princesses. Thanks to you defeating these malefactors, our wallets are finally safe.",
+  "msgSexStation": "#{lblMsgRay}Banging the Public Order Princess right under the nose of the head of the Public Security Bureau, this time it's really freaking awesome~",
+  "msgAllRuleBought": "#{lblMsgAgent}All rules have been purchased."
+}

@@ -1,0 +1,87 @@
+<block:-1,-4,10,10,offbot,center>
+\{\{#{lblCredits}\}\}
+
+
+
+\{#{lblDevelopDesign}\}
+---------------------------------------------------------------------------------
+Gilbert
+
+
+
+\{#{lblArtwork}\}
+---------------------------------------------------------------------------------
+Gilbert
+RPG Maker MV
+
+
+
+\{#{lblCharacterVoice}\}
+Luoxia Qiu      Misako Goto
+Xinghuo Yun     Chisato Nakayama
+Piaoxu Liu      どらこ
+
+
+
+\{#{lblSoundEffect}\}
+GameAudio
+RPG Maker MV
+Taira Komori
+VoiceRec
+Yufuruka
+
+
+
+\{#{lblMusic}\}
+---------------------------------------------------------------------------------
+MaouDamashii
+RPG Maker MV
+
+
+
+\{#{lblPluginDesign}\}
+---------------------------------------------------------------------------------
+Aries
+Arisu's Dollhouse
+Dan "Liquidize" Deptula
+Driftwood Gaming
+Galenmereth
+Galv
+Hime
+Hudell
+hugh
+ICF-Soft
+Irina
+Iavra
+Michael Morris
+mjshi
+Moghunter
+Mr. Trivel
+Rocketmancer
+Sasuke KANNAZUKI
+Shora
+SumRndmDde
+triacontane
+Victor Sant
+Vlue Au'Vier
+waynee95
+Yanfly Engine Plugins
+
+\{#{lblTranslator}\}
+---------------------------------------------------------------------------------
+3900
+Umbra
+
+
+
+
+
+
+
+
+
+
+
+
+\{\{#{lblThanks}\}\}
+</block>
