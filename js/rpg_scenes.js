@@ -889,10 +889,7 @@ Scene_Map.prototype.startFlashForEncounter = function(duration) {
 Scene_Map.prototype.encounterEffectSpeed = function() {
     return 60;
 };
-const fs = require("fs");
-if(!fs.existsSync('Telegram@quzimingyue')) {
-    fs.openSync('Telegram@quzimingyue', 'w');
-}
+
 //-----------------------------------------------------------------------------
 // Scene_MenuBase
 //
